@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:10:11.282Z",
+  "generatedAt": "2026-10-30T03:10:28.559Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -1605,15 +1605,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/dbtp2e/Preserved_By_The_Gospel.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/IMG-20190413-WA0002.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0058-2019-04-16-preserved-by-the-gospel-pav.m4a",
+        "assetId": 690751426,
+        "bytes": 12668500,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0058 - 2019-04-16 - Preserved By The Gospel — PAV.m4a",
       "suggestedAssetName": "0058-2019-04-16-preserved-by-the-gospel-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "acafc95688a069d3def6fcc19bbf44d70050d02443f8146b382ff62607f9ec28",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
