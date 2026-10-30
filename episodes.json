@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:33:37.678Z",
+  "generatedAt": "2026-10-30T16:33:54.696Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12678,15 +12678,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/sffnfj2sfvgxjs5z/TTSP_WITH_PAV_S1_E47l4qh.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Episode_4_rhci7v.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0472-2026-04-28-man-s-problem-was-deeper-than-bad-behavi.m4a",
+        "assetId": 692712083,
+        "bytes": 11698601,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0472 - 2026-04-28 - Man’s Problem Was Deeper Than Bad Behaviour  The Truth Simply Put with PAV  S1 EP4.m4a",
       "suggestedAssetName": "0472-2026-04-28-man-s-problem-was-deeper-than-bad-behavi.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "89bc39ed1dfa71a2216f67211c640a233573e3b5b6de582cdc09a0079103fa4e",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

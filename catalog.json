@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:33:37.685Z",
-  "totalEpisodes": 169,
+  "updatedAt": "2026-10-30T16:33:54.704Z",
+  "totalEpisodes": 170,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0472-7b0add8c",
+      "number": 472,
+      "title": "Man’s Problem Was Deeper Than Bad Behaviour || The Truth Simply Put with PAV || S1 EP4",
+      "date": "2026-04-28",
+      "year": 2026,
+      "durationSeconds": 1400,
+      "bytes": 11698601,
+      "description": "Why did humanity need redemption in the first place? || The Truth Simply Put with PAV [As Broadcast on Radio] In Episode 4 of The Truth Simply Put with PAV, Alexander Victor takes the next necessary step in unfolding the Gospel by dealing with the human problem that made redemption necessary. Humani",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0472-2026-04-28-man-s-problem-was-deeper-than-bad-behavi.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/89bc39ed1dfa71a2216f67211c640a233573e3b5b6de582cdc09a0079103fa4e.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/89bc39ed1dfa71a2216f67211c640a233573e3b5b6de582cdc09a0079103fa4e.webp"
+    },
     {
       "id": "0471-203a4013",
       "number": 471,
