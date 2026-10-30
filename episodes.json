@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T22:30:41.808Z",
+  "generatedAt": "2026-10-30T22:31:10.712Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -7854,15 +7854,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/p5ccjf/Scripted_-_The_God_Storyb35hx.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Scripted_-_The_God_Storybcw9u.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2023",
+        "assetName": "0271-2023-04-28-scripted-the-god-story-gboyega-adebayo.m4a",
+        "assetId": 693616067,
+        "bytes": 28098094,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0271 - 2023-04-28 - Scripted The God Story — Gboyega Adebayo.m4a",
       "suggestedAssetName": "0271-2023-04-28-scripted-the-god-story-gboyega-adebayo.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "d55e7a4f540eeab031523b7572341b99b2cd3aa2e24da9b457bbef8df0d1d14b",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

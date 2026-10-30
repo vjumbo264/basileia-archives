@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:30:41.814Z",
-  "totalEpisodes": 233,
+  "updatedAt": "2026-10-30T22:31:10.719Z",
+  "totalEpisodes": 234,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -839,6 +839,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0272-2023-05-03-life-of-victory-encore-stephenie-benjami.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/221fab153480085f758a6e752d3485ab73f60102a64c6e11dd0a126b9ad0cc10.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/221fab153480085f758a6e752d3485ab73f60102a64c6e11dd0a126b9ad0cc10.webp"
+    },
+    {
+      "id": "0271-32be17a4",
+      "number": 271,
+      "title": "Scripted: The God Story — Gboyega Adebayo",
+      "date": "2023-04-28",
+      "year": 2023,
+      "durationSeconds": 3430,
+      "bytes": 28098094,
+      "description": "All of the scriptures tell the story of One, we cannot take credit for anything written, but to us has been given the Spirit of God by which we unpack His will from what was written. In this teaching, Pastor Gboyega Adebayo delves a little into the story of God, as scripted by God. Let the scripture",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0271-2023-04-28-scripted-the-god-story-gboyega-adebayo.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/d55e7a4f540eeab031523b7572341b99b2cd3aa2e24da9b457bbef8df0d1d14b.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/d55e7a4f540eeab031523b7572341b99b2cd3aa2e24da9b457bbef8df0d1d14b.webp"
     },
     {
       "id": "0266-cf272fe5",
