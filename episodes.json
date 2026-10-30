@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T20:49:10.708Z",
+  "generatedAt": "2026-10-30T20:49:34.526Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -13206,15 +13206,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/bp7892bib5pid2yq/Don_t_Be_Blinded_By_Truth_Part_3_6spdg.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0489-2026-07-18-don-t-be-blinded-by-truth-don-t-delete-t.m4a",
+        "assetId": 693383456,
+        "bytes": 19119122,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0489 - 2026-07-18 - Don't Be Blinded By Truth; Don't Delete Truth [Part 3] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0489-2026-07-18-don-t-be-blinded-by-truth-don-t-delete-t.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
