@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:22:38.624Z",
+  "generatedAt": "2026-10-30T03:22:51.367Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2133,15 +2133,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/u22t3e/He_Swapped_It_Exploring_The_Great_Exchange_Pt_16_PAV.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/16.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0077-2019-09-16-he-swapped-it-exploring-the-great-exchan.m4a",
+        "assetId": 690779145,
+        "bytes": 6987037,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0077 - 2019-09-16 - He Swapped It! [Exploring The Great Exchange, Part 16] — PAV.m4a",
       "suggestedAssetName": "0077-2019-09-16-he-swapped-it-exploring-the-great-exchan.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "fcf24e77133d5b74a7a9521b751d4474e6c4716e5f865a8c9e58f98af1bc445e",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
