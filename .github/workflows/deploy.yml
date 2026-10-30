@@ -1,21 +1,21 @@
-name: Deploy Cloudflare Worker
+name: Deploy Cloudflare Static Site
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'worker/**'
-      - 'wrangler.toml'
       - 'src/**'
       - 'index.html'
       - 'package.json'
+      - 'wrangler.toml'
+      - 'worker/**'
       - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
 jobs:
   deploy:
-    name: Deploy to Cloudflare Workers
+    name: Deploy to Cloudflare
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -32,7 +32,7 @@ jobs:
       - name: Build Frontend
         run: npm run build
 
-      - name: Deploy Worker
+      - name: Deploy to Cloudflare
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}

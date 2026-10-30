@@ -1,7 +1,8 @@
-name = "pav-podcast"
+name = "basileia-archives"
 main = "worker/index.ts"
 compatibility_date = "2024-04-01"
 compatibility_flags = ["nodejs_compat"]
 
-[vars]
-PASSWORD_ENABLED = "true"
+[assets]
+directory = "./dist"
+binding = "ASSETS"

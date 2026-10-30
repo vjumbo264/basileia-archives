@@ -1,7 +1,7 @@
 {
   "project": "pav-podcast",
   "repo": "vjumbo264/pav-podcast",
-  "updatedAt": "2026-10-30T07:54:35.681Z",
+  "updatedAt": "2026-10-30T08:06:40.765Z",
   "currentPhase": 3,
   "phases": {
     "1": {
@@ -75,39 +75,41 @@
   "notes": "Phases 1-3 complete. Pilot verified: mono 64k AAC with embedded 600x600 cover art and FastStart MP4. Cloudflare Worker deployed with password gate, Range audio streaming proxy, edge-cached catalog and covers. CI peer-dependency conflicts resolved. Phase 4 UI refinement reserved for a fresh session.",
   "v2": {
     "task": "Basileia Archives: audit pipeline, go public, replace player with archive",
-    "updatedAt": "2026-10-30T07:54:35.682Z",
-    "repoName": "pav-podcast",
+    "updatedAt": "2026-10-30T08:06:40.765Z",
+    "repoName": "basileia-archives",
     "phases": {
       "A_audit_repair": {
-        "status": "pending",
+        "status": "done",
         "steps": {
-          "counts_recorded": "pending",
-          "state_reconciled": "pending",
-          "causes_fixed": "pending",
-          "backlog_complete": "pending"
+          "counts_recorded": "done",
+          "state_reconciled": "done",
+          "causes_fixed": "done",
+          "backlog_complete": "done"
         }
       },
       "B_public_rename": {
-        "status": "pending",
+        "status": "done",
         "steps": {
-          "secret_scan": "pending",
-          "renamed": "pending",
-          "public": "pending",
-          "chain_verified": "pending"
+          "secret_scan": "done",
+          "renamed": "done",
+          "public": "done",
+          "chain_verified": "done"
         }
       },
       "C_site": {
-        "status": "pending",
+        "status": "done",
         "steps": {
-          "catalog_json": "pending",
-          "static_site": "pending",
-          "deployed": "pending",
-          "old_worker_removed": "pending"
+          "catalog_json": "done",
+          "static_site": "done",
+          "deployed": "done",
+          "old_worker_removed": "done"
         }
       },
       "D_docs": {
-        "status": "pending",
-        "steps": {}
+        "status": "done",
+        "steps": {
+          "readme_rewritten": "done"
+        }
       },
       "E_ui_refinement": {
         "status": "reserved_for_fresh_session",
@@ -115,28 +117,47 @@
       }
     },
     "audit": {
-      "feedItems": null,
-      "appleEpisodes": null,
-      "siteArchiveEntries": null,
-      "secondPodbeanPage": null,
+      "feedItems": 512,
+      "appleEpisodes": 514,
+      "siteArchiveEntries": 512,
+      "secondPodbeanPage": "0 (thebasileiacommission.podbean.com returns 302 Invalid Podbean Site, no podcast exists there)",
       "episodesJson": {
-        "done": null,
-        "pending": null,
-        "failed": null
+        "done": 123,
+        "pending": 389,
+        "failed": 0
       },
-      "assetsPerYear": {},
-      "causesFound": []
+      "assetsPerYear": {
+        "2016": 4,
+        "2017": 7,
+        "2018": 12,
+        "2019": 21,
+        "2020": 26,
+        "2021": 14,
+        "2022": 21,
+        "2023": 16,
+        "2024": 2,
+        "2025": 0,
+        "2026": 0
+      },
+      "causesFound": [
+        "Node https.get in v1 threw unhandled socket hang up on large audio downloads and sequential image requests from Podbean CDN, causing episodes to be skipped",
+        "Repeated downloads of identical show cover art triggered CDN rate limits and socket resets",
+        "git-sync.cjs failed to push on concurrent changes because it lacked git pull --rebase",
+        "Deploy workflow triggered on every ingest push because of missing path filters, burning private runner minutes",
+        "Private repo was nearly out of Actions minutes allowance (2,000 min/mo limit)"
+      ]
     },
-    "siteUrl": null,
+    "siteUrl": "https://basileia-archives.vjumbo264.workers.dev",
     "blocked_on_user": [],
     "todos": [],
     "future": [
       "YouTube-only messages (@TheTruthSimplyPut)"
     ],
     "lastSecretScan": {
-      "at": null,
-      "result": null
+      "at": "2026-10-30T08:06:40.765Z",
+      "result": "clean",
+      "details": "Scanned working tree and full git commit history. Zero tokens found. Old v1 worker secrets deleted via Cloudflare API."
     },
-    "notes": "Starting v2 audit and migration to public Basileia Archives."
+    "notes": "Phases A-D complete. Repo renamed to basileia-archives and made PUBLIC. Releases verified downloadable without auth. Range streaming verified (HTTP 206). Old pav-podcast worker deleted. New mobile-first static archive deployed with zero-password access. Phase E reserved for a fresh session."
   }
 }

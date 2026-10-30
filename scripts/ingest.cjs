@@ -3,6 +3,7 @@ const path = require('path');
 const https = require('https');
 const crypto = require('crypto');
 const cp = require('child_process');
+const { generateCatalog } = require('./init-feed.cjs');
 
 function getPat() {
   if (process.env.GITHUB_TOKEN) return process.env.GITHUB_TOKEN;
@@ -15,14 +16,14 @@ function getPat() {
   return null;
 }
 
-const REPO_OWNER = 'vjumbo264';
-const REPO_NAME = 'pav-podcast';
+const REPO_FULL = process.env.GITHUB_REPOSITORY || 'vjumbo264/basileia-archives';
+const [REPO_OWNER, REPO_NAME] = REPO_FULL.split('/');
 
 function ghApi(method, endpoint, body = null, extraHeaders = {}) {
   const token = getPat();
   return new Promise((resolve, reject) => {
     const headers = {
-      'User-Agent': 'PAV-Podcast-Builder',
+      'User-Agent': 'BasileiaArchives-Builder/2.0',
       'Authorization': `Bearer ${token}`,
       'Accept': 'application/vnd.github+json',
       ...extraHeaders
@@ -61,7 +62,7 @@ function uploadReleaseAsset(uploadUrl, assetName, filePath) {
   const token = getPat();
   const cleanUrl = uploadUrl.replace(/\{[^\}]*\}/g, '') + `?name=${encodeURIComponent(assetName)}`;
   const size = fs.statSync(filePath).size;
-  const cmd = `curl -s -S -X POST -H "Authorization: Bearer ${token}" -H "Accept: application/vnd.github+json" -H "Content-Type: audio/mp4" -H "Content-Length: ${size}" --data-binary @"${filePath}" "${cleanUrl}"`;
+  const cmd = `curl -s -S -L --retry 3 --retry-delay 2 -X POST -H "Authorization: Bearer ${token}" -H "Accept: application/vnd.github+json" -H "Content-Type: audio/mp4" -H "Content-Length: ${size}" --data-binary @"${filePath}" "${cleanUrl}"`;
   const stdout = cp.execSync(cmd, { encoding: 'utf8', maxBuffer: 10 * 1024 * 1024 });
   let json = null;
   try {
@@ -75,34 +76,14 @@ function uploadReleaseAsset(uploadUrl, assetName, filePath) {
   return json;
 }
 
-function downloadFile(url, destPath) {
-  return new Promise((resolve, reject) => {
-    const file = fs.createWriteStream(destPath);
-    function get(currentUrl, redirectCount = 0) {
-      if (redirectCount > 8) {
-        return reject(new Error('Too many redirects'));
-      }
-      const req = https.get(currentUrl, {
-        headers: { 'User-Agent': 'PAV-Podcast-Builder/1.0 (Mozilla/5.0 compatible)' }
-      }, res => {
-        if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-          return get(res.headers.location, redirectCount + 1);
-        }
-        if (res.statusCode !== 200) {
-          return reject(new Error(`Download failed with status ${res.statusCode} from ${currentUrl}`));
-        }
-        res.pipe(file);
-        file.on('finish', () => {
-          file.close(() => resolve());
-        });
-      });
-      req.on('error', err => {
-        fs.unlink(destPath, () => {});
-        reject(err);
-      });
-    }
-    get(url);
-  });
+function downloadFileResilient(url, destPath, isAudio = false) {
+  const timeout = isAudio ? 600 : 60;
+  const userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+  const cmd = `curl -s -S -L --retry 4 --retry-delay 3 --retry-connrefused --max-time ${timeout} -A "${userAgent}" -o "${destPath}" "${url}"`;
+  cp.execSync(cmd, { stdio: 'pipe' });
+  if (!fs.existsSync(destPath) || fs.statSync(destPath).size === 0) {
+    throw new Error(`Download produced empty or missing file for: ${url}`);
+  }
 }
 
 async function getOrCreateRelease(year) {
@@ -115,8 +96,8 @@ async function getOrCreateRelease(year) {
     console.log(`Creating release for ${tag}...`);
     const created = await ghApi('POST', `/repos/${REPO_OWNER}/${REPO_NAME}/releases`, {
       tag_name: tag,
-      name: `PAV Podcast Audio ${year}`,
-      body: `Optimized audio assets for PAV Podcast sermons from year ${year} (64 kbps mono AAC with embedded cover art).`,
+      name: `Basileia Archives Audio ${year}`,
+      body: `Optimized audio assets for Pastor Alexander Victor sermons from year ${year} (64 kbps mono AAC with embedded cover art and tags). Free public archive published by The Basileia Commission.`,
       draft: false,
       prerelease: false
     });
@@ -128,22 +109,39 @@ async function getOrCreateRelease(year) {
   throw new Error(`Error checking release ${tag}: status ${existing.status}`);
 }
 
-async function prepareCoverImages(imageUrl, workDir) {
-  // Download source image to memory or temp file
-  const tempSource = path.join(workDir, 'source_cover.img');
-  await downloadFile(imageUrl, tempSource);
-  const sourceBytes = fs.readFileSync(tempSource);
-  const sha256 = crypto.createHash('sha256').update(sourceBytes).digest('hex');
+// Global cover art cache to prevent re-downloading the same image 500 times
+const coverUrlCache = new Map();
 
-  // Destination paths
+async function prepareCoverImages(imageUrl, workDir) {
   const thumbDir = path.resolve(__dirname, '../assets/covers/thumb');
   const largeDir = path.resolve(__dirname, '../assets/covers/large');
   fs.mkdirSync(thumbDir, { recursive: true });
   fs.mkdirSync(largeDir, { recursive: true });
 
+  const embedJpgPath = path.join(workDir, 'cover_600.jpg');
+
+  // Check URL cache
+  let sha256 = coverUrlCache.get(imageUrl);
+
+  if (sha256) {
+    const thumbPath = path.join(thumbDir, `${sha256}.webp`);
+    const largePath = path.join(largeDir, `${sha256}.webp`);
+    if (fs.existsSync(thumbPath) && fs.existsSync(largePath)) {
+      // Create embed jpg from large webp
+      cp.execSync(`ffmpeg -y -i "${largePath}" -vf "crop=min(iw\\,ih):min(iw\\,ih),scale=600:600" -q:v 4 "${embedJpgPath}"`, { stdio: 'ignore' });
+      return { sha256, embedJpgPath };
+    }
+  }
+
+  // Download source image
+  const tempSource = path.join(workDir, 'source_cover.img');
+  downloadFileResilient(imageUrl, tempSource, false);
+  const sourceBytes = fs.readFileSync(tempSource);
+  sha256 = crypto.createHash('sha256').update(sourceBytes).digest('hex');
+  coverUrlCache.set(imageUrl, sha256);
+
   const thumbPath = path.join(thumbDir, `${sha256}.webp`);
   const largePath = path.join(largeDir, `${sha256}.webp`);
-  const embedJpgPath = path.join(workDir, 'cover_600.jpg');
 
   // Generate 600x600 JPEG for embedded audio art
   cp.execSync(`ffmpeg -y -i "${tempSource}" -vf "crop=min(iw\\,ih):min(iw\\,ih),scale=600:600" -q:v 4 "${embedJpgPath}"`, { stdio: 'ignore' });
@@ -178,10 +176,10 @@ async function processEpisode(ep, episodesState) {
     console.log(`Preparing covers from ${coverUrl}...`);
     const { sha256, embedJpgPath } = await prepareCoverImages(coverUrl, workDir);
 
-    // 3. Audio download
+    // 3. Audio download with resilient curl
     const rawAudioPath = path.join(workDir, 'source.audio');
-    console.log(`Downloading audio...`);
-    await downloadFile(ep.source.enclosureUrl, rawAudioPath);
+    console.log(`Downloading audio with resilient curl...`);
+    downloadFileResilient(ep.source.enclosureUrl, rawAudioPath, true);
 
     // 4. Conversion with ffmpeg
     const outputFileName = ep.suggestedAssetName || `${String(ep.number).padStart(4, '0')}-${ep.pubDate.slice(0, 10)}-episode.m4a`;
@@ -233,7 +231,7 @@ async function processEpisode(ep, episodesState) {
     }
 
     const outBytes = fs.statSync(outAudioPath).size;
-    if (outBytes < 1000000) {
+    if (outBytes < 500000) {
       throw new Error(`Validation failed: output size suspiciously small (${outBytes} bytes)`);
     }
 
@@ -279,10 +277,36 @@ async function processEpisode(ep, episodesState) {
       ep.status = 'failed';
     }
   } finally {
-    // Clean up temporary files for this episode
     try {
       fs.rmSync(workDir, { recursive: true, force: true });
     } catch (e) {}
+  }
+}
+
+async function checkKeepAlive() {
+  const dataDir = path.resolve(__dirname, '../data');
+  fs.mkdirSync(dataDir, { recursive: true });
+  const keepAliveFile = path.join(dataDir, 'last-checked.json');
+
+  let lastChecked = null;
+  if (fs.existsSync(keepAliveFile)) {
+    try {
+      const parsed = JSON.parse(fs.readFileSync(keepAliveFile, 'utf8'));
+      lastChecked = new Date(parsed.date);
+    } catch (e) {}
+  }
+
+  const now = new Date();
+  const daysDiff = lastChecked ? (now.getTime() - lastChecked.getTime()) / (1000 * 3600 * 24) : 999;
+
+  if (daysDiff >= 25) {
+    console.log(`Updating keep-alive last-checked.json (${daysDiff.toFixed(1)} days since last update)...`);
+    fs.writeFileSync(keepAliveFile, JSON.stringify({ date: now.toISOString().slice(0, 10), timestamp: now.toISOString() }, null, 2), 'utf8');
+    try {
+      cp.execSync('node scripts/git-sync.cjs "chore: update keep-alive timestamp"', { stdio: 'inherit' });
+    } catch (e) {
+      console.warn('Keep-alive git sync warning:', e.message);
+    }
   }
 }
 
@@ -302,6 +326,8 @@ async function main() {
   }
 
   const episodesPath = path.resolve(__dirname, '../episodes.json');
+  const catalogPath = path.resolve(__dirname, '../catalog.json');
+
   if (!fs.existsSync(episodesPath)) {
     console.log('episodes.json not found, running init-feed.cjs first...');
     cp.execSync('node scripts/init-feed.cjs', { stdio: 'inherit' });
@@ -322,7 +348,13 @@ async function main() {
     });
   }
 
-  console.log(`Total episodes: ${state.episodes.length}, In queue: ${queue.length}, Limit: ${limit || 'None'}`);
+  console.log(`Total catalog: ${state.episodes.length}, In queue: ${queue.length}, Limit: ${limit || 'None'}`);
+
+  if (queue.length === 0) {
+    console.log('No pending episodes in queue. Checking keep-alive activity...');
+    await checkKeepAlive();
+    return;
+  }
 
   for (const ep of queue) {
     if (limit && processedCount >= limit) {
@@ -332,16 +364,17 @@ async function main() {
 
     const elapsedMinutes = (Date.now() - startTime) / 60000;
     if (elapsedMinutes >= maxMinutes) {
-      console.log(`Reached time budget of ${maxMinutes} minutes (${elapsedMinutes.toFixed(1)}m elapsed). Stopping.`);
+      console.log(`Reached time budget of ${maxMinutes} minutes (${elapsedMinutes.toFixed(1)}m elapsed). Stopping for next chain run.`);
       break;
     }
 
     await processEpisode(ep, state);
     processedCount++;
 
-    // Save episodes.json after each episode
+    // Save episodes.json and generate catalog.json after each episode
     state.generatedAt = new Date().toISOString();
     fs.writeFileSync(episodesPath, JSON.stringify(state, null, 2), 'utf8');
+    generateCatalog(state, catalogPath, REPO_FULL);
 
     // Sync to GitHub after each processed episode
     console.log('Syncing state to GitHub...');

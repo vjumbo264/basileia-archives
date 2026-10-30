@@ -11,7 +11,7 @@ on:
         required: false
         default: ''
       reprocess_failed:
-        description: 'Reprocess episodes marked as failed'
+        description: 'Reprocess episodes marked as failed or with prior errors'
         required: false
         type: boolean
         default: false
@@ -46,10 +46,10 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install ffmpeg
+      - name: Install ffmpeg & curl
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          sudo apt-get install -y ffmpeg curl
 
       - name: Configure Git Author
         run: |
@@ -57,6 +57,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Update & Merge RSS Feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           node scripts/init-feed.cjs
 
@@ -86,7 +88,7 @@ jobs:
             const failed = state.episodes.filter(e => e.status === "failed").length;
             const total = state.episodes.length;
             const summary = [
-              "## PAV Podcast Ingestion Summary",
+              "## Basileia Archives Ingestion Summary",
               `* **Total Episodes in Catalog**: ${total}`,
               `* **Completed (Mono AAC 64k)**: ${done}`,
               `* **Pending Ingestion**: ${pending}`,

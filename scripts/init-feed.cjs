@@ -5,7 +5,11 @@ const path = require('path');
 
 function fetchUrl(url) {
   return new Promise((resolve, reject) => {
-    const req = https.get(url, { headers: { 'User-Agent': 'PAV-Podcast-Builder/1.0' } }, res => {
+    const req = https.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+      }
+    }, res => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         return fetchUrl(res.headers.location).then(resolve).catch(reject);
       }
@@ -58,7 +62,55 @@ function slugify(text) {
     .slice(0, 40) || 'episode';
 }
 
+function generateCatalog(episodesState, outputPath, repoFull) {
+  const [owner, repoName] = repoFull.split('/');
+  const doneEpisodes = episodesState.episodes
+    .filter(e => e.status === 'done' && e.audio && e.audio.assetName)
+    .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+
+  const episodes = doneEpisodes.map(ep => {
+    const audioUrl = `https://github.com/${owner}/${repoName}/releases/download/${ep.audio.releaseTag}/${ep.audio.assetName}`;
+    const sha = ep.cover?.sha256;
+    const coverThumbUrl = sha
+      ? `https://raw.githubusercontent.com/${owner}/${repoName}/main/assets/covers/thumb/${sha}.webp`
+      : ep.source?.imageUrl || episodesState.show.artwork;
+    const coverLargeUrl = sha
+      ? `https://raw.githubusercontent.com/${owner}/${repoName}/main/assets/covers/large/${sha}.webp`
+      : ep.source?.imageUrl || episodesState.show.artwork;
+
+    return {
+      id: ep.id,
+      number: ep.number,
+      title: ep.title,
+      date: ep.pubDate ? ep.pubDate.slice(0, 10) : '',
+      year: ep.year,
+      durationSeconds: ep.durationSeconds || 0,
+      bytes: ep.audio.bytes || 0,
+      description: (ep.description || '').replace(/\s+/g, ' ').trim().slice(0, 300),
+      audioUrl,
+      coverThumbUrl,
+      coverLargeUrl
+    };
+  });
+
+  const catalog = {
+    updatedAt: new Date().toISOString(),
+    totalEpisodes: episodes.length,
+    show: {
+      title: 'Basileia Archives',
+      subtitle: 'Messages by Pastor Alexander Victor',
+      author: episodesState.show?.author || 'The Basileia Commission',
+      artwork: episodesState.show?.artwork
+    },
+    episodes
+  };
+
+  fs.writeFileSync(outputPath, JSON.stringify(catalog, null, 2), 'utf8');
+  console.log(`Generated slim catalog.json with ${episodes.length} done episodes (${(fs.statSync(outputPath).size / 1024).toFixed(1)} KB)`);
+}
+
 async function main() {
+  const repoFull = process.env.GITHUB_REPOSITORY || 'vjumbo264/basileia-archives';
   const feedUrl = 'https://feed.podbean.com/thetruthsimplyput/feed.xml';
   console.log('Fetching feed from', feedUrl);
   const xml = await fetchUrl(feedUrl);
@@ -144,9 +196,9 @@ async function main() {
     const assetName = `${numPadded}-${dateStr}-${slug}.m4a`;
     const friendlyTitle = `${numPadded} - ${dateStr} - ${raw.title.replace(/[\\/:*?"<>|]/g, '')}.m4a`;
 
-    // Preserve existing status and audio metadata if already completed
+    // Preserve existing status and audio metadata if already completed and valid
     const existing = existingMap.get(raw.guid);
-    if (existing && existing.status === 'done' && existing.audio) {
+    if (existing && existing.status === 'done' && existing.audio && existing.audio.bytes > 0) {
       return {
         ...existing,
         number,
@@ -172,7 +224,7 @@ async function main() {
       friendlyDownloadName: friendlyTitle,
       suggestedAssetName: assetName,
       cover: {
-        sha256: null,
+        sha256: existing?.cover?.sha256 || null,
         hasOwn: raw.hasOwnCover
       },
       status: 'pending',
@@ -183,7 +235,8 @@ async function main() {
 
   const state = {
     show: {
-      title: showTitle,
+      title: 'Basileia Archives',
+      podcastTitle: showTitle,
       author: showAuthor,
       description: showDescription,
       artwork: showArtwork
@@ -195,11 +248,17 @@ async function main() {
 
   fs.writeFileSync(episodesPath, JSON.stringify(state, null, 2), 'utf8');
   console.log(`Successfully generated episodes.json with ${episodes.length} episodes!`);
-  console.log(`Oldest: #${episodes[0].number} - ${episodes[0].pubDate} - ${episodes[0].title}`);
-  console.log(`Newest: #${episodes[episodes.length - 1].number} - ${episodes[episodes.length - 1].pubDate} - ${episodes[episodes.length - 1].title}`);
+
+  // Generate catalog.json
+  const catalogPath = path.resolve(__dirname, '../catalog.json');
+  generateCatalog(state, catalogPath, repoFull);
 }
 
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+module.exports = { generateCatalog };
+
+if (require.main === module) {
+  main().catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
+}

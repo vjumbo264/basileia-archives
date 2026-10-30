@@ -1,9 +1,9 @@
-# PAV Podcast — Private Sermon Archive & Listening Site
+# Basileia Archives — Public Sermon Archive & Listening Site
 
-A private sermon archive and mobile-first streaming application for **"The Truth Simply Put — with PAV"** (publisher: The Basileia Commission), built for Victor (**MOTIONSALT**).
+A free, public, mobile-first sermon archive and listening application for **"The Truth Simply Put — with PAV"**, featuring the messages of **Pastor Alexander Victor ("PAV")**, published by **The Basileia Commission**, built for Victor (**MOTIONSALT**).
 
-- **GitHub Repository (Private)**: [`vjumbo264/pav-podcast`](https://github.com/vjumbo264/pav-podcast)
-- **Live Cloudflare Worker Site**: [`https://pav-podcast.vjumbo264.workers.dev`](https://pav-podcast.vjumbo264.workers.dev)
+- **GitHub Repository (Public)**: [`vjumbo264/basileia-archives`](https://github.com/vjumbo264/basileia-archives)
+- **Live Cloudflare Site**: [`https://basileia-archives.vjumbo264.workers.dev`](https://basileia-archives.vjumbo264.workers.dev)
 
 ---
 
@@ -12,97 +12,111 @@ A private sermon archive and mobile-first streaming application for **"The Truth
 ```
 Podbean RSS ──► GitHub Actions "ingest" (chained, resumable)
                   │  download → ffmpeg convert (mono AAC 64k + embedded art + tags)
-                  │  → upload to GitHub Release (one release per year: audio-YYYY)
+                  │  → upload to public GitHub Releases (one release per year: audio-YYYY)
                   │  → covers: generate web-optimised WebP (thumb 320x320 & large 800x800)
-                  └► commit episodes.json (state + metadata) to repo
+                  │  → commit episodes.json (full state) + catalog.json (slim public catalog)
+                  └► commits data/last-checked.json (keep-alive, at most once every 25–30 days)
 
-Browser ──► Cloudflare Worker (password gate)
-              ├ serves the mobile-first web app
-              ├ /api/episodes   (episodes.json, edge-cached)
-              ├ /cover/:id/:size (WebP covers)
-              └ /audio/:id      (Range-capable streaming proxy for private release assets; ?download=1 for downloads)
+Browser ──► Static Site "Basileia Archives" (Cloudflare Workers Static Assets / Pages)
+              ├ fetches catalog.json directly from public repo or CDN (cross-origin, zero proxy)
+              ├ <audio controls> streams directly from public GitHub release asset URLs
+              ├ Download button → triggers direct download from GitHub release asset URL
+              └ (Optional contingency proxy route /api/audio-proxy for strict clients like Safari)
 ```
 
 ---
 
-## 2. Audio Conversion Specification
+## 2. Phase A Audit Findings & Reconciled Numbers
 
-Every sermon in the 512-episode catalog is converted using `ffmpeg` to:
+During the v2 pipeline audit, all sources and release assets were audited and verified:
+
+| Source / Metric | Count | Details & Notes |
+| :--- | :--- | :--- |
+| **Podbean Main RSS Feed** | **512 items** | Clean XML feed from 2016 to 2026. All 512 parsed successfully. |
+| **Apple Podcasts (iTunes)** | **514 tracks** | Apple caches 2 historical/draft entries; feedUrl points to the same Podbean feed. |
+| **Podbean Web Archive** | **512 episodes** | Mirrored across `thetruthsimplyput.podbean.com`. |
+| **Second Podbean Page** | **0 / Invalid** | `thebasileiacommission.podbean.com` redirects to Podbean login with "Invalid Podbean Site(2)" error. No extra messages exist there. |
+| **Current Episodes State** | **512 total** | 123 completed, 389 pending, 0 failed. |
+| **GitHub Release Assets** | **123 assets** | Exactly 123 non-zero audio assets matched across tags `audio-2016` through `audio-2024`. |
+
+### Breakdown by Year (Feed vs Ingested):
+- **2016**: 5 in feed (4 completed, 1 pending)
+- **2017**: 8 in feed (7 completed, 1 pending)
+- **2018**: 33 in feed (12 completed, 21 pending)
+- **2019**: 38 in feed (21 completed, 17 pending)
+- **2020**: 55 in feed (26 completed, 29 pending)
+- **2021**: 53 in feed (14 completed, 39 pending)
+- **2022**: 63 in feed (21 completed, 42 pending)
+- **2023**: 61 in feed (16 completed, 45 pending)
+- **2024**: 66 in feed (2 completed, 64 pending)
+- **2025**: 67 in feed (0 completed, 67 pending)
+- **2026**: 63 in feed (0 completed, 63 pending)
+
+### Why 2024 (and other years) had pending messages:
+1. **Flaky Node HTTPS Downloads**: The v1 pipeline used Node's basic `https.get` without retries, keepalive, or timeouts. When downloading multi-megabyte audio files or repeating downloads of the same cover image, Podbean's CDN closed idle connections with `socket hang up`. The loop caught the error and skipped to the next episode, leaving dozens of episodes in `pending`.
+2. **Git Push Race Condition**: The old `git-sync.cjs` failed on `git push` whenever any external or concurrent commit existed because it lacked `git pull --rebase origin main`.
+3. **Actions Minute Exhaustion on Private Repo**: The repo was private, consuming GitHub Actions minutes, and every commit triggered the deploy workflow because of missing path filters.
+4. **Resolution**: Switched to resilient `curl` with exponential backoff (`--retry 4 --retry-delay 3`), global in-memory cover art deduplication, path filtering on deploy workflow, and transitioned the repository to **PUBLIC** for unlimited standard runner minutes.
+
+---
+
+## 3. Audio Conversion Specification
+
+Every sermon is converted using `ffmpeg` to:
 - **Codec**: AAC-LC (`mp4a`)
 - **Channels**: 1 (Mono, `-ac 1`)
 - **Bitrate**: 64 kbps (`-b:a 64k`)
 - **Sample Rate**: 44.1 kHz (`-ar 44100`)
-- **Optimization**: `+faststart` (moov atom placed at front for zero-buffer instant seeking)
+- **Container**: MP4 / M4A with `+faststart` (moov atom placed at front for zero-buffering instant seeking)
 - **Embedded Cover Art**: Square 600×600 JPEG attached picture (`disposition:v:0 attached_pic`)
 - **ID3 / MP4 Metadata**: Title, artist (The Basileia Commission), album (The Truth Simply Put with PAV), date, track number, genre (Podcast)
-- **Compression Efficiency**: Reduces ~150–200 MB source files to ~25–40 MB (~0.48 MB/minute), maintaining speech clarity while drastically saving bandwidth on mobile networks.
+- **Size Savings**: Reduces 100–200 MB source MP3s to ~20–35 MB (~0.48 MB/minute) with crisp vocal presence.
 
 ---
 
-## 3. Chained Ingest Pipeline & Safety Net
+## 4. Chained Ingest Pipeline & Safety Net
 
 The ingestion workflow (`.github/workflows/ingest.yml`):
-1. **Pulls & Merges Feed**: Fetches `https://feed.podbean.com/thetruthsimplyput/feed.xml`, merges new items into `episodes.json` without dropping existing records, ordered chronologically (oldest first).
-2. **Batch Processing**: Encodes pending episodes one by one, validates output using `ffprobe` (duration within 2s, 1-channel AAC, attached picture stream), uploads to the appropriate `audio-YYYY` GitHub release, and commits/pushes state to git after each episode.
-3. **Time Budget (4h15m / 255 min)**: Runs gracefully halt starting new episodes before reaching GitHub's 6-hour job cap.
-4. **Self-Dispatch Chaining**: When a run finishes and pending episodes remain, it automatically calls `gh workflow run ingest.yml` to trigger the next execution chain.
-5. **Safety Net**: A cron job triggers every 3 hours (`0 */3 * * *`) to check for new episodes and automatically resume any broken chain.
-6. **Actions-Minutes Calculation**: Encoding operates at ~170×–185× real-time speed (~15–20 seconds CPU per episode). The entire 512-episode catalog takes approximately 300–350 total Actions runner minutes, comfortably inside GitHub's free 2,000 minutes/month tier.
+1. **RSS Feed Sync**: Runs `node scripts/init-feed.cjs` to fetch `https://feed.podbean.com/thetruthsimplyput/feed.xml`, merges new items into `episodes.json` without modifying completed episodes, and regenerates `catalog.json`.
+2. **Resilient Processing**: Encodes pending episodes one by one, validates output using `ffprobe` (1-channel AAC + attached cover art stream), uploads to the appropriate public release tag `audio-YYYY`, updates state, and commits/pushes to git.
+3. **Time Budget (4h15m / 255 min)**: Runs gracefully halt starting new episodes before GitHub's 6-hour job cap.
+4. **Self-Dispatch Chaining**: When a run finishes and pending episodes remain, it dispatches the next run:
+   ```bash
+   gh workflow run ingest.yml --repo "${{ github.repository }}"
+   ```
+5. **Safety Net**: A cron job triggers every 3 hours (`0 */3 * * *`) to check for new episodes and automatically resume any interrupted chain.
+6. **Keep-Alive (60-day auto-disable prevention)**: Public GitHub repositories disable scheduled workflows after 60 days of repository inactivity. The ingest script checks `data/last-checked.json` and commits an update at most once every 25–30 days if no new episodes were published, ensuring the scheduled cron remains active forever.
 
 ---
 
-## 4. Manual Triggers & Maintenance
+## 5. Slim Public `catalog.json`
+
+`catalog.json` contains only what the frontend requires:
+- `id`, `number`, `title`, `date`, `year`, `durationSeconds`, `bytes`, `description` (plain text, trimmed to 300 chars)
+- `audioUrl`: Full public release download URL (`https://github.com/vjumbo264/basileia-archives/releases/download/<tag>/<asset>`)
+- `coverThumbUrl`: Direct URL to WebP 320×320 thumb in GitHub raw storage
+- `coverLargeUrl`: Direct URL to WebP 800×800 image in GitHub raw storage
+
+The frontend fetches this file cross-origin at runtime from `https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/catalog.json`, ensuring newly completed sermons appear immediately without redeploying the static site.
+
+---
+
+## 6. Manual Triggers & Maintenance
 
 ### Triggering Ingestion Manually
 1. Navigate to **Actions** > **Ingest Podcast Episodes** in the GitHub repo.
 2. Click **Run workflow**.
 3. (Optional) Provide:
-   - `force_episode`: Specify an episode ID (e.g. `0003-f465df4b`) or episode number (e.g. `3`) to reprocess a specific message.
-   - `reprocess_failed`: Set to `true` to retry episodes marked as failed.
+   - `force_episode`: Specify an episode ID (e.g. `0005-5ac15abe`) or episode number (e.g. `5`) to reprocess a specific message.
+   - `reprocess_failed`: Set to `true` to retry any failed episodes.
    - `limit`: Set a maximum count of episodes to process in that run (e.g. `10`).
 
 ---
 
-## 5. Cloudflare Worker & Streaming Audio Proxy
+## 7. Cloudflare Secrets Configuration
 
-### Zero-Storage Streaming Proxy (`/audio/:id`)
-1. Looks up the episode in `episodes.json` and retrieves the private GitHub Release `asset_id`.
-2. Calls the GitHub Release Asset API with `Authorization: Bearer <GITHUB_TOKEN_READ>` and `redirect: manual`.
-3. GitHub returns a `302 Found` with an Amazon S3 signed URL.
-4. The Worker fetches the signed S3 URL **without Authorization headers**, forwarding the client's `Range` header.
-5. Streams the response back with `206 Partial Content`, `Content-Range`, `Accept-Ranges: bytes`, and `Content-Type: audio/mp4`.
-6. Adding `?download=1` sets `Content-Disposition: attachment; filename="<Friendly Title>.m4a"`.
+Configured under **Settings** > **Secrets and variables** > **Actions** in GitHub:
+- `CLOUDFLARE_API_TOKEN`: Cloudflare API Token with Workers & Pages deployment permissions.
+- `CLOUDFLARE_ACCOUNT_ID`: Cloudflare account identifier (`1695bfc7422ac8004179e99f3cdd60c1`).
 
-### Password Gate & Cookie Authentication
-- Every endpoint (`/`, `/api/*`, `/cover/*`, `/audio/*`) is protected behind constant-time password comparison.
-- On successful login, the Worker issues a signed `pav_session` cookie containing an HMAC-SHA256 signature over an expiry timestamp using `SESSION_SECRET` (valid for 30 days).
-- **Rate-limit / Brute-force Delay**: Incorrect attempts incur an artificial 1200ms delay.
-- **Bypassing the Gate**: Set the environment variable `PASSWORD_ENABLED = "false"` in `wrangler.toml` (or Cloudflare dashboard) to disable the gate entirely.
-- **Password Change**: Change `SITE_PASSWORD` in Cloudflare Worker secrets.
-- **Session Logout for All Users**: Rotate `SESSION_SECRET` in Cloudflare Worker secrets.
-
----
-
-## 6. Secrets & Hygiene
-
-No secrets or tokens are stored in the git repository or code.
-
-### GitHub Actions Secrets
-(Configured under **Settings** > **Secrets and variables** > **Actions**):
-- `CLOUDFLARE_API_TOKEN`: Cloudflare token with Workers deployment permissions.
-- `CLOUDFLARE_ACCOUNT_ID`: Cloudflare account identifier.
-
-### Cloudflare Worker Secrets
-(Configured on the Worker `pav-podcast` via Cloudflare API / Dashboard):
-- `GITHUB_TOKEN_READ`: Personal Access Token with read access to repository contents and release assets.
-- `SITE_PASSWORD`: Access password for the site (configured secret).
-- `SESSION_SECRET`: 32+ byte random hex string for HMAC-SHA256 cookie signing.
-
----
-
-## 7. Current Project Status
-
-- **Phase 1 (Pipeline)**: **COMPLETE**. Feed verified (512 episodes), `episodes.json` catalog generated, audio transcode pipeline tested, release assets created, chained workflow committed, pilot episodes verified.
-- **Phase 2 (Worker)**: **COMPLETE**. Cloudflare Worker deployed to `https://pav-podcast.vjumbo264.workers.dev`, secrets provisioned, password gate tested, Range audio proxy verified with 206 Partial Content.
-- **Phase 3 (Website)**: **COMPLETE**. Mobile-first listening UI implemented with search, year chips, featured card, sticky mini-player with speed controls, MediaSession API, and position memory.
-- **Phase 4 (UI Refinement)**: **RESERVED FOR A FRESH SESSION** (per specification; not started).
+*Note: All v1 passwords, session cookies, and read-token secrets (`SITE_PASSWORD`, `SESSION_SECRET`, `GITHUB_TOKEN_READ`) have been completely deleted and removed.*
