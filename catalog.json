@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:56:18.537Z",
-  "totalEpisodes": 246,
+  "updatedAt": "2026-10-30T22:56:48.721Z",
+  "totalEpisodes": 247,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -579,6 +579,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0345-2024-10-17-kingdom-cultured-the-believer-s-conduct-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0329-8f24e027",
+      "number": 329,
+      "title": "Kingdom Cultured: The Believer’s Conduct [Part 34 - Honour XIV] — Alexander ’PAV’ Victor",
+      "date": "2024-05-30",
+      "year": 2024,
+      "durationSeconds": 4098,
+      "bytes": 33781252,
+      "description": "We are called into a Kingdom. It has a particular government, a particular doctrine, and a particular culture. To be a believer is to be bound by the conduct & culture of the Kingdom into which we have been translated. There are eternal rewards for works done in this life, and this hard-hitting seri",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0329-2024-05-30-kingdom-cultured-the-believer-s-conduct-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/d7675d89bf32b88a1bb91cf29e8c193e80cce968a1f123745e3132c3a76f66f8.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/d7675d89bf32b88a1bb91cf29e8c193e80cce968a1f123745e3132c3a76f66f8.webp"
     },
     {
       "id": "0326-775aa87b",
