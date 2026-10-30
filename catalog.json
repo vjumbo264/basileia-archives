@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:35:03.328Z",
-  "totalEpisodes": 171,
+  "updatedAt": "2026-10-30T16:35:21.171Z",
+  "totalEpisodes": 172,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0475-7ef35982",
+      "number": 475,
+      "title": "God Is Love. So Why Does Justice Matter? || TTSP with PAV || S1 EP6",
+      "date": "2026-05-13",
+      "year": 2026,
+      "durationSeconds": 1472,
+      "bytes": 12191904,
+      "description": "Why does justice matter in the Gospel? || The Truth Simply Put with PAV [As Broadcast on Radio] In Episode 6 of The Truth Simply Put with PAV, Alexander Victor opens up a vital truth many people miss: God’s love does not cancel His holiness, and His mercy does not require the compromise of His justi",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0475-2026-05-13-god-is-love-so-why-does-justice-matter-t.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/2d00fbee674f3e5d11b0909896eaf0bea99b7763aef25f200ddfb0a73698928b.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/2d00fbee674f3e5d11b0909896eaf0bea99b7763aef25f200ddfb0a73698928b.webp"
+    },
     {
       "id": "0474-3f560d40",
       "number": 474,

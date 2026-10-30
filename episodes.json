@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:35:03.320Z",
+  "generatedAt": "2026-10-30T16:35:21.163Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12766,15 +12766,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/d2fd53umyxxke4ws/TTSP_WITH_PAV_S1_E67m9sr.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Episode_6_2x99v3.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0475-2026-05-13-god-is-love-so-why-does-justice-matter-t.m4a",
+        "assetId": 692715780,
+        "bytes": 12191904,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0475 - 2026-05-13 - God Is Love. So Why Does Justice Matter  TTSP with PAV  S1 EP6.m4a",
       "suggestedAssetName": "0475-2026-05-13-god-is-love-so-why-does-justice-matter-t.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "2d00fbee674f3e5d11b0909896eaf0bea99b7763aef25f200ddfb0a73698928b",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
