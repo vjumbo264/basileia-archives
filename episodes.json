@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T11:30:47.334Z",
+  "generatedAt": "2026-10-30T11:31:18.034Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -10534,15 +10534,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/y9hk9kxeadc5xt2a/Change_Of_Location_An_Encore_-_Minika_Efa6pfn9.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0388-2025-01-21-attention-change-of-location-the-encore-.m4a",
+        "assetId": 691912367,
+        "bytes": 19954226,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0388 - 2025-01-21 - Attention! Change Of Location! [The Encore] — Minika Efa.m4a",
       "suggestedAssetName": "0388-2025-01-21-attention-change-of-location-the-encore-.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

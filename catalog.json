@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T11:30:47.341Z",
-  "totalEpisodes": 153,
+  "updatedAt": "2026-10-30T11:31:18.041Z",
+  "totalEpisodes": 154,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0388-457e30d4",
+      "number": 388,
+      "title": "Attention! Change Of Location! [The Encore] — Minika Efa",
+      "date": "2025-01-21",
+      "year": 2025,
+      "durationSeconds": 2372,
+      "bytes": 19954226,
+      "description": "Everything that happens, happens at a particular location. So invariably, the location tells on the nature and quality of a happenstance. This teaching takes time to explore and unveil the significance of the location of the believer's life and realities in God through CHRiSt. For inquires & booking",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0388-2025-01-21-attention-change-of-location-the-encore-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0387-b8ad34aa",
       "number": 387,
