@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:46:02.209Z",
-  "totalEpisodes": 241,
+  "updatedAt": "2026-10-30T22:46:31.742Z",
+  "totalEpisodes": 242,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -618,6 +618,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0311-2023-11-30-if-not-for-the-lord-attitude-of-gratitud.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/40b3a78d5544797ef4a84a554d5e5744965d1140a133e8e35a0bb8ff2d171dbf.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/40b3a78d5544797ef4a84a554d5e5744965d1140a133e8e35a0bb8ff2d171dbf.webp"
+    },
+    {
+      "id": "0310-6dd94eae",
+      "number": 310,
+      "title": "Joy Consciousness [Encore] — John Ikpi",
+      "date": "2023-11-29",
+      "year": 2023,
+      "durationSeconds": 3486,
+      "bytes": 29056154,
+      "description": "Joy for the believer is a constant mode, received from the Holy Spirit, and perpetuated by the consciousness that therein lies our strength. Join Pastor John Ikpi in this exhilarating encore of this ever poignant teaching. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacomm",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0310-2023-11-29-joy-consciousness-encore-john-ikpi.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/f1d393085cbf25a04dd897dfbff1ab49722d144e2c161e8a202ed74e22b59c11.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/f1d393085cbf25a04dd897dfbff1ab49722d144e2c161e8a202ed74e22b59c11.webp"
     },
     {
       "id": "0309-1399f27e",

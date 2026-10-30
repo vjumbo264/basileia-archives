@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T22:46:02.202Z",
+  "generatedAt": "2026-10-30T22:46:31.735Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -8990,15 +8990,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/uc3hc2/Joy_Consciousness_-_Encore6umtj.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Joy_Consciousness_1_aoj33.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2023",
+        "assetName": "0310-2023-11-29-joy-consciousness-encore-john-ikpi.m4a",
+        "assetId": 693649133,
+        "bytes": 29056154,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0310 - 2023-11-29 - Joy Consciousness [Encore] — John Ikpi.m4a",
       "suggestedAssetName": "0310-2023-11-29-joy-consciousness-encore-john-ikpi.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "f1d393085cbf25a04dd897dfbff1ab49722d144e2c161e8a202ed74e22b59c11",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
