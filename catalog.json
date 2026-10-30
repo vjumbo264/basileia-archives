@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:09:43.744Z",
-  "totalEpisodes": 231,
+  "updatedAt": "2026-10-30T22:10:14.966Z",
+  "totalEpisodes": 232,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -930,6 +930,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0239-2022-09-14-engines-alfred-okarekpe.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/53572e4ddf6f9c040165d453d4aa149274b17cbcc02ac75d9bb4f23679dd765f.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/53572e4ddf6f9c040165d453d4aa149274b17cbcc02ac75d9bb4f23679dd765f.webp"
+    },
+    {
+      "id": "0238-5b6cf5a6",
+      "number": 238,
+      "title": "CHRiSt Our Preservative — Minika Efa",
+      "date": "2022-09-07",
+      "year": 2022,
+      "durationSeconds": 3886,
+      "bytes": 32076855,
+      "description": "You were not saved by the Lord only for you to be the one to preserve yourself! He who has saved, will save and preserve to the very end—the day of the Lord! Follow through as we explore again the subject of the one who is our preservative. For inquires & bookings: Phone: +234 708 881 8864 Email: in",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0238-2022-09-07-christ-our-preservative-minika-efa.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/a1a1c6dd7670e454c478be1e445e2ac0a290b1f2f878368d72da7740998b66fc.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/a1a1c6dd7670e454c478be1e445e2ac0a290b1f2f878368d72da7740998b66fc.webp"
     },
     {
       "id": "0234-e4a42aba",

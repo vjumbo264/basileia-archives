@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T22:09:43.737Z",
+  "generatedAt": "2026-10-30T22:10:14.960Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6990,15 +6990,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/9a4t9z/CHRiSt_Our_Preservative_Encore_-_Minika_Effa9f4ap.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/CHRiSt_Of_Preservative_-_Minika_Efa6k8ou.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0238-2022-09-07-christ-our-preservative-minika-efa.m4a",
+        "assetId": 693567908,
+        "bytes": 32076855,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0238 - 2022-09-07 - CHRiSt Our Preservative — Minika Efa.m4a",
       "suggestedAssetName": "0238-2022-09-07-christ-our-preservative-minika-efa.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "a1a1c6dd7670e454c478be1e445e2ac0a290b1f2f878368d72da7740998b66fc",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
