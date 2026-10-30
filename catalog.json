@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T08:24:55.974Z",
-  "totalEpisodes": 129,
+  "updatedAt": "2026-10-30T08:25:28.051Z",
+  "totalEpisodes": 130,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1255,6 +1255,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0057-2019-04-12-eternal-life-assurance-beyond-probabilit.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/2a7dc532e2f2e62bc37e7756ae094de12b3c95c58e8755b76e79587108075b66.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/2a7dc532e2f2e62bc37e7756ae094de12b3c95c58e8755b76e79587108075b66.webp"
+    },
+    {
+      "id": "0055-638e49c7",
+      "number": 55,
+      "title": "Who Said Forgiveness Was Unconditional? — PAV",
+      "date": "2019-03-30",
+      "year": 2019,
+      "durationSeconds": 3134,
+      "bytes": 25962941,
+      "description": "This is a short exhortation on inter-personal forgiveness as considered from the viewpoint of CHRiSt's finished work. 'Sure to set you off, for good! For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommission.org Facebook: @TheBasileiaCommission Twitter: @TheBasileia_NG Inst",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0055-2019-03-30-who-said-forgiveness-was-unconditional-p.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/0b47c49810812d61a04c0168d8832d44359763e37c1430ffc719fda8a1c0be75.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/0b47c49810812d61a04c0168d8832d44359763e37c1430ffc719fda8a1c0be75.webp"
     },
     {
       "id": "0053-9b83abd2",

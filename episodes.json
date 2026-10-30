@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T08:24:55.967Z",
+  "generatedAt": "2026-10-30T08:25:28.044Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -1582,15 +1582,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/ebg2un/Who_Told_You_Forgiveness_Was_Unconditional_.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Forgiveness.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0055-2019-03-30-who-said-forgiveness-was-unconditional-p.m4a",
+        "assetId": 691447490,
+        "bytes": 25962941,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0055 - 2019-03-30 - Who Said Forgiveness Was Unconditional — PAV.m4a",
       "suggestedAssetName": "0055-2019-03-30-who-said-forgiveness-was-unconditional-p.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "0b47c49810812d61a04c0168d8832d44359763e37c1430ffc719fda8a1c0be75",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
