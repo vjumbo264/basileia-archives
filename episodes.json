@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T22:07:33.032Z",
+  "generatedAt": "2026-10-30T22:08:01.917Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6886,15 +6886,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/g966f3/Was_Elijah_Caught_Up_In_Heaven_7kv37.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/IMG-20211016-WA0008.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0234-2022-08-25-was-elijah-caught-up-in-heaven-alexander.m4a",
+        "assetId": 693563299,
+        "bytes": 32696233,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0234 - 2022-08-25 - Was Elijah Caught Up In Heaven — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0234-2022-08-25-was-elijah-caught-up-in-heaven-alexander.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "bfbb68ef433fd6a5278f93c3d92a76ba3b88340a82f3b1cab3d9e620a9ed5b2b",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
