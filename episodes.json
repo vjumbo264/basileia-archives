@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T21:34:42.595Z",
+  "generatedAt": "2026-10-30T21:35:12.820Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -4678,15 +4678,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/vv8vhj/IMITATE_Part_149non5.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Imitate.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2021",
+        "assetName": "0156-2021-03-02-imitate-part-14-alexander-pav-victor.m4a",
+        "assetId": 693487298,
+        "bytes": 30953474,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0156 - 2021-03-02 - IMITATE [Part 14] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0156-2021-03-02-imitate-part-14-alexander-pav-victor.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "7ce8cad267c93402fc310425615b8424d45afac13b8811b7f47073ca3f1c259b",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
