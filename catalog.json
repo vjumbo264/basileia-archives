@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:02:06.170Z",
-  "totalEpisodes": 228,
+  "updatedAt": "2026-10-30T22:02:36.833Z",
+  "totalEpisodes": 229,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -930,6 +930,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0239-2022-09-14-engines-alfred-okarekpe.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/53572e4ddf6f9c040165d453d4aa149274b17cbcc02ac75d9bb4f23679dd765f.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/53572e4ddf6f9c040165d453d4aa149274b17cbcc02ac75d9bb4f23679dd765f.webp"
+    },
+    {
+      "id": "0226-873a4785",
+      "number": 226,
+      "title": "Victory Consciousness [Part 1] — Alexander ’PAV’ Victor",
+      "date": "2022-07-29",
+      "year": 2022,
+      "durationSeconds": 4043,
+      "bytes": 33602416,
+      "description": "Our victory in and through CHRiSt Jesus is unarguably one of the reasons why the believer has their shoulders and head held high; stay through, as this teaching even though rattling, spurs up your confidence in and for your season of going through. For inquires & bookings: Phone: +234 708 881 8864 E",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0226-2022-07-29-victory-consciousness-part-1-alexander-p.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/350e89995482fda1f17d8ce5e82631467012c684431b1122d8368679ed342250.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/350e89995482fda1f17d8ce5e82631467012c684431b1122d8368679ed342250.webp"
     },
     {
       "id": "0225-fb4e769a",
