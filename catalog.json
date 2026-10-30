@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:49:31.822Z",
-  "totalEpisodes": 176,
+  "updatedAt": "2026-10-30T16:50:07.912Z",
+  "totalEpisodes": 177,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1968,6 +1968,19 @@
       "bytes": 28252631,
       "description": "In this series, Alexander 'PAV' Victor sheds light on the subject of 'looking unto Jesus', identifying the distractions that could potentially mitigate how we see Him for who He is- not how the natural conditions us to. Quite the eye-opener! We're quite certain you will find it beneficial. For inqui",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2018/0043-2018-11-18-aphorontes-eyes-on-the-prize-part-3-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0041-ebca7685",
+      "number": 41,
+      "title": "Aphorontes: Eyes On The Prize [Part 1] — PAV",
+      "date": "2018-11-11",
+      "year": 2018,
+      "durationSeconds": 3512,
+      "bytes": 29105065,
+      "description": "In this series, Alexander 'PAV' Victor sheds light on the subject of 'looking unto Jesus', identifying the distractions that could potentially mitigate how we see Him for who He is- not how the natural conditions us to. Quite the eye-opener! We're quite certain you will find it beneficial. For inqui",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2018/0041-2018-11-11-aphorontes-eyes-on-the-prize-part-1-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },

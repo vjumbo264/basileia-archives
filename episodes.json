@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:49:31.815Z",
+  "generatedAt": "2026-10-30T16:50:07.904Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -1182,15 +1182,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/3a8dy5/stream_528063867-thebasileiacommission-aphrorontes-part1-pav.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2018",
+        "assetName": "0041-2018-11-11-aphorontes-eyes-on-the-prize-part-1-pav.m4a",
+        "assetId": 692756838,
+        "bytes": 29105065,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0041 - 2018-11-11 - Aphorontes Eyes On The Prize [Part 1] — PAV.m4a",
       "suggestedAssetName": "0041-2018-11-11-aphorontes-eyes-on-the-prize-part-1-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
