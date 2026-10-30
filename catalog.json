@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T11:12:31.236Z",
-  "totalEpisodes": 143,
+  "updatedAt": "2026-10-30T11:13:03.130Z",
+  "totalEpisodes": 144,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0358-b29b9dd4",
+      "number": 358,
+      "title": "Kingdom Cultured: The Believer’s Conduct [Part 60 - Complacency II] — Alexander ’PAV’ Victor",
+      "date": "2024-11-08",
+      "year": 2024,
+      "durationSeconds": 2435,
+      "bytes": 19695910,
+      "description": "We are called into a Kingdom. It has a particular government, a particular doctrine, and a particular culture. To be a believer is to be bound by the conduct & culture of the Kingdom into which we have been translated. There are eternal rewards for works done in this life, and this hard-hitting seri",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0358-2024-11-08-kingdom-cultured-the-believer-s-conduct-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0351-36d05f9e",
       "number": 351,
