@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T21:59:18.179Z",
+  "generatedAt": "2026-10-30T21:59:51.195Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6502,15 +6502,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/vcxgnz/UTG_S2_P147k6yj.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/P14.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0220-2022-06-30-understanding-this-gospel-series-2-part-.m4a",
+        "assetId": 693543356,
+        "bytes": 36613402,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0220 - 2022-06-30 - Understanding This Gospel [Series 2 Part 14] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0220-2022-06-30-understanding-this-gospel-series-2-part-.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "b1520b2d7ac42f0951c07345dec90ff815b10ba19eebff42ace3f7bf87cb20c9",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

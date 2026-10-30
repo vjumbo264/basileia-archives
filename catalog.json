@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T21:59:18.186Z",
-  "totalEpisodes": 226,
+  "updatedAt": "2026-10-30T21:59:51.201Z",
+  "totalEpisodes": 227,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -956,6 +956,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0224-2022-07-21-understanding-this-gospel-series-2-part-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/720cffa446a4e4d310efba0d1a26e92ec054f2220f7e8f0cc7cc29e52edad56b.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/720cffa446a4e4d310efba0d1a26e92ec054f2220f7e8f0cc7cc29e52edad56b.webp"
+    },
+    {
+      "id": "0220-49852ab1",
+      "number": 220,
+      "title": "Understanding This Gospel [Series 2 Part 14] — Alexander ’PAV’ Victor",
+      "date": "2022-06-30",
+      "year": 2022,
+      "durationSeconds": 4424,
+      "bytes": 36613402,
+      "description": "Word-Abiding House is glad to bring you 'Series 2' of this teaching where our UnderShepherd (Alexander 'PAV' Victor) further unpacks and explores the fulness of the Gospel of the Kingdom. Strap up as he takes you on an expository step-by-step teaching study of the Gospel, both for the new as well as",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0220-2022-06-30-understanding-this-gospel-series-2-part-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/b1520b2d7ac42f0951c07345dec90ff815b10ba19eebff42ace3f7bf87cb20c9.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/b1520b2d7ac42f0951c07345dec90ff815b10ba19eebff42ace3f7bf87cb20c9.webp"
     },
     {
       "id": "0217-472c8e8a",
