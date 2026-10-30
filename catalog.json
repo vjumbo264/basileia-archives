@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T20:52:44.688Z",
-  "totalEpisodes": 188,
+  "updatedAt": "2026-10-30T20:53:02.519Z",
+  "totalEpisodes": 189,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0496-645336a3",
+      "number": 496,
+      "title": "The Power of the Gospel Saves to the End || The Truth Simply Put with PAV | S2 EP2",
+      "date": "2026-07-24",
+      "year": 2026,
+      "durationSeconds": 1756,
+      "bytes": 14586762,
+      "description": "In this Episode of The Truth Simply Put with PAV, Alexander Victor presses further into what it means to say that the Gospel is the power of God unto salvation. The question now is not whether God saves, but how far that salvation goes. Does the Gospel merely begin something in the believer, or does",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0496-2026-07-24-the-power-of-the-gospel-saves-to-the-end.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0494-142bc7d9",
       "number": 494,

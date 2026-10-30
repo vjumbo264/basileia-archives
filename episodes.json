@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T20:52:44.680Z",
+  "generatedAt": "2026-10-30T20:53:02.512Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -13406,15 +13406,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/gw56anaxs72xehc8/TTSP_S1_EP159d09f.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0496-2026-07-24-the-power-of-the-gospel-saves-to-the-end.m4a",
+        "assetId": 693391186,
+        "bytes": 14586762,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0496 - 2026-07-24 - The Power of the Gospel Saves to the End  The Truth Simply Put with PAV  S2 EP2.m4a",
       "suggestedAssetName": "0496-2026-07-24-the-power-of-the-gospel-saves-to-the-end.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
