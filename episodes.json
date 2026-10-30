@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:32:57.901Z",
+  "generatedAt": "2026-10-30T03:33:27.373Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2605,15 +2605,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/h5disy/SOTERIA_Is_My_Salvation_Really_Forever_Part_VIII.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Salvation_Pt_8.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0093-2020-02-23-is-my-salvation-really-forever-pt-8-the-.m4a",
+        "assetId": 690803557,
+        "bytes": 20462452,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0093 - 2020-02-23 - Is My Salvation Really Forever (Pt 8, The Finale) — PAV.m4a",
       "suggestedAssetName": "0093-2020-02-23-is-my-salvation-really-forever-pt-8-the-.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "3c680b8f4c970749a0331070ab02ea7c3c304e3a56e9a5f02d0dd4a6200d6e34",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
