@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:57:52.087Z",
-  "totalEpisodes": 248,
+  "updatedAt": "2026-10-30T22:58:20.410Z",
+  "totalEpisodes": 249,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -579,6 +579,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0345-2024-10-17-kingdom-cultured-the-believer-s-conduct-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0332-a05b255c",
+      "number": 332,
+      "title": "Scripted: You Are The Story God Is Telling — Gboyega Adebayo",
+      "date": "2024-06-24",
+      "year": 2024,
+      "durationSeconds": 3130,
+      "bytes": 25965076,
+      "description": "All of Scripture tells the story of One. Man cannot take credit for anything written, but to us has been given the Spirit of God by which we unpack His will from what was written. In this sequel, Pastor Adegboyega Adebayo delves some more into the story of God, as scripted and told by God. Let the S",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0332-2024-06-24-scripted-you-are-the-story-god-is-tellin.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/28c68b4f4b47c2e237ff19f7118260daaa48d7a492f31386b8424f903b4c9a77.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/28c68b4f4b47c2e237ff19f7118260daaa48d7a492f31386b8424f903b4c9a77.webp"
     },
     {
       "id": "0331-b226fe2e",
