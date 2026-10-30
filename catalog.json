@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T08:31:48.611Z",
-  "totalEpisodes": 133,
+  "updatedAt": "2026-10-30T08:32:22.189Z",
+  "totalEpisodes": 134,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1047,6 +1047,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0083-2019-12-12-christ-our-preservative-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/c26c179782759893463226ef6af7c44d0447dd06b80a1403d961e485b289cdf3.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/c26c179782759893463226ef6af7c44d0447dd06b80a1403d961e485b289cdf3.webp"
+    },
+    {
+      "id": "0082-543e01b3",
+      "number": 82,
+      "title": "The Believer's Consistency — PAV",
+      "date": "2019-12-12",
+      "year": 2019,
+      "durationSeconds": 2852,
+      "bytes": 23767455,
+      "description": "Perseverance. Persistence. Consistency. Attributes of the God-kind which are resident and at work in the believer for his or her benefit. This teaching unpacks that, in the light of CHRiSt. For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Facebook: @TheBasile",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0082-2019-12-12-the-believer-s-consistency-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/1cd3afe0a3400374d8423a9e19196f7d5e1faa15c57b9c6776ce580d10a5c522.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/1cd3afe0a3400374d8423a9e19196f7d5e1faa15c57b9c6776ce580d10a5c522.webp"
     },
     {
       "id": "0081-1d6f2d10",

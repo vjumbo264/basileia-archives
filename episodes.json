@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T08:31:48.604Z",
+  "generatedAt": "2026-10-30T08:32:22.182Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2390,15 +2390,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/zij4kj/Consistency.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/The_belivers_consistency.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0082-2019-12-12-the-believer-s-consistency-pav.m4a",
+        "assetId": 691463769,
+        "bytes": 23767455,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0082 - 2019-12-12 - The Believer's Consistency — PAV.m4a",
       "suggestedAssetName": "0082-2019-12-12-the-believer-s-consistency-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "1cd3afe0a3400374d8423a9e19196f7d5e1faa15c57b9c6776ce580d10a5c522",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
