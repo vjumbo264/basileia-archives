@@ -4,10 +4,12 @@ dist/
 coverage/
 .DS_Store
 *.log
+bun.lock
 .env*
 !.env.example
 .dev.vars*
 !.dev.vars.example
+.local_credentials.json
 *.pem
 work/
 temp/
