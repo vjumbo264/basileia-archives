@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:33:27.373Z",
+  "generatedAt": "2026-10-30T03:33:52.043Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2637,15 +2637,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/7xhiki/Testing_Of_Persuasion_.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/IMG-20200130-WA0005.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0094-2020-02-23-the-testings-of-persuasion-alexander-pav.m4a",
+        "assetId": 690804669,
+        "bytes": 17618450,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0094 - 2020-02-23 - The Testings Of Persuasion — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0094-2020-02-23-the-testings-of-persuasion-alexander-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "9cadca7b56a73c6ec51654827f026f93d53f3635c2927240c97969a2894be861",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
