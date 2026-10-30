@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T12:11:37.817Z",
-  "totalEpisodes": 158,
+  "updatedAt": "2026-10-30T12:12:01.037Z",
+  "totalEpisodes": 159,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0439-ea477742",
+      "number": 439,
+      "title": "Understanding The Goodness Of God [Goodness Consciousness] - Part VIII — Alexander ’PAV’ Victor",
+      "date": "2025-10-24",
+      "year": 2025,
+      "durationSeconds": 2267,
+      "bytes": 18734886,
+      "description": "“Biblical good is functional, not moral.” To say God is Good, is to say that He acts always in perfect alignment with His will. Therefore, God has never done, nor will He ever do anything for YOU. In this disruptive teaching series, PAV impresses on the believer, the importance of being renewed enou",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0439-2025-10-24-understanding-the-goodness-of-god-goodne.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0411-89b54661",
       "number": 411,

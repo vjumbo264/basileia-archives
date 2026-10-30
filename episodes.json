@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T12:11:37.810Z",
+  "generatedAt": "2026-10-30T12:12:01.030Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -11798,15 +11798,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/mnuicv3bz2xa882j/Understanding_The_Goodness_Of_God_Goodness_Consciousness_-_Part_VIIIalc8o.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0439-2025-10-24-understanding-the-goodness-of-god-goodne.m4a",
+        "assetId": 692016607,
+        "bytes": 18734886,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0439 - 2025-10-24 - Understanding The Goodness Of God [Goodness Consciousness] - Part VIII — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0439-2025-10-24-understanding-the-goodness-of-god-goodne.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
