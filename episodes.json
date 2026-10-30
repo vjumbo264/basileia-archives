@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T11:24:52.007Z",
+  "generatedAt": "2026-10-30T11:25:09.989Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -10270,15 +10270,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/nhvtajcfy5n5p6pz/Joy_Consciousnesss_-Patricia_Torty94djd.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2024",
+        "assetName": "0378-2024-12-25-joy-consciousness-an-encore-patricia-tor.m4a",
+        "assetId": 691895927,
+        "bytes": 11817998,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0378 - 2024-12-25 - Joy Consciousness [An Encore] — Patricia Torty David.m4a",
       "suggestedAssetName": "0378-2024-12-25-joy-consciousness-an-encore-patricia-tor.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
