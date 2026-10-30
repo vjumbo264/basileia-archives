@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T02:54:38.060Z",
+  "generatedAt": "2026-10-30T02:55:08.227Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -869,15 +869,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/8nfxjv/stream_512480415-thebasileiacommission-tsp-utg-part14-finale-pav.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2018",
+        "assetName": "0031-2018-10-11-understanding-this-gospel-part-14-the-fi.m4a",
+        "assetId": 690719877,
+        "bytes": 22067526,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0031 - 2018-10-11 - Understanding This Gospel [Part 14 - The Finale] — PAV.m4a",
       "suggestedAssetName": "0031-2018-10-11-understanding-this-gospel-part-14-the-fi.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
