@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T04:38:04.181Z",
+  "generatedAt": "2026-10-30T04:39:42.517Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -4781,15 +4781,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/vvd5j3/Let_s_Talk_Relationships_2_PAVa4arz.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/LTR_2.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2021",
+        "assetName": "0175-2021-07-31-let-s-talk-relationships-in-the-light-of.m4a",
+        "assetId": 690945082,
+        "bytes": 69578565,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0175 - 2021-07-31 - Let’s Talk Relationships... In the Light Of CHRiSt [Part 2] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0175-2021-07-31-let-s-talk-relationships-in-the-light-of.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "898c5d98642f4e0e9345cf94a31e49648fd99244f9b460b75ecce0dcbb8f750e",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
