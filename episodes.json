@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T21:12:25.549Z",
+  "generatedAt": "2026-10-30T21:12:55.418Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -3014,15 +3014,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/5uhv8g/Journey_Through_Romans_12_Part_1_PAV.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/JTRXII_Pt1.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0097-2020-03-02-journey-through-romans-12-part-1-pav.m4a",
+        "assetId": 693437202,
+        "bytes": 29247114,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0097 - 2020-03-02 - Journey Through Romans 12 [Part 1] — PAV.m4a",
       "suggestedAssetName": "0097-2020-03-02-journey-through-romans-12-part-1-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "b654a3453e6fa5ffe0fa8fe9cfa53344735b49336b141dca61ea2904b2bcdfcc",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

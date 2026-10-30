@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T21:12:25.556Z",
-  "totalEpisodes": 211,
+  "updatedAt": "2026-10-30T21:12:55.424Z",
+  "totalEpisodes": 212,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1632,6 +1632,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0098-2020-03-02-journey-through-romans-12-part-2-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/0df1c33b7f3cd0902ce8d2b3e7e33628e2cdbc01dd929a7f968cae972ba2df6a.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/0df1c33b7f3cd0902ce8d2b3e7e33628e2cdbc01dd929a7f968cae972ba2df6a.webp"
+    },
+    {
+      "id": "0097-6d74e1f6",
+      "number": 97,
+      "title": "Journey Through Romans 12 [Part 1] — PAV",
+      "date": "2020-03-02",
+      "year": 2020,
+      "durationSeconds": 3540,
+      "bytes": 29247114,
+      "description": "In a thorough and pragmatic yet simple and very practical manner, Alexander takes us on a journey through the robustness of the New Testament believer's faith-walk as is captured profoundly in Romans chapter 12. For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.co",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0097-2020-03-02-journey-through-romans-12-part-1-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/b654a3453e6fa5ffe0fa8fe9cfa53344735b49336b141dca61ea2904b2bcdfcc.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/b654a3453e6fa5ffe0fa8fe9cfa53344735b49336b141dca61ea2904b2bcdfcc.webp"
     },
     {
       "id": "0095-c068f2ca",
