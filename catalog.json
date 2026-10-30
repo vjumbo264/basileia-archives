@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T12:25:19.002Z",
-  "totalEpisodes": 160,
+  "updatedAt": "2026-10-30T12:25:53.706Z",
+  "totalEpisodes": 161,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1916,6 +1916,19 @@
       "bytes": 26061059,
       "description": "This series, being taught by our UnderShepherd (Alexander 'PAV' Victor) in our local assembly, Word-Abiding House, unpacks and explores the fullness of the Gospel of CHRiSt in all its purity, truth and richness! Both for the new as well as the established believer, this is an expository, step-by-ste",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2018/0022-2018-07-27-understanding-this-gospel-part-6-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0015-b54e783a",
+      "number": 15,
+      "title": "Understanding This Gospel [Part 1] — PAV",
+      "date": "2018-07-19",
+      "year": 2018,
+      "durationSeconds": 3484,
+      "bytes": 29148953,
+      "description": "This series, being taught by our UnderShepherd (Alexander 'PAV' Victor) in our local assembly, Word-Abiding House, unpacks and explores the fullness of the Gospel of CHRiSt in all its purity, truth and richness! Both for the new as well as the established believer, this is an expository, step-by-ste",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2018/0015-2018-07-19-understanding-this-gospel-part-1-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
