@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T11:18:02.734Z",
-  "totalEpisodes": 146,
+  "updatedAt": "2026-10-30T11:18:16.693Z",
+  "totalEpisodes": 147,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0366-a09e92a6",
+      "number": 366,
+      "title": "On Faith & Separation — Alexander ’PAV’ Victor",
+      "date": "2024-11-20",
+      "year": 2024,
+      "durationSeconds": 1240,
+      "bytes": 10253132,
+      "description": "For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagram: @WAHTheChurch Facebook: @TheBasileiaCommission | @WAHTheChurch",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0366-2024-11-20-on-faith-separation-alexander-pav-victor.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0362-e7bc94da",
       "number": 362,
