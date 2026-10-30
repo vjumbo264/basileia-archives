@@ -68,18 +68,29 @@ export default function App() {
 
   const fetchEpisodes = async () => {
     setLoading(true);
-    try {
-      // First try local /api/episodes
-      const res = await fetch('/api/episodes');
-      if (res.ok) {
-        const data = await res.json();
-        setEpisodes(data.episodes || []);
-        setShow(data.show || null);
-        return;
-      }
-      throw new Error('API request failed');
-    } catch (e) {
-      // Fallback: try loading directly from public/episodes.json or Cloudflare Worker
+      // First try local static episodes.json (instant for dev)
+      try {
+        const localRes = await fetch('/episodes.json');
+        if (localRes.ok) {
+          const data = await localRes.json();
+          setEpisodes(data.episodes || []);
+          setShow(data.show || null);
+          return;
+        }
+      } catch (errLocal) {}
+
+      // Try worker /api/episodes
+      try {
+        const res = await fetch('/api/episodes');
+        if (res.ok) {
+          const data = await res.json();
+          setEpisodes(data.episodes || []);
+          setShow(data.show || null);
+          return;
+        }
+      } catch (errApi) {}
+
+      // Fallback: try loading directly from Cloudflare Worker
       try {
         const cfRes = await fetch('https://pav-podcast.vjumbo264.workers.dev/api/episodes');
         if (cfRes.ok) {
@@ -88,20 +99,9 @@ export default function App() {
           setShow(data.show || null);
           return;
         }
-      } catch (err) {}
-
-      // Fallback to static episodes if available
-      try {
-        const localRes = await fetch('/episodes.json');
-        if (localRes.ok) {
-          const data = await localRes.json();
-          setEpisodes(data.episodes || []);
-          setShow(data.show || null);
-        }
-      } catch (err2) {
-        console.error('Failed to load episodes', err2);
-      }
-    } finally {
+      } catch (errCf) {
+        console.error('Failed to load episodes', errCf);
+      } finally {
       setLoading(false);
     }
   };

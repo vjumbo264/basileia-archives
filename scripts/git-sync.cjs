@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 function getPat() {
+  if (process.env.GITHUB_TOKEN) return process.env.GITHUB_TOKEN;
   if (process.env.GH_PAT) return process.env.GH_PAT;
   const credPath = path.resolve(__dirname, '../.local_credentials.json');
   if (fs.existsSync(credPath)) {
@@ -15,11 +16,6 @@ function getPat() {
 const msg = process.argv[2] || 'Update project progress';
 const pat = getPat();
 
-if (!pat) {
-  console.error('No GH_PAT available');
-  process.exit(1);
-}
-
 try {
   cp.execSync('git add -A', { stdio: 'inherit' });
   try {
@@ -27,8 +23,13 @@ try {
   } catch (e) {
     console.log('No new changes to commit.');
   }
-  const remoteUrl = `https://vjumbo264:${pat}@github.com/vjumbo264/pav-podcast.git`;
-  cp.execSync(`git push ${remoteUrl} main`, { stdio: 'ignore' });
+
+  if (pat) {
+    const remoteUrl = `https://x-access-token:${pat}@github.com/vjumbo264/pav-podcast.git`;
+    cp.execSync(`git push ${remoteUrl} main`, { stdio: 'ignore' });
+  } else {
+    cp.execSync(`git push origin main`, { stdio: 'inherit' });
+  }
   console.log('Sync to GitHub main completed successfully.');
 } catch (err) {
   console.error('Sync failed:', err.message);
