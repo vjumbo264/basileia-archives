@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T22:57:25.925Z",
+  "generatedAt": "2026-10-30T22:57:52.081Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -9566,15 +9566,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/vvrv9eqnjvb482hi/Growth_Consciousness73t55.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Growth_Consciousness6noq1.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2024",
+        "assetName": "0331-2024-06-20-growth-consciousness-wisdom-eke.m4a",
+        "assetId": 693676479,
+        "bytes": 20320069,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0331 - 2024-06-20 - Growth Consciousness — Wisdom Eke.m4a",
       "suggestedAssetName": "0331-2024-06-20-growth-consciousness-wisdom-eke.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "fa83e56b4f6b3370ed9de1f78c51f8504a6d9541186bf79fdbdb7d7ff1c9bb3b",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

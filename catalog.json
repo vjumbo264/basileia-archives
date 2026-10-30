@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:57:25.932Z",
-  "totalEpisodes": 247,
+  "updatedAt": "2026-10-30T22:57:52.087Z",
+  "totalEpisodes": 248,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -579,6 +579,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0345-2024-10-17-kingdom-cultured-the-believer-s-conduct-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0331-b226fe2e",
+      "number": 331,
+      "title": "Growth Consciousness — Wisdom Eke",
+      "date": "2024-06-20",
+      "year": 2024,
+      "durationSeconds": 3648,
+      "bytes": 20320069,
+      "description": "Growth is natural to the believer; therefore, this teaching calls the believer into being aware of—and consequently responding to—the evolution from where he or she may currently be, unto the higher standard, outside their comfort zone. 'Walking worthy of the Calling. For inquires & bookings: Phone:",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0331-2024-06-20-growth-consciousness-wisdom-eke.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/fa83e56b4f6b3370ed9de1f78c51f8504a6d9541186bf79fdbdb7d7ff1c9bb3b.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/fa83e56b4f6b3370ed9de1f78c51f8504a6d9541186bf79fdbdb7d7ff1c9bb3b.webp"
     },
     {
       "id": "0329-8f24e027",
