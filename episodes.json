@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:37:34.471Z",
+  "generatedAt": "2026-10-30T16:37:55.820Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12878,15 +12878,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/jzemcjpixjf7s4fa/TTSP_WITH_PAV_S1_E8826rg.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/He_Rosebctfd.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0479-2026-06-15-he-rose-that-s-the-goodnews-the-truth-si.m4a",
+        "assetId": 692722532,
+        "bytes": 14144669,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0479 - 2026-06-15 - He Rose. That's The Goodnews.  The Truth Simply Put with PAV  S1 EP8.m4a",
       "suggestedAssetName": "0479-2026-06-15-he-rose-that-s-the-goodnews-the-truth-si.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "d448b92a9f7397defe5b8fb74b1e0bd82106a245a1a2dc13e16dc56152f462e1",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

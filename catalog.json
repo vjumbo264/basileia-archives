@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:37:34.479Z",
-  "totalEpisodes": 173,
+  "updatedAt": "2026-10-30T16:37:55.827Z",
+  "totalEpisodes": 174,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0479-039e3bcc",
+      "number": 479,
+      "title": "He Rose. That's The Goodnews. || The Truth Simply Put with PAV | S1 EP8",
+      "date": "2026-06-15",
+      "year": 2026,
+      "durationSeconds": 1699,
+      "bytes": 14144669,
+      "description": "If you have just believed in and received the Lord Jesus during the course of this broadcast, we would love to hear from you—as well as if you'd like to partner with PAV through the PAV AIRFORCE LEAGUE initiative, or to invite PAV to speak at your event. Email us: info@thetruthsimplyput.com or conta",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0479-2026-06-15-he-rose-that-s-the-goodnews-the-truth-si.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/d448b92a9f7397defe5b8fb74b1e0bd82106a245a1a2dc13e16dc56152f462e1.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/d448b92a9f7397defe5b8fb74b1e0bd82106a245a1a2dc13e16dc56152f462e1.webp"
+    },
     {
       "id": "0477-636bda06",
       "number": 477,
