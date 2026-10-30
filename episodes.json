@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:11:30.969Z",
+  "generatedAt": "2026-10-30T03:12:40.154Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -1693,15 +1693,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/eq2em2/Understanding_The_Grace_Of_God_Ugo_Umeokeke.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/TSP_Logo.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0061-2019-05-19-understanding-the-grace-of-god-ugochukwu.m4a",
+        "assetId": 690755976,
+        "bytes": 48055957,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0061 - 2019-05-19 - Understanding The Grace of God — Ugochukwu Umeokeke.m4a",
       "suggestedAssetName": "0061-2019-05-19-understanding-the-grace-of-god-ugochukwu.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "ebdf243bb8cb48a78f407984dc467ea7329fb436aeadbd8480a218b89bc91ef3",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
