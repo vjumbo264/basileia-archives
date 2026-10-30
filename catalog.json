@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T08:30:22.537Z",
-  "totalEpisodes": 132,
+  "updatedAt": "2026-10-30T08:30:54.878Z",
+  "totalEpisodes": 133,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1112,6 +1112,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0076-2019-09-15-he-swapped-it-exploring-the-great-exchan.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/54a17e717909cf98dd87bc23de18abc5fc6e44ea2dac2c9d00cf5a94a3521a99.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/54a17e717909cf98dd87bc23de18abc5fc6e44ea2dac2c9d00cf5a94a3521a99.webp"
+    },
+    {
+      "id": "0075-a1ca899e",
+      "number": 75,
+      "title": "He Swapped It! [Exploring The Great Exchange, Part 14] — PAV",
+      "date": "2019-09-13",
+      "year": 2019,
+      "durationSeconds": 3232,
+      "bytes": 26743812,
+      "description": "'CHRiSt became everything I was, so that I might become everything that He is! He swapped it!' Join us in this exciting, revealing and liberating series as we explore the fullness of CHRiSt's finished work and all that it avails the believer! You'd be totally transformed by this! For inquires & book",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0075-2019-09-13-he-swapped-it-exploring-the-great-exchan.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/741db0f18cc084381f254c6abc17aa6ce31dceb60c5c47f5eb42bc214662c4b9.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/741db0f18cc084381f254c6abc17aa6ce31dceb60c5c47f5eb42bc214662c4b9.webp"
     },
     {
       "id": "0074-b2b341bd",
