@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T11:48:38.067Z",
-  "totalEpisodes": 157,
+  "updatedAt": "2026-10-30T11:48:56.151Z",
+  "totalEpisodes": 158,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0411-89b54661",
+      "number": 411,
+      "title": "The Power of The Age To Come [Part VIII] — Alexander ’PAV’ Victor",
+      "date": "2025-06-13",
+      "year": 2025,
+      "durationSeconds": 1770,
+      "bytes": 14630858,
+      "description": "A deep dive into Hebrews 6:4-6. This teaching is a divine resource for everything pertaining to God's Sons and the Hope of Eternal life with Him. The Age to come is God's eternal prophetic agenda; Salvation apart from Sin. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacomm",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0411-2025-06-13-the-power-of-the-age-to-come-part-viii-a.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0399-cfd564f6",
       "number": 399,

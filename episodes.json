@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T11:48:38.060Z",
+  "generatedAt": "2026-10-30T11:48:56.144Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -11118,15 +11118,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/j768ugd239kana5i/The_Power_Of_The_Age_To_Come_Part_VIII_bp6cr.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0411-2025-06-13-the-power-of-the-age-to-come-part-viii-a.m4a",
+        "assetId": 691958452,
+        "bytes": 14630858,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0411 - 2025-06-13 - The Power of The Age To Come [Part VIII] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0411-2025-06-13-the-power-of-the-age-to-come-part-viii-a.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
