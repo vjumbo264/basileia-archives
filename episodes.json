@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T02:43:21.584Z",
+  "generatedAt": "2026-10-30T02:43:42.786Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -325,15 +325,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/tm5b9m/stream_331064259-thebasileiacommission-tsp-thelovefactor-pav.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2017",
+        "assetName": "0011-2017-07-01-the-love-factor-pav.m4a",
+        "assetId": 690695702,
+        "bytes": 18592415,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0011 - 2017-07-01 - The Love Factor — PAV.m4a",
       "suggestedAssetName": "0011-2017-07-01-the-love-factor-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
