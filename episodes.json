@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T22:44:19.323Z",
+  "generatedAt": "2026-10-30T22:44:52.794Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -8774,15 +8774,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/v85628/The_Word_The_Power_The_Believer_Encore_aof12.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/The_Word_The_Power_The_Believer_Encore__q7rxc8.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2023",
+        "assetName": "0303-2023-11-02-the-word-the-power-the-believer-the-enco.m4a",
+        "assetId": 693645485,
+        "bytes": 30784778,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0303 - 2023-11-02 - The Word, The Power & The Believer [The Encore] — Esther Benjamin.m4a",
       "suggestedAssetName": "0303-2023-11-02-the-word-the-power-the-believer-the-enco.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "12ca01cba7705f98ea3c19808dd7c4b90815d017053a41b46ce095e37553af80",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:44:19.331Z",
-  "totalEpisodes": 239,
+  "updatedAt": "2026-10-30T22:44:52.801Z",
+  "totalEpisodes": 240,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -670,6 +670,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0304-2023-11-15-kingdom-cultured-the-believer-s-conduct-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/d45351478c79875520afb0780e49080a0d24a97b6b17fe0c73f687cc6d320de1.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/d45351478c79875520afb0780e49080a0d24a97b6b17fe0c73f687cc6d320de1.webp"
+    },
+    {
+      "id": "0303-902c6809",
+      "number": 303,
+      "title": "The Word, The Power & The Believer [The Encore] — Esther Benjamin",
+      "date": "2023-11-02",
+      "year": 2023,
+      "durationSeconds": 3717,
+      "bytes": 30784778,
+      "description": "The word. The power. The power in the word. The power of the word. An encore by Pastor Esther Benjamin. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagram: @WAHthehurch Facebook: @TheBasileiaCommission | @WAHthechurch",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0303-2023-11-02-the-word-the-power-the-believer-the-enco.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/12ca01cba7705f98ea3c19808dd7c4b90815d017053a41b46ce095e37553af80.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/12ca01cba7705f98ea3c19808dd7c4b90815d017053a41b46ce095e37553af80.webp"
     },
     {
       "id": "0302-aef95052",
