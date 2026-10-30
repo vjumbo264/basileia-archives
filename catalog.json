@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T23:53:34.849Z",
-  "totalEpisodes": 267,
+  "updatedAt": "2026-10-30T23:54:05.165Z",
+  "totalEpisodes": 268,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -278,6 +278,19 @@
       "bytes": 17579095,
       "description": "In this short teaching series: \"Married at my Ex-Husband's Funeral\", the weight of the marriage metaphor is fully unpacked and transmitted as Alexander Victor takes us through how the two covenants come to play. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0444-2025-11-04-married-at-my-ex-husband-s-funeral-part-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0440-b18993c6",
+      "number": 440,
+      "title": "Sola Gracias. Sola Fide. Solos CHRiStos. [An Encore] — Semmade Umanah",
+      "date": "2025-10-29",
+      "year": 2025,
+      "durationSeconds": 3560,
+      "bytes": 29424256,
+      "description": "\"By Grace alone, through Faith alone, in CHRiSt alone.\" These famous words, the motto of the Christian Reformation, are carefully dissected in this teaching. CHRiSt alone is put on full display, and we get a few bonus minutes of understanding the Devil's place and role in the Kingdom. For inquires &",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0440-2025-10-29-sola-gracias-sola-fide-solos-christos-an.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
