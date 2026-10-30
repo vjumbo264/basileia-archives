@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T06:40:01.097Z",
+  "generatedAt": "2026-10-30T06:40:12.900Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -7965,15 +7965,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/m7djmx/Fit_For_Good_Works_-_Rev_Torty_Davidberq9.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2023",
+        "assetName": "0296-2023-10-10-fervent-in-spirit-zealous-for-good-works.m4a",
+        "assetId": 691207375,
+        "bytes": 7190081,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0296 - 2023-10-10 - Fervent In Spirit Zealous For Good Works — Rev. Torty David.m4a",
       "suggestedAssetName": "0296-2023-10-10-fervent-in-spirit-zealous-for-good-works.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
