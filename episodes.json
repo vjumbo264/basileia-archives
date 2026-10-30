@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T04:54:38.677Z",
+  "generatedAt": "2026-10-30T04:55:53.149Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -5229,15 +5229,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/gkcsau/Growth_Consciousness7m08b.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Growth_Consciousnessbct1z.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2021",
+        "assetName": "0192-2021-12-09-growth-consciousness-alexander-pav-victo.m4a",
+        "assetId": 690978943,
+        "bytes": 48918360,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0192 - 2021-12-09 - Growth Consciousness — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0192-2021-12-09-growth-consciousness-alexander-pav-victo.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "45b075c862087e538c168944feb0ce5a7ea87d01cb899442202419109f662e52",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
