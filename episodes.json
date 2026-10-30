@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T22:47:13.715Z",
+  "generatedAt": "2026-10-30T22:47:42.478Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -9078,15 +9078,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/dtcj55/The_Believer_s_Faith_Narrative_-_Encore9ahmu.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/The_Believers_Faith-Narrative8ry2z.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2023",
+        "assetName": "0313-2023-12-06-the-believer-s-faith-narrative-encore-se.m4a",
+        "assetId": 693651167,
+        "bytes": 32027607,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0313 - 2023-12-06 - The Believer’s Faith-Narrative [Encore] — Semmade Umanah.m4a",
       "suggestedAssetName": "0313-2023-12-06-the-believer-s-faith-narrative-encore-se.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "46283bb0508412b05cccc54cafe71a1f777670c0c7be378c1b75e0d11850c228",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

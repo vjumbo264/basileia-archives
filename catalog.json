@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:47:13.721Z",
-  "totalEpisodes": 242,
+  "updatedAt": "2026-10-30T22:47:42.486Z",
+  "totalEpisodes": 243,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -605,6 +605,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0317-2024-01-31-kingdom-cultured-the-believer-s-conduct-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/6bb9405ac76d7512ef97db7516f969b7d80fe321ad7e693e9f1af52877caedd2.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/6bb9405ac76d7512ef97db7516f969b7d80fe321ad7e693e9f1af52877caedd2.webp"
+    },
+    {
+      "id": "0313-30e04c8b",
+      "number": 313,
+      "title": "The Believer’s Faith-Narrative [Encore] — Semmade Umanah",
+      "date": "2023-12-06",
+      "year": 2023,
+      "durationSeconds": 3884,
+      "bytes": 32027607,
+      "description": "See yourself by faith through the eyes of the One whose faith you live and please God! His narrative of you is a Faith-Narrative! An Encore by Pastor Semmade Umanah. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagram: @WAHthehurch Facebook: @",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0313-2023-12-06-the-believer-s-faith-narrative-encore-se.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/46283bb0508412b05cccc54cafe71a1f777670c0c7be378c1b75e0d11850c228.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/46283bb0508412b05cccc54cafe71a1f777670c0c7be378c1b75e0d11850c228.webp"
     },
     {
       "id": "0311-1d562cbd",
