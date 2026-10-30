@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T11:36:49.316Z",
-  "totalEpisodes": 155,
+  "updatedAt": "2026-10-30T11:37:14.993Z",
+  "totalEpisodes": 156,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0396-3a6124d6",
+      "number": 396,
+      "title": "Honouring Your Grace-Gifts (An Encore) — Rev. Torty David",
+      "date": "2025-03-04",
+      "year": 2025,
+      "durationSeconds": 2244,
+      "bytes": 18582928,
+      "description": "For the believer, next to the gift of the Holy Spirit, the most important gift is the blessing of Grace-Gifts: men set over you in the labour of Word & Doctrine. This teaching explores the scriptural admonition to hold such gifts in high esteem. For inquires & bookings: Phone: +234 708 881 8864 Emai",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0396-2025-03-04-honouring-your-grace-gifts-an-encore-rev.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0393-40e3bdc8",
       "number": 393,
