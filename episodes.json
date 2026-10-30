@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:51:12.008Z",
+  "generatedAt": "2026-10-30T03:52:53.475Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -3269,15 +3269,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/4geg1p/The_CHRiSt-Conscious_Believer_Part_11_6tn05.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/CCB_11.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0118-2020-06-11-the-christ-conscious-believer-part-11-pa.m4a",
+        "assetId": 690845456,
+        "bytes": 74689376,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0118 - 2020-06-11 - The CHRiSt-Conscious Believer [Part 11] — PAV.m4a",
       "suggestedAssetName": "0118-2020-06-11-the-christ-conscious-believer-part-11-pa.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "e5281b46d38e671dbe206517d776fe38b91978dae4fe6619eb7fd74d926fbcb8",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
