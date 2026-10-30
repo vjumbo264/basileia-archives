@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T05:39:39.797Z",
+  "generatedAt": "2026-10-30T05:39:56.261Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6493,15 +6493,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/jie2ez/Engines_-_Alfred_Genius89ui0.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Engines_-_Alfred_Okarekpe6wd1x.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0239-2022-09-14-engines-alfred-okarekpe.m4a",
+        "assetId": 691072188,
+        "bytes": 11670547,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0239 - 2022-09-14 - Engines — Alfred Okarekpe.m4a",
       "suggestedAssetName": "0239-2022-09-14-engines-alfred-okarekpe.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "53572e4ddf6f9c040165d453d4aa149274b17cbcc02ac75d9bb4f23679dd765f",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
