@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T20:48:53.061Z",
+  "generatedAt": "2026-10-30T20:49:10.708Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -13174,15 +13174,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/k3i88sjcerujb4sw/TTSP_WITH_PAV_S1_E11bh0rx.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0488-2026-07-17-jesus-did-not-die-to-improve-your-life-t.m4a",
+        "assetId": 693382499,
+        "bytes": 13469207,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0488 - 2026-07-17 - Jesus Did Not Die to Improve Your Life  The Truth Simply Put with PAV  S1 EP11.m4a",
       "suggestedAssetName": "0488-2026-07-17-jesus-did-not-die-to-improve-your-life-t.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

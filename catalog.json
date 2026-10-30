@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T20:48:53.068Z",
-  "totalEpisodes": 183,
+  "updatedAt": "2026-10-30T20:49:10.715Z",
+  "totalEpisodes": 184,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0488-1781e97a",
+      "number": 488,
+      "title": "Jesus Did Not Die to Improve Your Life || The Truth Simply Put with PAV || S1 EP11",
+      "date": "2026-07-17",
+      "year": 2026,
+      "durationSeconds": 1629,
+      "bytes": 13469207,
+      "description": "Did Jesus come to make your life better? || The Truth Simply Put with PAV [As Broadcast on Radio] In Episode 11 of The Truth Simply Put with PAV, Alexander Victor confronts one of the most common but misleading ideas in modern preaching: that the Gospel is mainly about improvement. Scripture reveals",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0488-2026-07-17-jesus-did-not-die-to-improve-your-life-t.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0486-03b7adc3",
       "number": 486,
