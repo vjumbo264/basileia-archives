@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:58:52.236Z",
-  "totalEpisodes": 249,
+  "updatedAt": "2026-10-30T22:59:22.932Z",
+  "totalEpisodes": 250,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -577,6 +577,19 @@
       "bytes": 27913959,
       "description": "We are called into a Kingdom. It has a particular government, a particular doctrine, and a particular culture. To be a believer is to be bound by the conduct & culture of the Kingdom into which we have been translated. There are eternal rewards for works done in this life, and this hard-hitting seri",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0345-2024-10-17-kingdom-cultured-the-believer-s-conduct-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0334-3c868469",
+      "number": 334,
+      "title": "Kingdom Cultured: The Believer’s Conduct [Part 36 - Honour XVI] — Alexander ’PAV’ Victor",
+      "date": "2024-09-24",
+      "year": 2024,
+      "durationSeconds": 4390,
+      "bytes": 36427589,
+      "description": "We are called into a Kingdom. It has a particular government, a particular doctrine, and a particular culture. To be a believer is to be bound by the conduct & culture of the Kingdom into which we have been translated. There are eternal rewards for works done in this life, and this hard-hitting seri",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0334-2024-09-24-kingdom-cultured-the-believer-s-conduct-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
