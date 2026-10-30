@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T04:40:49.676Z",
+  "generatedAt": "2026-10-30T04:41:56.539Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -4837,15 +4837,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/k498qa/Willingness_Consciousness8nd5l.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/WhatsApp_Image_2021-08-10_at_133733_1_69y46.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2021",
+        "assetName": "0177-2021-08-18-willingness-consciousness-alexander-pav-.m4a",
+        "assetId": 690949412,
+        "bytes": 50401962,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0177 - 2021-08-18 - Willingness Consciousness — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0177-2021-08-18-willingness-consciousness-alexander-pav-.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "394c88a921e55045bbda9080a8b89e4ad7bdf3018095d5dc5e4c8086a50d673a",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
