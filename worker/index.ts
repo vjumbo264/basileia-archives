@@ -17,6 +17,11 @@ export interface Env {
   ASSETS?: { fetch: (request: Request) => Promise<Response> };
 }
 
+export interface ExecutionContext {
+  waitUntil(promise: Promise<unknown>): void;
+  passThroughOnException(): void;
+}
+
 const REPO_OWNER = 'vjumbo264';
 const REPO_NAME = 'pav-podcast';
 const SESSION_COOKIE_NAME = 'pav_session';
@@ -136,7 +141,7 @@ function renderLoginPage(errorMessage: string = '', returnUrl: string = '/'): st
 // Fetch episodes.json with edge caching
 async function getEpisodesCatalog(env: Env): Promise<any> {
   const cacheKey = new Request('https://cache-internal.pav-podcast/episodes.json');
-  const cache = caches.default;
+  const cache = (caches as any).default;
   let cachedResponse = await cache.match(cacheKey);
 
   if (cachedResponse) {
@@ -317,7 +322,7 @@ export default {
       const size = parts[1] === 'large' ? 'large' : 'thumb';
 
       const cacheKey = new Request(request.url);
-      const cache = caches.default;
+      const cache = (caches as any).default;
       let cached = await cache.match(cacheKey);
       if (cached) return cached;
 

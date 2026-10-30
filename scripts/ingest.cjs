@@ -60,7 +60,8 @@ function ghApi(method, endpoint, body = null, extraHeaders = {}) {
 function uploadReleaseAsset(uploadUrl, assetName, filePath) {
   const token = getPat();
   const cleanUrl = uploadUrl.replace(/\{[^\}]*\}/g, '') + `?name=${encodeURIComponent(assetName)}`;
-  const cmd = `curl -s -S -X POST -H "Authorization: Bearer ${token}" -H "Accept: application/vnd.github+json" -H "Content-Type: audio/mp4" --data-binary @"${filePath}" "${cleanUrl}"`;
+  const size = fs.statSync(filePath).size;
+  const cmd = `curl -s -S -X POST -H "Authorization: Bearer ${token}" -H "Accept: application/vnd.github+json" -H "Content-Type: audio/mp4" -H "Content-Length: ${size}" --data-binary @"${filePath}" "${cleanUrl}"`;
   const stdout = cp.execSync(cmd, { encoding: 'utf8', maxBuffer: 10 * 1024 * 1024 });
   let json = null;
   try {

@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T02:05:55.154Z",
+  "generatedAt": "2026-10-30T02:09:56.264Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -93,8 +93,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "Command failed: curl -s -S -X POST -H \"Authorization: Bearer REDACTED_TOKEN\" -H \"Accept: application/vnd.github+json\" -H \"Content-Type: audio/mp4\" --data-binary @\"/app/applet/work/ep-3/0003-2016-11-03-crunch-time-a-stand-for-the-truth-pav.m4a\" \"https://uploads.github.com/repos/vjumbo264/pav-podcast/releases/428576897/assets?name=0003-2016-11-03-crunch-time-a-stand-for-the-truth-pav.m4a\""
+      "attempts": 2,
+      "lastError": "Command failed: curl -s -S -X POST -H \"Authorization: Bearer REDACTED_TOKEN\" -H \"Accept: application/vnd.github+json\" -H \"Content-Type: audio/mp4\" -H \"Content-Length: 40561633\" --data-binary @\"/app/applet/work/ep-3/0003-2016-11-03-crunch-time-a-stand-for-the-truth-pav.m4a\" \"https://uploads.github.com/repos/vjumbo264/pav-podcast/releases/428576897/assets?name=0003-2016-11-03-crunch-time-a-stand-for-the-truth-pav.m4a\""
     },
     {
       "id": "0004-a870ad91",
