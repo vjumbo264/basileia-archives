@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T21:04:49.396Z",
-  "totalEpisodes": 203,
+  "updatedAt": "2026-10-30T21:05:18.703Z",
+  "totalEpisodes": 204,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -2048,6 +2048,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0053-2019-03-10-the-word-the-power-amp-the-believer-pt-i.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/1c25d9218b0c88163ee9d902db355e0604f51777dc825a822371879e462bae5e.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/1c25d9218b0c88163ee9d902db355e0604f51777dc825a822371879e462bae5e.webp"
+    },
+    {
+      "id": "0051-3b4b4880",
+      "number": 51,
+      "title": "Aphorontes: Eyes on the Prize [Part 10, the Finale] — PAV",
+      "date": "2019-02-07",
+      "year": 2019,
+      "durationSeconds": 4009,
+      "bytes": 33137922,
+      "description": "In this series, Alexander 'PAV' Victor sheds light on the subject of 'looking unto Jesus', identifying the distractions that could potentially mitigate how we see Him for who He is- not how the natural conditions us to. Quite the eye-opener! We're quite certain you will find it beneficial. For inqui",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0051-2019-02-07-aphorontes-eyes-on-the-prize-part-10-the.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/cef0e5c92fc44861eb6d6d3590f05794994ca416e4c3881c51293a1860882cb1.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/cef0e5c92fc44861eb6d6d3590f05794994ca416e4c3881c51293a1860882cb1.webp"
     },
     {
       "id": "0050-21803a59",
