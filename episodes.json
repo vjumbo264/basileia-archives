@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T11:30:15.201Z",
+  "generatedAt": "2026-10-30T11:30:47.334Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -10502,15 +10502,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/qtbpvhvwd92yewqn/Righteousnesss_Consciousness_-_Sodiq_Mayowa7iaip.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0387-2025-01-20-right-standing-mayowa-malik.m4a",
+        "assetId": 691911040,
+        "bytes": 22305742,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0387 - 2025-01-20 - Right Standing — Mayowa Malik.m4a",
       "suggestedAssetName": "0387-2025-01-20-right-standing-mayowa-malik.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

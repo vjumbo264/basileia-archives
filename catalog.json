@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T11:30:15.208Z",
-  "totalEpisodes": 152,
+  "updatedAt": "2026-10-30T11:30:47.341Z",
+  "totalEpisodes": 153,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0387-b8ad34aa",
+      "number": 387,
+      "title": "Right Standing — Mayowa Malik",
+      "date": "2025-01-20",
+      "year": 2025,
+      "durationSeconds": 2684,
+      "bytes": 22305742,
+      "description": "Did God hand over His righteousness to you, such that it is now yours to do as you please, and potentially to lose? Or... Why don't you delve in as PAV unpacks this, dear son of God! For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagram: @WAHThe",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0387-2025-01-20-right-standing-mayowa-malik.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0383-ec30fe96",
       "number": 383,
