@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:39:16.700Z",
-  "totalEpisodes": 175,
+  "updatedAt": "2026-10-30T16:39:38.778Z",
+  "totalEpisodes": 176,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0482-e51ac235",
+      "number": 482,
+      "title": "God Is Not Mad At You || The Truth Simply Put with PAV | S1 EP9",
+      "date": "2026-06-30",
+      "year": 2026,
+      "durationSeconds": 1719,
+      "bytes": 14258180,
+      "description": "If you have just believed in and received the Lord Jesus during the course of this broadcast, we would love to hear from you—as well as if you'd like to partner with PAV through the PAV AIRFORCE LEAGUE initiative, or to invite PAV to speak at your event. Email us: info@thetruthsimplyput.com or conta",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0482-2026-06-30-god-is-not-mad-at-you-the-truth-simply-p.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/5dac8ad9b71d7b1ee63b4b7f308712f35adfcbf6bd8409213c5d129ee4aab241.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/5dac8ad9b71d7b1ee63b4b7f308712f35adfcbf6bd8409213c5d129ee4aab241.webp"
+    },
     {
       "id": "0481-719120a2",
       "number": 481,

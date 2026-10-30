@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:39:16.693Z",
+  "generatedAt": "2026-10-30T16:39:38.771Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12966,15 +12966,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/kk5b6fvupp7gkya6/TTSP_S2_EP9824y6.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/TTSP_GOD_IS_NOT_MAD_YOU94fv7.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0482-2026-06-30-god-is-not-mad-at-you-the-truth-simply-p.m4a",
+        "assetId": 692727449,
+        "bytes": 14258180,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0482 - 2026-06-30 - God Is Not Mad At You  The Truth Simply Put with PAV  S1 EP9.m4a",
       "suggestedAssetName": "0482-2026-06-30-god-is-not-mad-at-you-the-truth-simply-p.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "5dac8ad9b71d7b1ee63b4b7f308712f35adfcbf6bd8409213c5d129ee4aab241",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
