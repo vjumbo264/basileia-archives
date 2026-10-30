@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T06:44:20.731Z",
+  "generatedAt": "2026-10-30T06:44:48.981Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -8181,15 +8181,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/zt86zi/_KingdomCultured_The_Believer_s_Conduct_Part_148i0in.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/TBC14.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2023",
+        "assetName": "0304-2023-11-15-kingdom-cultured-the-believer-s-conduct-.m4a",
+        "assetId": 691216308,
+        "bytes": 20389803,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0304 - 2023-11-15 - Kingdom Cultured The Believer’s Conduct [Part 14] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0304-2023-11-15-kingdom-cultured-the-believer-s-conduct-.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "d45351478c79875520afb0780e49080a0d24a97b6b17fe0c73f687cc6d320de1",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
