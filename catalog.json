@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T08:22:38.368Z",
-  "totalEpisodes": 128,
+  "updatedAt": "2026-10-30T08:23:09.056Z",
+  "totalEpisodes": 129,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1307,6 +1307,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0048-2019-01-06-aphorontes-eyes-on-the-prize-part-8a-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/d2be16bed718a0cf05444c8c6ea222410870ec21996a7c74a43f77d7afc90041.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/d2be16bed718a0cf05444c8c6ea222410870ec21996a7c74a43f77d7afc90041.webp"
+    },
+    {
+      "id": "0047-69872f64",
+      "number": 47,
+      "title": "Aphorontes: Eyes on the Prize [Part 7] — PAV",
+      "date": "2019-01-05",
+      "year": 2019,
+      "durationSeconds": 3264,
+      "bytes": 27090505,
+      "description": "In this series, Alexander 'PAV' Victor sheds light on the subject of 'looking unto Jesus', identifying the distractions that could potentially mitigate how we see Him for who He is- not how the natural conditions us to. Quite the eye-opener! We're quite certain you will find it beneficial. For inqui",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0047-2019-01-05-aphorontes-eyes-on-the-prize-part-7-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/6a2008a0c0f15710da3a69403f5a5b95d8edad245aeec4b6d96e3e686126c97a.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/6a2008a0c0f15710da3a69403f5a5b95d8edad245aeec4b6d96e3e686126c97a.webp"
     },
     {
       "id": "0046-806223bc",
