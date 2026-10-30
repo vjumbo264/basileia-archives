@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T05:45:40.247Z",
+  "generatedAt": "2026-10-30T05:47:29.174Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6677,15 +6677,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/cxrsu7/That_Your_Faith_Fail_Not_-_Simon_Simon8k54v.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/That_Your_Faith_Fail_Not7xopt.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0246-2022-11-03-that-your-faith-fail-not-alexander-pav-v.m4a",
+        "assetId": 691088227,
+        "bytes": 96780319,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0246 - 2022-11-03 - That Your Faith Fail Not — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0246-2022-11-03-that-your-faith-fail-not-alexander-pav-v.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "d5d21338cbc7f7e9271169beb97768aa6f504ee9a85a70f30ba6c10bff74bfe9",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
