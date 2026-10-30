@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T02:41:51.237Z",
+  "generatedAt": "2026-10-30T02:42:18.874Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -197,15 +197,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/b6548q/stream_303366631-thebasileiacommission-tsp-thefatherseeketh-part1-pav.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2017",
+        "assetName": "0007-2017-01-19-the-father-seeketh-such-pt-i-pav.m4a",
+        "assetId": 690692938,
+        "bytes": 20520092,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0007 - 2017-01-19 - The Father Seeketh Such [Pt I] —PAV.m4a",
       "suggestedAssetName": "0007-2017-01-19-the-father-seeketh-such-pt-i-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
