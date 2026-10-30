@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T02:09:56.264Z",
+  "generatedAt": "2026-10-30T02:18:18.263Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -85,16 +85,24 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/7yth3s/stream_291251767-thebasileiacommission-tsp-crunchtime-pav.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2016",
+        "assetName": "0003-2016-11-03-crunch-time-a-stand-for-the-truth-pav.m4a",
+        "assetId": 690624659,
+        "bytes": 40561633,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0003 - 2016-11-03 - Crunch-Time [A Stand For The Truth] — PAV.m4a",
       "suggestedAssetName": "0003-2016-11-03-crunch-time-a-stand-for-the-truth-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 2,
-      "lastError": "Command failed: curl -s -S -X POST -H \"Authorization: Bearer REDACTED_TOKEN\" -H \"Accept: application/vnd.github+json\" -H \"Content-Type: audio/mp4\" -H \"Content-Length: 40561633\" --data-binary @\"/app/applet/work/ep-3/0003-2016-11-03-crunch-time-a-stand-for-the-truth-pav.m4a\" \"https://uploads.github.com/repos/vjumbo264/pav-podcast/releases/428576897/assets?name=0003-2016-11-03-crunch-time-a-stand-for-the-truth-pav.m4a\""
+      "status": "done",
+      "attempts": 3,
+      "lastError": null
     },
     {
       "id": "0004-a870ad91",
@@ -109,15 +117,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/c5gug8/stream_296727092-thebasileiacommission-tsp-losingmymind-part2-pav.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2016",
+        "assetName": "0004-2016-12-08-help-i-m-losing-my-mind-part-2-pav.m4a",
+        "assetId": 690608421,
+        "bytes": 21191805,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0004 - 2016-12-08 - Help! I'm losing my mind! [Part 2] — PAV.m4a",
       "suggestedAssetName": "0004-2016-12-08-help-i-m-losing-my-mind-part-2-pav.m4a",
       "cover": {
         "sha256": null,
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

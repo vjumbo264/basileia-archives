@@ -232,7 +232,7 @@ export default {
           returnUrl = json.returnUrl || '/';
         }
 
-        const isValid = timingSafeEqualStr(password, env.SITE_PASSWORD || 'REDACTED_SITE_PASSWORD');
+        const isValid = timingSafeEqualStr(password, env.SITE_PASSWORD || '');
         if (!isValid) {
           // Slow down brute-force attacks
           await new Promise(r => setTimeout(r, 1200));
