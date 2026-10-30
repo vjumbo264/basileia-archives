@@ -1,0 +1,50 @@
+{
+  "project": "pav-podcast",
+  "repo": "vjumbo264/pav-podcast",
+  "updatedAt": "2026-10-29T18:54:00Z",
+  "currentPhase": 1,
+  "phases": {
+    "1": {
+      "status": "in_progress",
+      "steps": {
+        "repo_created": "done",
+        "feed_verified": "pending",
+        "ingest_script": "pending",
+        "pilot_3_episodes": "pending",
+        "workflows_committed": "pending"
+      }
+    },
+    "2": {
+      "status": "pending",
+      "steps": {}
+    },
+    "3": {
+      "status": "pending",
+      "steps": {}
+    },
+    "4": {
+      "status": "reserved_for_fresh_session",
+      "steps": {}
+    }
+  },
+  "facts": {
+    "feedUrl": "https://feed.podbean.com/thetruthsimplyput/feed.xml",
+    "feedItemCount": null,
+    "expectedEpisodes": 510,
+    "completionMethod": null
+  },
+  "workerUrl": null,
+  "secretsSetup": {
+    "githubActions": [],
+    "cloudflareWorker": []
+  },
+  "blocked_on_user": [],
+  "todos": [
+    "Replace GITHUB_TOKEN_READ on Worker with a fine-grained or dedicated read-only PAT later (read-only for repo contents and releases)"
+  ],
+  "lastSecretScan": {
+    "at": null,
+    "result": null
+  },
+  "notes": "Repo created on vjumbo264/pav-podcast. Phase 1 in progress. Starting feed verification and episode counting."
+}

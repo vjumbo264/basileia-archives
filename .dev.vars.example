@@ -1,0 +1,5 @@
+# Cloudflare Worker local secrets example
+# Do NOT put real secrets in this file.
+GITHUB_TOKEN_READ="your_github_read_pat_here"
+SITE_PASSWORD="your_site_password_here"
+SESSION_SECRET="your_32_byte_random_session_secret_hex"

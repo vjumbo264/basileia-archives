@@ -1,0 +1,6 @@
+{
+  "name": "PAV Podcast",
+  "description": "Private Sermon Archive and Listening Platform for The Truth Simply Put with PAV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
