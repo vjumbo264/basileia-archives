@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T08:09:38.749Z",
+  "generatedAt": "2026-10-30T08:10:10.875Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -174,15 +174,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/q7hubk/stream_301098554-thebasileiacommission-tsp-lifeofvictory-pav.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2017",
+        "assetName": "0006-2017-01-06-life-of-victory-taking-back-your-place-p.m4a",
+        "assetId": 691410904,
+        "bytes": 28855826,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0006 - 2017-01-06 - Life Of Victory [Taking Back Your Place] — PAV.m4a",
       "suggestedAssetName": "0006-2017-01-06-life-of-victory-taking-back-your-place-p.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T08:09:38.757Z",
-  "totalEpisodes": 123,
+  "updatedAt": "2026-10-30T08:10:10.882Z",
+  "totalEpisodes": 124,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1552,6 +1552,19 @@
       "bytes": 20520092,
       "description": "Are you the kind of worshipper the Father is seeking? This simple but poignant teaching culled from the conversation Jesus had with the Samaritan lifts the lid on what it means to be the kind of worshipper that God is seeking! Strap up, dig in! For inquires & bookings: info@thebasileiacommission.org",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2017/0007-2017-01-19-the-father-seeketh-such-pt-i-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0006-dbf86611",
+      "number": 6,
+      "title": "Life Of Victory [Taking Back Your Place] — PAV",
+      "date": "2017-01-06",
+      "year": 2017,
+      "durationSeconds": 3496,
+      "bytes": 28855826,
+      "description": "Christ paid the price for us IN FULL. Nothing was left out in that great exchange, the full benefits of which were handed over to us. We ARE God's victory in Christ! Learn how to walk in that victory and take back your place from the enemy in God's scheme of things! For inquires & bookings: info@the",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2017/0006-2017-01-06-life-of-victory-taking-back-your-place-p.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
