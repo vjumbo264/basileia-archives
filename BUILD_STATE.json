@@ -1,7 +1,7 @@
 {
   "project": "pav-podcast",
   "repo": "vjumbo264/pav-podcast",
-  "updatedAt": "2026-10-30T02:38:45.000Z",
+  "updatedAt": "2026-10-30T07:54:35.681Z",
   "currentPhase": 3,
   "phases": {
     "1": {
@@ -72,5 +72,71 @@
     "result": "clean",
     "details": "Full git history and working tree scanned. Zero token/secret patterns found."
   },
-  "notes": "Phases 1-3 complete. Pilot verified: mono 64k AAC with embedded 600x600 cover art and FastStart MP4. Cloudflare Worker deployed with password gate, Range audio streaming proxy, edge-cached catalog and covers. CI peer-dependency conflicts resolved. Phase 4 UI refinement reserved for a fresh session."
+  "notes": "Phases 1-3 complete. Pilot verified: mono 64k AAC with embedded 600x600 cover art and FastStart MP4. Cloudflare Worker deployed with password gate, Range audio streaming proxy, edge-cached catalog and covers. CI peer-dependency conflicts resolved. Phase 4 UI refinement reserved for a fresh session.",
+  "v2": {
+    "task": "Basileia Archives: audit pipeline, go public, replace player with archive",
+    "updatedAt": "2026-10-30T07:54:35.682Z",
+    "repoName": "pav-podcast",
+    "phases": {
+      "A_audit_repair": {
+        "status": "pending",
+        "steps": {
+          "counts_recorded": "pending",
+          "state_reconciled": "pending",
+          "causes_fixed": "pending",
+          "backlog_complete": "pending"
+        }
+      },
+      "B_public_rename": {
+        "status": "pending",
+        "steps": {
+          "secret_scan": "pending",
+          "renamed": "pending",
+          "public": "pending",
+          "chain_verified": "pending"
+        }
+      },
+      "C_site": {
+        "status": "pending",
+        "steps": {
+          "catalog_json": "pending",
+          "static_site": "pending",
+          "deployed": "pending",
+          "old_worker_removed": "pending"
+        }
+      },
+      "D_docs": {
+        "status": "pending",
+        "steps": {}
+      },
+      "E_ui_refinement": {
+        "status": "reserved_for_fresh_session",
+        "steps": {}
+      }
+    },
+    "audit": {
+      "feedItems": null,
+      "appleEpisodes": null,
+      "siteArchiveEntries": null,
+      "secondPodbeanPage": null,
+      "episodesJson": {
+        "done": null,
+        "pending": null,
+        "failed": null
+      },
+      "assetsPerYear": {},
+      "causesFound": []
+    },
+    "siteUrl": null,
+    "blocked_on_user": [],
+    "todos": [],
+    "future": [
+      "YouTube-only messages (@TheTruthSimplyPut)"
+    ],
+    "lastSecretScan": {
+      "at": null,
+      "result": null
+    },
+    "notes": "Starting v2 audit and migration to public Basileia Archives."
+  }
 }
