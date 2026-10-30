@@ -1,0 +1,113 @@
+name: Ingest Podcast Episodes
+
+on:
+  schedule:
+    # Run every 3 hours as safety net and new episode poller
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      force_episode:
+        description: 'Specific episode ID or Number to reprocess'
+        required: false
+        default: ''
+      reprocess_failed:
+        description: 'Reprocess episodes marked as failed'
+        required: false
+        type: boolean
+        default: false
+      limit:
+        description: 'Max episodes to process in this run (optional)'
+        required: false
+        default: ''
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  ingest:
+    name: Ingest & Convert Backlog
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Configure Git Author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update & Merge RSS Feed
+        run: |
+          node scripts/init-feed.cjs
+
+      - name: Run Ingest Pipeline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ARGS="--max-minutes 255"
+          if [ -n "${{ github.event.inputs.force_episode }}" ]; then
+            ARGS="$ARGS --force ${{ github.event.inputs.force_episode }}"
+          fi
+          if [ "${{ github.event.inputs.reprocess_failed }}" = "true" ]; then
+            ARGS="$ARGS --reprocess-failed"
+          fi
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"
+          fi
+          node scripts/ingest.cjs $ARGS
+
+      - name: Generate Run Summary
+        run: |
+          node -e '
+            const fs = require("fs");
+            const state = JSON.parse(fs.readFileSync("episodes.json", "utf8"));
+            const done = state.episodes.filter(e => e.status === "done").length;
+            const pending = state.episodes.filter(e => e.status === "pending").length;
+            const failed = state.episodes.filter(e => e.status === "failed").length;
+            const total = state.episodes.length;
+            const summary = [
+              "## PAV Podcast Ingestion Summary",
+              `* **Total Episodes in Catalog**: ${total}`,
+              `* **Completed (Mono AAC 64k)**: ${done}`,
+              `* **Pending Ingestion**: ${pending}`,
+              `* **Failed**: ${failed}`,
+              `* **Catalog Progress**: ${((done / total) * 100).toFixed(1)}%`
+            ].join("\n");
+            fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, summary);
+          '
+
+      - name: Chain Next Ingestion Run If Pending
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          HAS_PENDING=$(node -e '
+            const state = JSON.parse(require("fs").readFileSync("episodes.json", "utf8"));
+            const pending = state.episodes.filter(e => e.status === "pending").length;
+            process.stdout.write(pending > 0 ? "true" : "false");
+          ')
+          if [ "$HAS_PENDING" = "true" ]; then
+            echo "Pending episodes remain. Dispatching next chained run..."
+            gh workflow run ingest.yml --repo "${{ github.repository }}"
+          else
+            echo "All catalog episodes processed. No chaining needed."
+          fi
