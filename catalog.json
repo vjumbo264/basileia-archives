@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:36:10.230Z",
-  "totalEpisodes": 172,
+  "updatedAt": "2026-10-30T16:36:30.709Z",
+  "totalEpisodes": 173,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0477-636bda06",
+      "number": 477,
+      "title": "CHRiSt Crucified. What Does That Mean? || The Truth Simply Put with PAV || S1 EP7",
+      "date": "2026-05-28",
+      "year": 2026,
+      "durationSeconds": 1688,
+      "bytes": 14018275,
+      "description": "If you have just believed in and received the Lord Jesus during the course of this broadcast, we would love to hear from you—as well as if you'd like to partner with PAV through the PAV AIRFORCE LEAGUE initiative, or to invite PAV to speak at your event. Email us: info@thetruthsimplyput.com or conta",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0477-2026-05-28-christ-crucified-what-does-that-mean-the.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/1ee778fdf4ea5884079c17f194fdcecdeb84f40c2d303687ef4b3cb29adea465.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/1ee778fdf4ea5884079c17f194fdcecdeb84f40c2d303687ef4b3cb29adea465.webp"
+    },
     {
       "id": "0475-7ef35982",
       "number": 475,

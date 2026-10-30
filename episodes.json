@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:36:10.222Z",
+  "generatedAt": "2026-10-30T16:36:30.701Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12822,15 +12822,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/ddrxp3d6h8mpbibu/TTSP_WITH_PAV_S1_E7akl1b.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Christ_Crucifiedaa58p.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0477-2026-05-28-christ-crucified-what-does-that-mean-the.m4a",
+        "assetId": 692719088,
+        "bytes": 14018275,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0477 - 2026-05-28 - CHRiSt Crucified. What Does That Mean  The Truth Simply Put with PAV  S1 EP7.m4a",
       "suggestedAssetName": "0477-2026-05-28-christ-crucified-what-does-that-mean-the.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "1ee778fdf4ea5884079c17f194fdcecdeb84f40c2d303687ef4b3cb29adea465",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
