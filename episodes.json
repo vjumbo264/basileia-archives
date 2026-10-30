@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T19:42:06.734Z",
+  "generatedAt": "2026-10-30T19:42:39.802Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -10510,15 +10510,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/p6x3ysqwtmtheb7h/Followership_A_Mini_Guide_-_Stephenie_Benjaminbcj4e.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0385-2025-01-17-followership-a-mini-guide-stephenie-benj.m4a",
+        "assetId": 693216090,
+        "bytes": 25657090,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0385 - 2025-01-17 - Followership; A Mini Guide — Stephenie Benjamin.m4a",
       "suggestedAssetName": "0385-2025-01-17-followership-a-mini-guide-stephenie-benj.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
