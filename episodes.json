@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T04:33:19.621Z",
+  "generatedAt": "2026-10-30T04:34:32.159Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -4645,15 +4645,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/6uaih5/Discerning_The_Voice_And_Leading_Of_The_Spirit9j9xt.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/The_Voice6au80.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2021",
+        "assetName": "0170-2021-07-03-discerning-the-voice-leading-of-the-holy.m4a",
+        "assetId": 690933931,
+        "bytes": 61291311,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0170 - 2021-07-03 - Discerning The Voice & Leading of the Holy Spirit — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0170-2021-07-03-discerning-the-voice-leading-of-the-holy.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "7e1c3f6d67f59e8a4ba5b87260d73d4f0eeff772e68c5631a98d31cf6fb901dd",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
