@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:09:39.512Z",
+  "generatedAt": "2026-10-30T03:10:11.282Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -1573,15 +1573,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/u9dqpm/Eternal_Life__Assurance_beyond_probability_Pt_1_.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Eternal_Life_Pt_2_.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0057-2019-04-12-eternal-life-assurance-beyond-probabilit.m4a",
+        "assetId": 690750749,
+        "bytes": 24886640,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0057 - 2019-04-12 - Eternal Life Assurance Beyond Probability [Part 1]— PAV.m4a",
       "suggestedAssetName": "0057-2019-04-12-eternal-life-assurance-beyond-probabilit.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "2a7dc532e2f2e62bc37e7756ae094de12b3c95c58e8755b76e79587108075b66",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
