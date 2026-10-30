@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:33:19.385Z",
-  "totalEpisodes": 168,
+  "updatedAt": "2026-10-30T16:33:37.685Z",
+  "totalEpisodes": 169,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0471-203a4013",
+      "number": 471,
+      "title": "The Gospel: Good News with No Bad Side || The Truth Simply Put with PAV || S1 EP3",
+      "date": "2026-04-22",
+      "year": 2026,
+      "durationSeconds": 1590,
+      "bytes": 13164334,
+      "description": "What exactly is the Gospel? || The Truth Simply Put with PAV [As Broadcast on Radio] In Episode 3 of The Truth Simply Put with PAV, he begins to answer that question with clarity and force. The Gospel is not religious advice. It is not moral instruction. It is not a list of duties by which man attem",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0471-2026-04-22-the-gospel-good-news-with-no-bad-side-th.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/b15f6b42cd8d25b130e5a77dc08d1477050d8f21c4923cf24e6837cf144816a4.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/b15f6b42cd8d25b130e5a77dc08d1477050d8f21c4923cf24e6837cf144816a4.webp"
+    },
     {
       "id": "0468-6212435f",
       "number": 468,

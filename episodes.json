@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:33:19.378Z",
+  "generatedAt": "2026-10-30T16:33:37.678Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12646,15 +12646,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/h55myzmh78scajbd/TTSP_WITH_PAV_S1_E39q034.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Episode_3_hfzn5h.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0471-2026-04-22-the-gospel-good-news-with-no-bad-side-th.m4a",
+        "assetId": 692711359,
+        "bytes": 13164334,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0471 - 2026-04-22 - The Gospel Good News with No Bad Side  The Truth Simply Put with PAV  S1 EP3.m4a",
       "suggestedAssetName": "0471-2026-04-22-the-gospel-good-news-with-no-bad-side-th.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "b15f6b42cd8d25b130e5a77dc08d1477050d8f21c4923cf24e6837cf144816a4",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
