@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:34:43.527Z",
+  "generatedAt": "2026-10-30T16:35:03.320Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12734,15 +12734,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/f8hm99p96v4k4b9t/TTSP_WITH_PAV_S1_E598ix1.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Episode_568c44.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0474-2026-05-06-sin-reigned-christ-ended-it-the-truth-si.m4a",
+        "assetId": 692715114,
+        "bytes": 14305673,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0474 - 2026-05-06 - Sin Reigned. CHRiSt Ended It.  The Truth Simply Put with PAV  S1 EP5.m4a",
       "suggestedAssetName": "0474-2026-05-06-sin-reigned-christ-ended-it-the-truth-si.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "c481b3735942095240e172fd74433e00d5a0f859c8e9d8bc52c5af2c48c35c66",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
