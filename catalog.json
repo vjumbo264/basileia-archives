@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T13:34:39.697Z",
-  "totalEpisodes": 163,
+  "updatedAt": "2026-10-30T13:35:14.086Z",
+  "totalEpisodes": 164,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -748,6 +748,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0203-2022-02-16-church-consciousness-part-7-alexander-pa.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/20c791d6c5b937d0fa53d6590758c26f2b53993474fa28c83eea8a0582866f10.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/20c791d6c5b937d0fa53d6590758c26f2b53993474fa28c83eea8a0582866f10.webp"
+    },
+    {
+      "id": "0201-0e38ca88",
+      "number": 201,
+      "title": "Church Consciousness [Part 5] — Alexander ’PAV’ Victor",
+      "date": "2022-02-04",
+      "year": 2022,
+      "durationSeconds": 3124,
+      "bytes": 25718597,
+      "description": "Have you been wondering what the essence of the church is? Find here in this teaching the vitality of the doctrine of the church. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagram: @WAHTheChurch Facebook: @TheBasileiaCommission | @WAHTheChur",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0201-2022-02-04-church-consciousness-part-5-alexander-pa.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/5a8bc143e469cbf2cbb7f0a3d3dd87018bf93c53db1eb54828eee9c3791402af.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/5a8bc143e469cbf2cbb7f0a3d3dd87018bf93c53db1eb54828eee9c3791402af.webp"
     },
     {
       "id": "0199-391024e0",
