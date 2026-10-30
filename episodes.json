@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:24:17.364Z",
+  "generatedAt": "2026-10-30T03:24:34.565Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2221,15 +2221,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/jsvbtz/Led_By_The_Spirit.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/led_by_the_spirit3.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0080-2019-12-12-led-by-the-spirit-pav.m4a",
+        "assetId": 690782885,
+        "bytes": 10349219,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0080 - 2019-12-12 - Led By The Spirit — PAV.m4a",
       "suggestedAssetName": "0080-2019-12-12-led-by-the-spirit-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "549731587a251783bc49ef828d4e9ba460f5bd9536b5f15ca1be0481713cb82b",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
