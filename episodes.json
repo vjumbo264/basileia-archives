@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T05:48:36.625Z",
+  "generatedAt": "2026-10-30T05:50:40.989Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6733,15 +6733,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/z3eaiu/Light_Consciousness_-_Sons_of_Light7p418.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Light_Consciousness7omys.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0248-2022-11-15-light-consciousness-solving-the-light-eq.m4a",
+        "assetId": 691094860,
+        "bytes": 104857494,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0248 - 2022-11-15 - Light Consciousness [Solving The Light Equation] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0248-2022-11-15-light-consciousness-solving-the-light-eq.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "f0b059f05b456f50cc7b31ad9abbf7fc475d0d21c28d92911e62a8463a0e0809",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
