@@ -164,17 +164,33 @@
     "task": "Basileia Archives: automatic light/dark + clean premium UI",
     "updatedAt": "2026-10-30T09:34:00.000Z",
     "phases": {
-      "1_audit": { "status": "pending", "steps": {} },
-      "2_tokens_theming": { "status": "pending", "steps": { "tokens": "pending", "color_scheme_meta": "pending", "theme_color": "pending", "favicon": "pending" } },
+      "1_audit": {
+        "status": "done",
+        "steps": {
+          "code_inspection": "done",
+          "screenshots_captured": "done",
+          "flaws_identified": "done"
+        }
+      },
+      "2_tokens_theming": { "status": "in_progress", "steps": { "tokens": "in_progress", "color_scheme_meta": "pending", "theme_color": "pending", "favicon": "pending" } },
       "3_components": { "status": "pending", "steps": { "header": "pending", "hero": "pending", "list_cards": "pending", "chips_search": "pending", "recent_row": "pending", "audio_container": "pending", "states": "pending", "footer": "pending" } },
       "4_responsive": { "status": "pending", "steps": {} },
       "5_a11y_perf": { "status": "pending", "steps": {} },
       "6_deploy_docs": { "status": "pending", "steps": { "sw_version_bumped": "pending", "deployed": "pending", "readme": "pending" } }
     },
-    "audit": [],
+    "audit": [
+      "Hardcoded dark navy classes throughout (bg-[#0f172a], bg-slate-950, text-white, border-slate-800); completely broken/missing light theme.",
+      "audio filter invert(100%) hue-rotate(180deg) hack present in CSS causing distorted colors and breaking native audio appearance in light mode.",
+      "Prohibited decorative pulsing status dot in header (violates anti-slop guidelines).",
+      "Pill-box metadata instead of clean unboxed editorial typography with tabular figures.",
+      "Single static SVG favicon with hardcoded blue box; no prefers-color-scheme media query.",
+      "Missing <meta name=\"color-scheme\"> and theme-color tags for light/dark browser address bars.",
+      "Service worker not registered or versioned for app-shell and cover LRU caching.",
+      "Desktop layout restricted to single narrow column with excess dead space, while mobile 360px has tight padding and awkward button wrapping."
+    ],
     "lighthouse": { "before": null, "after": null },
     "blocked_on_user": [],
     "todos": [],
-    "notes": "Initialized v3_ui UI refinement."
+    "notes": "Phase 1 audit complete. Captured baseline screenshots for 360, 390, 768, 1280 in docs/ui/before. Now implementing CSS custom properties and token system in Phase 2."
   }
 }
