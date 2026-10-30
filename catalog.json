@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:31:40.430Z",
-  "totalEpisodes": 167,
+  "updatedAt": "2026-10-30T16:32:01.830Z",
+  "totalEpisodes": 168,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0468-6212435f",
+      "number": 468,
+      "title": "If You Want to Know God, Look at Jesus || The Truth Simply Put with PAV [Radio Broadcast] || S1 EP2",
+      "date": "2026-04-14",
+      "year": 2026,
+      "durationSeconds": 1671,
+      "bytes": 13806892,
+      "description": "If God exists, then the next great question is unavoidable: What is He like? || The Truth Simply Put with PAV [As Broadcast on TV] In this second episode of The Truth Simply Put with PAV, Alexander Victor moves from the fact of God’s existence to the clearest revelation of His nature: Jesus CHRiSt. ",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0468-2026-04-14-if-you-want-to-know-god-look-at-jesus-th.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/0cdcf5ae284703a9e1a4d6b1c86b93d34e0997777b458a9115970bfd802b4e4f.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/0cdcf5ae284703a9e1a4d6b1c86b93d34e0997777b458a9115970bfd802b4e4f.webp"
+    },
     {
       "id": "0466-d304824b",
       "number": 466,

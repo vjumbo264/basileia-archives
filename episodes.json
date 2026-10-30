@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:31:40.423Z",
+  "generatedAt": "2026-10-30T16:32:01.823Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12566,15 +12566,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/248ij6shmg8sfk3a/TTSP_WITH_PAV_S1_E28tjxg.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Episode_2_5jssub.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0468-2026-04-14-if-you-want-to-know-god-look-at-jesus-th.m4a",
+        "assetId": 692707395,
+        "bytes": 13806892,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0468 - 2026-04-14 - If You Want to Know God, Look at Jesus  The Truth Simply Put with PAV [Radio Broadcast]  S1 EP2.m4a",
       "suggestedAssetName": "0468-2026-04-14-if-you-want-to-know-god-look-at-jesus-th.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "0cdcf5ae284703a9e1a4d6b1c86b93d34e0997777b458a9115970bfd802b4e4f",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
