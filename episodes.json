@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T08:35:35.957Z",
+  "generatedAt": "2026-10-30T08:36:07.069Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2926,15 +2926,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/fmq57z/The_Unlikelies.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Unlikelies.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0100-2020-03-19-the-unlikelies-treasure-in-earthen-vesse.m4a",
+        "assetId": 691472774,
+        "bytes": 22732689,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0100 - 2020-03-19 - The Unlikelies [Treasure In Earthen Vessels] — PAV.m4a",
       "suggestedAssetName": "0100-2020-03-19-the-unlikelies-treasure-in-earthen-vesse.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "588f54a120d4bd399c9e2ae42ce6b829f9e728a647ce6979c073462a59a44654",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

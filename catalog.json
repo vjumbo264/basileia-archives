@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T08:35:35.964Z",
-  "totalEpisodes": 134,
+  "updatedAt": "2026-10-30T08:36:07.076Z",
+  "totalEpisodes": 135,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -891,6 +891,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0105-2020-04-11-you-are-what-you-see-part-2-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/97ab9ab03c7ded4ef03954347cbd8d113d1e0f9934bed4463e96c510c6507091.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/97ab9ab03c7ded4ef03954347cbd8d113d1e0f9934bed4463e96c510c6507091.webp"
+    },
+    {
+      "id": "0100-a509d261",
+      "number": 100,
+      "title": "The Unlikelies [Treasure In Earthen Vessels] — PAV",
+      "date": "2020-03-19",
+      "year": 2020,
+      "durationSeconds": 2744,
+      "bytes": 22732689,
+      "description": "The underdogs... The under-estimated... The unassuming... The Unlikelies... carrying the eternal treasure of God: CHRiSt. And manifesting the same everywhere! For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Facebook: @TheBasileiaCommission Twitter: @TheBasil",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0100-2020-03-19-the-unlikelies-treasure-in-earthen-vesse.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/588f54a120d4bd399c9e2ae42ce6b829f9e728a647ce6979c073462a59a44654.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/588f54a120d4bd399c9e2ae42ce6b829f9e728a647ce6979c073462a59a44654.webp"
     },
     {
       "id": "0099-361d533e",
