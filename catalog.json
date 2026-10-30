@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T08:20:25.396Z",
-  "totalEpisodes": 126,
+  "updatedAt": "2026-10-30T08:20:57.582Z",
+  "totalEpisodes": 127,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1344,6 +1344,19 @@
       "bytes": 28252631,
       "description": "In this series, Alexander 'PAV' Victor sheds light on the subject of 'looking unto Jesus', identifying the distractions that could potentially mitigate how we see Him for who He is- not how the natural conditions us to. Quite the eye-opener! We're quite certain you will find it beneficial. For inqui",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2018/0043-2018-11-18-aphorontes-eyes-on-the-prize-part-3-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0040-581daac5",
+      "number": 40,
+      "title": "#KingdomCultured: Unpacking The Honour Code [Part 10, The Finale] — PAV",
+      "date": "2018-10-25",
+      "year": 2018,
+      "durationSeconds": 2687,
+      "bytes": 21226502,
+      "description": "In this series, PAV painstakingly unpacks the critical subject of Honour as it pertain to the New Testament believer and the culture of the Kingdom at all levels of life and ministry. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommission.org Facebook: @TheBasileiaCommis",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2018/0040-2018-10-25-kingdomcultured-unpacking-the-honour-cod.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
