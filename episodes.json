@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:25:20.276Z",
+  "generatedAt": "2026-10-30T03:25:37.735Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2309,15 +2309,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/4cj397/CHRiSt_Our_Preservative.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/CHRiSt_our_preservative.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0083-2019-12-12-christ-our-preservative-pav.m4a",
+        "assetId": 690785386,
+        "bytes": 11087069,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0083 - 2019-12-12 - CHRISt, Our Preservative — PAV.m4a",
       "suggestedAssetName": "0083-2019-12-12-christ-our-preservative-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "c26c179782759893463226ef6af7c44d0447dd06b80a1403d961e485b289cdf3",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
