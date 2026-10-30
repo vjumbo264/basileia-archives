@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T16:30:22.794Z",
+  "generatedAt": "2026-10-30T16:30:41.483Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12510,15 +12510,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/tqg56fmknfp76vfc/TTSP_WITH_PAV_S1_E1814h4.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Thumbnail_4x4jpg_g5dhrt.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0466-2026-04-08-god-is-the-premise-of-the-gospel-the-tru.m4a",
+        "assetId": 692703746,
+        "bytes": 12625935,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0466 - 2026-04-08 - God Is The Premise Of The Gospel  The Truth Simply Put with PAV [Radio Broadcast]  S1 EP1.m4a",
       "suggestedAssetName": "0466-2026-04-08-god-is-the-premise-of-the-gospel-the-tru.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "6cb93575bd82df154f574e6c647a7eca2c00af121f417fd119ed222e6d8a22a1",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
