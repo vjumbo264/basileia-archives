@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T06:00:38.750Z",
+  "generatedAt": "2026-10-30T06:02:11.202Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6941,15 +6941,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/x7exgy/What_Purpose_Then_Does_The_Law_Serve_Part_16b4ox.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/1.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2023",
+        "assetName": "0256-2023-01-03-what-purpose-does-the-law-serve-part-1-a.m4a",
+        "assetId": 691120401,
+        "bytes": 80236491,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0256 - 2023-01-03 - What Purpose Does The Law Serve [Part 1] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0256-2023-01-03-what-purpose-does-the-law-serve-part-1-a.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "b4087b9e7405fe0932163c1c071e8088c52d455ec5213ed1707cd919cc9d8c13",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
