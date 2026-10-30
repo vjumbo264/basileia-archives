@@ -159,5 +159,22 @@
       "details": "Scanned working tree and full git commit history. Zero tokens found. Old v1 worker secrets deleted via Cloudflare API."
     },
     "notes": "Phases A-D complete. Repo renamed to basileia-archives and made PUBLIC. Releases verified downloadable without auth. Range streaming verified (HTTP 206). Old pav-podcast worker deleted. New mobile-first static archive deployed with zero-password access. Phase E reserved for a fresh session."
+  },
+  "v3_ui": {
+    "task": "Basileia Archives: automatic light/dark + clean premium UI",
+    "updatedAt": "2026-10-30T09:34:00.000Z",
+    "phases": {
+      "1_audit": { "status": "pending", "steps": {} },
+      "2_tokens_theming": { "status": "pending", "steps": { "tokens": "pending", "color_scheme_meta": "pending", "theme_color": "pending", "favicon": "pending" } },
+      "3_components": { "status": "pending", "steps": { "header": "pending", "hero": "pending", "list_cards": "pending", "chips_search": "pending", "recent_row": "pending", "audio_container": "pending", "states": "pending", "footer": "pending" } },
+      "4_responsive": { "status": "pending", "steps": {} },
+      "5_a11y_perf": { "status": "pending", "steps": {} },
+      "6_deploy_docs": { "status": "pending", "steps": { "sw_version_bumped": "pending", "deployed": "pending", "readme": "pending" } }
+    },
+    "audit": [],
+    "lighthouse": { "before": null, "after": null },
+    "blocked_on_user": [],
+    "todos": [],
+    "notes": "Initialized v3_ui UI refinement."
   }
 }
