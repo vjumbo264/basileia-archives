@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T11:34:40.193Z",
-  "totalEpisodes": 154,
+  "updatedAt": "2026-10-30T11:35:06.221Z",
+  "totalEpisodes": 155,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0393-40e3bdc8",
+      "number": 393,
+      "title": "#KingdomCultured: Matters of The Heart (The Believer's Posture) Part 1 — Alexander ’PAV’ Victor",
+      "date": "2025-02-23",
+      "year": 2025,
+      "durationSeconds": 2448,
+      "bytes": 20270536,
+      "description": "We are called into a Kingdom. It has a particular government, a particular doctrine, and a particular culture. To be a believer is to be bound by the conduct & culture of the Kingdom into which we have been translated. There are eternal rewards for works done in this life, and this hard-hitting seri",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0393-2025-02-23-kingdomcultured-matters-of-the-heart-the.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0388-457e30d4",
       "number": 388,

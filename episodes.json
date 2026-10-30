@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T11:34:40.186Z",
+  "generatedAt": "2026-10-30T11:35:06.214Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -10662,15 +10662,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/mg2vhhihj5h9v5hs/_KingdomCultured_Matters_of_The_Heart_The_Believer_s_Posture_Part_1_bbmp6.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0393-2025-02-23-kingdomcultured-matters-of-the-heart-the.m4a",
+        "assetId": 691922623,
+        "bytes": 20270536,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0393 - 2025-02-23 - #KingdomCultured Matters of The Heart (The Believer's Posture) Part 1 — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0393-2025-02-23-kingdomcultured-matters-of-the-heart-the.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
