@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:27:06.364Z",
-  "totalEpisodes": 165,
+  "updatedAt": "2026-10-30T16:27:25.653Z",
+  "totalEpisodes": 166,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0461-a40db4c2",
+      "number": 461,
+      "title": "Church Consciousness 2.0; The Value System Of The Church [Part X] — Alexander ’PAV’ Victor",
+      "date": "2026-03-04",
+      "year": 2026,
+      "durationSeconds": 1666,
+      "bytes": 13765128,
+      "description": "“Salvation joins a believer to CHRiSt, union with CHRiSt joins the believer to the Body of CHRiSt.” In this second look into Church Consciousness, we explore the responsibility of the Church in stewarding the value imputed by CHRiSt, to the members of His Body. For inquires & bookings: Phone: +234 7",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0461-2026-03-04-church-consciousness-2-0-the-value-syste.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0444-84ea022f",
       "number": 444,
