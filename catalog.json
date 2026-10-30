@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T21:41:19.938Z",
-  "totalEpisodes": 225,
+  "updatedAt": "2026-10-30T21:41:47.929Z",
+  "totalEpisodes": 226,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1242,6 +1242,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0174-2021-07-31-let-s-talk-relationships-in-the-light-of.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/d7ac5dbde531e0d30041427e6e9427f1dcf75e294d0ad80d4bd98d82b2b804e3.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/d7ac5dbde531e0d30041427e6e9427f1dcf75e294d0ad80d4bd98d82b2b804e3.webp"
+    },
+    {
+      "id": "0173-b4f28bd2",
+      "number": 173,
+      "title": "Don’t Simplify It! — Alexander ’PAV’ Victor",
+      "date": "2021-07-31",
+      "year": 2021,
+      "durationSeconds": 3540,
+      "bytes": 29254522,
+      "description": "This teaching will jolt your understanding about the pertinence of process as regarding our discipleship and maturity walk in CHRiSt, and the need to go through without circumventing! For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommission.org Twitter | Instagram: @WAHThe",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0173-2021-07-31-don-t-simplify-it-alexander-pav-victor.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/ee6a8c7208eaa14f2034582e482810a04b9bf04aec7a05bc567983001f124994.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/ee6a8c7208eaa14f2034582e482810a04b9bf04aec7a05bc567983001f124994.webp"
     },
     {
       "id": "0172-988d6ffc",
