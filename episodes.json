@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T04:55:53.149Z",
+  "generatedAt": "2026-10-30T04:56:47.959Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -5261,15 +5261,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/iavvh7/Love_Consciousness8u6h3.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/PSX_20220114_144202.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0193-2022-01-05-love-consciousness-alexander-pav-victor.m4a",
+        "assetId": 690981117,
+        "bytes": 39537082,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0193 - 2022-01-05 - Love Consciousness — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0193-2022-01-05-love-consciousness-alexander-pav-victor.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "14b161ac7049aa1107bc3d44dfca95b2486744281cdcb96b0f24f2f4243df1d0",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
