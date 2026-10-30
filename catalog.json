@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T20:51:40.816Z",
-  "totalEpisodes": 187,
+  "updatedAt": "2026-10-30T20:51:58.678Z",
+  "totalEpisodes": 188,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0494-142bc7d9",
+      "number": 494,
+      "title": "The Power of the Gospel Is Unto Salvation || The Truth Simply Put with PAV | S2 EP1",
+      "date": "2026-07-22",
+      "year": 2026,
+      "durationSeconds": 1574,
+      "bytes": 13041351,
+      "description": "The Truth Simply Put with PAV A lot of believers hear that the Gospel is the power of God unto salvation and immediately reduce salvation to one moment, one altar call, one prayer prayed, or one experience of forgiveness. But the New Testament speaks of salvation with far more breadth than that. In ",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0494-2026-07-22-the-power-of-the-gospel-is-unto-salvatio.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0492-bff8bf01",
       "number": 492,
