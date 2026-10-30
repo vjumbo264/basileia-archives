@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:35:44.907Z",
-  "totalEpisodes": 236,
+  "updatedAt": "2026-10-30T22:36:18.373Z",
+  "totalEpisodes": 237,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -826,6 +826,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0282-2023-07-03-resist-the-devil-an-exegesis-part-5-alex.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/5a8bc143e469cbf2cbb7f0a3d3dd87018bf93c53db1eb54828eee9c3791402af.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/5a8bc143e469cbf2cbb7f0a3d3dd87018bf93c53db1eb54828eee9c3791402af.webp"
+    },
+    {
+      "id": "0280-8d6f30f5",
+      "number": 280,
+      "title": "Resist The Devil (An Exegesis) [Part 3] — Alexander ’PAV’ Victor",
+      "date": "2023-06-20",
+      "year": 2023,
+      "durationSeconds": 4476,
+      "bytes": 36894344,
+      "description": "This thorough teaching will challenge and reset everything you thought you knew about satan! By carefully considering the scriptures apart from all the prevailing and widely-accepted dogmatic, religious and mythical biases, this is a study and teaching that unmasks and properly defines satan: his pe",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0280-2023-06-20-resist-the-devil-an-exegesis-part-3-alex.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/efb3d3ebd5d2ed4869c26ac771f5cb22fc74557719534a25b7b693e6f8876813.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/efb3d3ebd5d2ed4869c26ac771f5cb22fc74557719534a25b7b693e6f8876813.webp"
     },
     {
       "id": "0274-cc4cd0aa",
