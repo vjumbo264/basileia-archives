@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:45:29.272Z",
-  "totalEpisodes": 240,
+  "updatedAt": "2026-10-30T22:46:02.209Z",
+  "totalEpisodes": 241,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -631,6 +631,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0309-2023-11-28-kingdom-cultured-the-believer-s-conduct-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/dcd11c3cb88007139a48a6beed9fcd77681aa3cf49802014a0cb5a4e813b6a28.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/dcd11c3cb88007139a48a6beed9fcd77681aa3cf49802014a0cb5a4e813b6a28.webp"
+    },
+    {
+      "id": "0308-a33a81c5",
+      "number": 308,
+      "title": "Yes & Amen [Encore] — Semmade Umanah",
+      "date": "2023-11-23",
+      "year": 2023,
+      "durationSeconds": 4498,
+      "bytes": 37069486,
+      "description": "The word Amen is the ultimate prayer; it puts a stamp on everything the believer would ever need in God, because Jesus CHRiSt, who is the whole ability of God, is also the Amen of God. Pastor Semmade Umanah brings us a refresher of this impactful teaching by PAV. For inquires & bookings: Phone: +234",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0308-2023-11-23-yes-amen-encore-semmade-umanah.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
     {
       "id": "0306-1439ea93",
