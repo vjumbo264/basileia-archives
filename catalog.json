@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T21:26:05.703Z",
-  "totalEpisodes": 213,
+  "updatedAt": "2026-10-30T21:26:34.719Z",
+  "totalEpisodes": 214,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1398,6 +1398,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0136-2020-11-13-imitate-part-1-alexander-pav-victor.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/902493d2b3e712ed3cf31c2fc0a4e64e0951f529bdb2cf302393778e78f8930b.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/902493d2b3e712ed3cf31c2fc0a4e64e0951f529bdb2cf302393778e78f8930b.webp"
+    },
+    {
+      "id": "0135-19f206a4",
+      "number": 135,
+      "title": "The CHRiSt-Conscious Believer [Part 28] — PAV",
+      "date": "2020-11-08",
+      "year": 2020,
+      "durationSeconds": 3883,
+      "bytes": 32106276,
+      "description": "This teaching series helps you understand the very practicalities of being a believer who is FULLY conscious of CHRiSt as is at work in you! For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Twitter | Instagram: @WAHTheChurch Facebook: @TheBasileiaCommission |",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0135-2020-11-08-the-christ-conscious-believer-part-28-pa.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/76ebd731d872b18a09792c84f60933b439da91602569de717e27aece62fb932a.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/76ebd731d872b18a09792c84f60933b439da91602569de717e27aece62fb932a.webp"
     },
     {
       "id": "0132-09b315ca",
