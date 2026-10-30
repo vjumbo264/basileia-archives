@@ -57,41 +57,21 @@ function ghApi(method, endpoint, body = null, extraHeaders = {}) {
   });
 }
 
-function uploadReleaseAsset(uploadUrl, assetName, fileBuffer) {
+function uploadReleaseAsset(uploadUrl, assetName, filePath) {
   const token = getPat();
-  return new Promise((resolve, reject) => {
-    // uploadUrl is like https://uploads.github.com/repos/:owner/:repo/releases/:id/assets{?name,label}
-    const cleanUrl = uploadUrl.replace(/\{[^\}]*\}/g, '') + `?name=${encodeURIComponent(assetName)}`;
-    const urlObj = new URL(cleanUrl);
-
-    const req = https.request({
-      hostname: urlObj.hostname,
-      path: urlObj.pathname + urlObj.search,
-      method: 'POST',
-      headers: {
-        'User-Agent': 'PAV-Podcast-Builder',
-        'Authorization': `Bearer ${token}`,
-        'Accept': 'application/vnd.github+json',
-        'Content-Type': 'audio/mp4',
-        'Content-Length': fileBuffer.length
-      }
-    }, res => {
-      let data = '';
-      res.on('data', c => data += c);
-      res.on('end', () => {
-        let json = null;
-        try { json = JSON.parse(data); } catch (e) { json = data; }
-        if (res.statusCode >= 200 && res.statusCode < 300) {
-          resolve(json);
-        } else {
-          reject(new Error(`Asset upload failed (${res.statusCode}): ${JSON.stringify(json)}`));
-        }
-      });
-    });
-    req.on('error', reject);
-    req.write(fileBuffer);
-    req.end();
-  });
+  const cleanUrl = uploadUrl.replace(/\{[^\}]*\}/g, '') + `?name=${encodeURIComponent(assetName)}`;
+  const cmd = `curl -s -S -X POST -H "Authorization: Bearer ${token}" -H "Accept: application/vnd.github+json" -H "Content-Type: audio/mp4" --data-binary @"${filePath}" "${cleanUrl}"`;
+  const stdout = cp.execSync(cmd, { encoding: 'utf8', maxBuffer: 10 * 1024 * 1024 });
+  let json = null;
+  try {
+    json = JSON.parse(stdout);
+  } catch (e) {
+    throw new Error(`Invalid JSON response from asset upload: ${stdout}`);
+  }
+  if (!json || !json.id) {
+    throw new Error(`Asset upload failed: ${stdout}`);
+  }
+  return json;
 }
 
 function downloadFile(url, destPath) {
