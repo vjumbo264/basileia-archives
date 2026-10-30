@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T20:50:27.904Z",
-  "totalEpisodes": 186,
+  "updatedAt": "2026-10-30T20:50:45.261Z",
+  "totalEpisodes": 187,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0492-bff8bf01",
+      "number": 492,
+      "title": "The Gospel Is the Power of God || The Truth Simply Put with PAV || S1 EP13",
+      "date": "2026-07-19",
+      "year": 2026,
+      "durationSeconds": 1537,
+      "bytes": 12951596,
+      "description": "In Episode 13 of The Truth Simply Put with PAV, Alexander Victor begins a focused look at the power of the Gospel by opening Romans 1:16 and pressing a vital question: what exactly did Paul mean when he said, “I am not ashamed of the gospel of CHRiSt, for it is the power of God unto salvation”? This",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0492-2026-07-19-the-gospel-is-the-power-of-god-the-truth.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0490-7d732dd7",
       "number": 490,
