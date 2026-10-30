@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T15:54:58.173Z",
+  "generatedAt": "2026-10-30T15:55:31.997Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -11422,15 +11422,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/9czxmskktszbgt23/Possibility_Consciousness_An_Encore_-_Abigail_Eugene601if.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0422-2025-07-23-possibility-consciousness-an-encore-abig.m4a",
+        "assetId": 692603611,
+        "bytes": 28058604,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0422 - 2025-07-23 - Possibility Consciousness [An Encore] — Abigail Eugene.m4a",
       "suggestedAssetName": "0422-2025-07-23-possibility-consciousness-an-encore-abig.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
