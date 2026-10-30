@@ -1,11 +1,12 @@
 {
   "show": {
-    "title": "The Truth Simply Put — with PAV",
+    "title": "Basileia Archives",
+    "podcastTitle": "The Truth Simply Put — with PAV",
     "author": "The Basileia Commission",
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T07:54:09.136Z",
+  "generatedAt": "2026-10-30T08:08:18.859Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -181,8 +182,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0007-16ddc9d8",
@@ -461,8 +462,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0016-3ed45cbc",
@@ -485,8 +486,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0017-4161e71d",
@@ -509,8 +510,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0018-a2a843e2",
@@ -533,8 +534,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0019-add4dd29",
@@ -557,8 +558,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0020-e1073f71",
@@ -581,8 +582,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0021-a54b5c0a",
@@ -605,8 +606,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0022-ccf9ac8d",
@@ -661,8 +662,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0024-8b602734",
@@ -685,8 +686,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0025-4a64fbac",
@@ -773,8 +774,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0028-922af050",
@@ -829,8 +830,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0030-36dbd8bd",
@@ -917,8 +918,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0033-9526a9f8",
@@ -941,8 +942,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0034-78aec587",
@@ -965,8 +966,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0035-8b84f12b",
@@ -1021,8 +1022,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0037-c24fe69e",
@@ -1045,8 +1046,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0038-4e24a932",
@@ -1069,8 +1070,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0039-13260cd3",
@@ -1125,8 +1126,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0041-ebca7685",
@@ -1149,8 +1150,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0042-6b8064bb",
@@ -1173,8 +1174,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0043-a7573d16",
@@ -1229,8 +1230,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0045-2320cbad",
@@ -1317,8 +1318,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0048-466eb374",
@@ -1437,8 +1438,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0052-75f3136c",
@@ -1461,8 +1462,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0053-9b83abd2",
@@ -1517,8 +1518,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0055-638e49c7",
@@ -1541,8 +1542,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0056-0162ff07",
@@ -1565,8 +1566,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0057-d348872d",
@@ -1653,8 +1654,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0060-e3412a8a",
@@ -1773,8 +1774,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0064-54bc03fc",
@@ -1797,8 +1798,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0065-286a67b9",
@@ -1885,8 +1886,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0068-a7d8092d",
@@ -1909,8 +1910,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0069-810aef24",
@@ -1997,8 +1998,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0072-70d83df2",
@@ -2053,8 +2054,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0074-b2b341bd",
@@ -2109,8 +2110,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0076-1b187acb",
@@ -2229,8 +2230,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0080-2baa9c37",
@@ -2317,8 +2318,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0083-dc36323b",
@@ -2373,8 +2374,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0085-9c489ffc",
@@ -2397,8 +2398,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0086-85dc9f8a",
@@ -2549,8 +2550,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0091-b69e04f7",
@@ -2733,8 +2734,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0097-6d74e1f6",
@@ -2757,8 +2758,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0098-cad1852b",
@@ -2845,8 +2846,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0101-817d7aac",
@@ -2869,8 +2870,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0102-7a716f59",
@@ -2893,8 +2894,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0103-511a9c4b",
@@ -2917,8 +2918,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0104-1f315e94",
@@ -2941,8 +2942,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0105-c7b085de",
@@ -2997,8 +2998,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0107-e760596e",
@@ -3021,8 +3022,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0108-8f8d07b3",
@@ -3045,8 +3046,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0109-b197036a",
@@ -3069,8 +3070,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0110-5e53fdf1",
@@ -3093,8 +3094,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0111-28bb26dd",
@@ -3181,8 +3182,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0114-c17cdc54",
@@ -3205,8 +3206,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0115-00cc820f",
@@ -3229,8 +3230,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "write EPIPE"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0116-4be24baf",
@@ -3253,8 +3254,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0117-7d7ae26a",
@@ -3277,8 +3278,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0118-c75dce51",
@@ -3333,8 +3334,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "write EPIPE"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0120-45b76b93",
@@ -3357,8 +3358,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0121-ff48077a",
@@ -3477,8 +3478,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0125-06bde3e4",
@@ -3501,8 +3502,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "write EPIPE"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0126-58f446c5",
@@ -3685,8 +3686,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0132-09b315ca",
@@ -3741,8 +3742,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0134-a01395d1",
@@ -3765,8 +3766,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0135-19f206a4",
@@ -3789,8 +3790,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0136-79f47d05",
@@ -3845,8 +3846,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0138-ded2e03d",
@@ -3869,8 +3870,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0139-c22117af",
@@ -3925,8 +3926,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0141-e1a5604f",
@@ -3949,8 +3950,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0142-730b6996",
@@ -4005,8 +4006,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0144-7611b9a7",
@@ -4061,8 +4062,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 1,
-      "lastError": "socket hang up"
+      "attempts": 0,
+      "lastError": null
     },
     {
       "id": "0146-7b12ccdd",
@@ -9228,7 +9229,7 @@
       "id": "0344-5059fc90",
       "guid": "thetruthsimplyput.podbean.com/ffaec0a3-b909-320c-ae2e-8d0dbdcd9924",
       "number": 344,
-      "title": "Kingdom Cultured: The Believer’s Conduct [Part 46 - Giving VIII] �� Alexander ’PAV’ Victor",
+      "title": "Kingdom Cultured: The Believer’s Conduct [Part 46 - Giving VIII] — Alexander ’PAV’ Victor",
       "pubDate": "2024-10-17T03:52:22.000Z",
       "year": 2024,
       "description": "We are called into a Kingdom. It has a particular government, a particular doctrine, and a particular culture. To be a believer is to be bound by the conduct & culture of the Kingdom into which we have been translated. There are eternal rewards for works done in this life, and this hard-hitting series is geared towards unpacking that. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagram: @WAHthehurch Facebook: @TheBasileiaCommission | @WAHt",
@@ -9238,7 +9239,7 @@
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
       "audio": null,
-      "friendlyDownloadName": "0344 - 2024-10-17 - Kingdom Cultured The Believer’s Conduct [Part 46 - Giving VIII] �� Alexander ’PAV’ Victor.m4a",
+      "friendlyDownloadName": "0344 - 2024-10-17 - Kingdom Cultured The Believer’s Conduct [Part 46 - Giving VIII] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0344-2024-10-17-kingdom-cultured-the-believer-s-conduct-.m4a",
       "cover": {
         "sha256": null,
