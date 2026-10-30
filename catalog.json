@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T21:05:18.703Z",
-  "totalEpisodes": 204,
+  "updatedAt": "2026-10-30T21:05:48.093Z",
+  "totalEpisodes": 205,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -2048,6 +2048,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0053-2019-03-10-the-word-the-power-amp-the-believer-pt-i.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/1c25d9218b0c88163ee9d902db355e0604f51777dc825a822371879e462bae5e.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/1c25d9218b0c88163ee9d902db355e0604f51777dc825a822371879e462bae5e.webp"
+    },
+    {
+      "id": "0052-75f3136c",
+      "number": 52,
+      "title": "The Word, The Power & The Believer [Pt I] — PAV",
+      "date": "2019-03-05",
+      "year": 2019,
+      "durationSeconds": 3432,
+      "bytes": 27445790,
+      "description": "For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommission.org Facebook: @TheBasileiaCommission Twitter: @TheBasileia_NG Instagram: WordAbidingHouseNG",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0052-2019-03-05-the-word-the-power-the-believer-pt-i-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/8d3ce146b9adf63456e7af6d6d5e11e5a696e9700116f3256d606c4e50431948.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/8d3ce146b9adf63456e7af6d6d5e11e5a696e9700116f3256d606c4e50431948.webp"
     },
     {
       "id": "0051-3b4b4880",

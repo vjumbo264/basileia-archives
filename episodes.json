@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T21:05:18.696Z",
+  "generatedAt": "2026-10-30T21:05:48.087Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -1622,15 +1622,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/casf7p/The_Word_The_Power_The_Believer_Pt_I_PAV.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/IMG-20190307-WA0001.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0052-2019-03-05-the-word-the-power-the-believer-pt-i-pav.m4a",
+        "assetId": 693421893,
+        "bytes": 27445790,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0052 - 2019-03-05 - The Word, The Power & The Believer [Pt I] — PAV.m4a",
       "suggestedAssetName": "0052-2019-03-05-the-word-the-power-the-believer-pt-i-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "8d3ce146b9adf63456e7af6d6d5e11e5a696e9700116f3256d606c4e50431948",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
