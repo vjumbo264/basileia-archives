@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T08:18:09.120Z",
+  "generatedAt": "2026-10-30T08:18:42.793Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -966,15 +966,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/8uwqu8/stream_519428724-thebasileiacommission-kingdomcultured-unpacking-the-honour-code-part-3-pav.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2018",
+        "assetName": "0034-2018-10-25-kingdomcultured-unpacking-the-honour-cod.m4a",
+        "assetId": 691432441,
+        "bytes": 22384954,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0034 - 2018-10-25 - #KingdomCultured Unpacking The Honour Code [Part 3] — PAV.m4a",
       "suggestedAssetName": "0034-2018-10-25-kingdomcultured-unpacking-the-honour-cod.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
