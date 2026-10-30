@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T20:07:00.395Z",
+  "generatedAt": "2026-10-30T20:07:32.896Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -11518,15 +11518,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/gd4cyaifpsy37fna/The_Life_of_Victory_-_Rosemary_Ntamubre1a.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0424-2025-08-07-the-life-of-victory-consciousness-rosema.m4a",
+        "assetId": 693279086,
+        "bytes": 26428814,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0424 - 2025-08-07 - The Life Of Victory Consciousness — Rosemary Ntamu.m4a",
       "suggestedAssetName": "0424-2025-08-07-the-life-of-victory-consciousness-rosema.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
