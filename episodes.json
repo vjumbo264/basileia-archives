@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:33:52.043Z",
+  "generatedAt": "2026-10-30T03:34:16.023Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2669,15 +2669,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/9atx7w/If_Not_For_The_Lord.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/IMG-20200221-WA0008.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0095-2020-02-23-if-not-for-the-lord-attitude-of-gratitud.m4a",
+        "assetId": 690805495,
+        "bytes": 16889839,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0095 - 2020-02-23 - If Not For The Lord (Attitude Of Gratitude) — PAV.m4a",
       "suggestedAssetName": "0095-2020-02-23-if-not-for-the-lord-attitude-of-gratitud.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "5dcb9cae83bbfcc715d243bc5ed23fda65bf064b90773d2ebdead36673197607",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
