@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T21:05:48.093Z",
-  "totalEpisodes": 205,
+  "updatedAt": "2026-10-30T21:06:21.094Z",
+  "totalEpisodes": 206,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -2035,6 +2035,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0055-2019-03-30-who-said-forgiveness-was-unconditional-p.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/0b47c49810812d61a04c0168d8832d44359763e37c1430ffc719fda8a1c0be75.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/0b47c49810812d61a04c0168d8832d44359763e37c1430ffc719fda8a1c0be75.webp"
+    },
+    {
+      "id": "0054-3314e22b",
+      "number": 54,
+      "title": "Redemption: Grace From The Kinsman Redeemer — PAV",
+      "date": "2019-03-14",
+      "year": 2019,
+      "durationSeconds": 3871,
+      "bytes": 32091543,
+      "description": "From the story of Ruth & Boaz, Alexander Victor draws out timeless truths about the Redemption realities of the believer in CHRiSt's finished work as is so beautifully detailed out in that amazing story. This will further open your eyes to CHRiSt, coming further alive in your heart from the pages of",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0054-2019-03-14-redemption-grace-from-the-kinsman-redeem.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/b0c5eec898f72c6e88091766b3b85a09c47ed71b17fd1ef24e6bc9b2309dc819.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/b0c5eec898f72c6e88091766b3b85a09c47ed71b17fd1ef24e6bc9b2309dc819.webp"
     },
     {
       "id": "0053-9b83abd2",
