@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T22:38:58.109Z",
+  "generatedAt": "2026-10-30T22:39:29.301Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -8238,15 +8238,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/aphkvi/True_Intelligence_The_Encore7maa1.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/True_Intelligence_The_Encoreay2i6.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2023",
+        "assetName": "0285-2023-08-24-true-intelligence-the-encore-mika-edim.m4a",
+        "assetId": 693633904,
+        "bytes": 27727740,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0285 - 2023-08-24 - True Intelligence The Encore — Mika Edim.m4a",
       "suggestedAssetName": "0285-2023-08-24-true-intelligence-the-encore-mika-edim.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "9f756c70fae4d25e5cd68746c3a9bd35897710187278fa52d0940a4c84548e73",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

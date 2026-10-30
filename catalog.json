@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:38:58.116Z",
-  "totalEpisodes": 237,
+  "updatedAt": "2026-10-30T22:39:29.308Z",
+  "totalEpisodes": 238,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -813,6 +813,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0288-2023-09-06-seated-an-exegesis-alexander-pav-victor.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/2f03eadc955b62e147266b2b4134e7daec3c159210b5c8bc865d0b91280305ab.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/2f03eadc955b62e147266b2b4134e7daec3c159210b5c8bc865d0b91280305ab.webp"
+    },
+    {
+      "id": "0285-9278cc50",
+      "number": 285,
+      "title": "True Intelligence: The Encore — Mika Edim",
+      "date": "2023-08-24",
+      "year": 2023,
+      "durationSeconds": 3338,
+      "bytes": 27727740,
+      "description": "The full extent of the believer’s abilities are as revealed by God in CHRiSt, whose ultimate will culminates in YOU. In this teaching, Mika—one of the Pastors in Word-Abiding House—explores the basics of understanding God's will and how that unfolds in and with the wisdom of CHRiSt. For inquires & b",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0285-2023-08-24-true-intelligence-the-encore-mika-edim.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/9f756c70fae4d25e5cd68746c3a9bd35897710187278fa52d0940a4c84548e73.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/9f756c70fae4d25e5cd68746c3a9bd35897710187278fa52d0940a4c84548e73.webp"
     },
     {
       "id": "0282-cd62a1b8",
