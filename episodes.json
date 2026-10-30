@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T20:03:42.030Z",
+  "generatedAt": "2026-10-30T20:04:15.524Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -11358,15 +11358,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/eunzzddv2te8jvke/The_Holy_Spirit_The_Believer_s_Advantage_-_Rev_Torty7k9tr.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0418-2025-07-08-the-holy-spirit-the-believer-s-advantage.m4a",
+        "assetId": 693271544,
+        "bytes": 28037454,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0418 - 2025-07-08 - The Holy Spirit; The Believer's Advantage — Rev. Torty David.m4a",
       "suggestedAssetName": "0418-2025-07-08-the-holy-spirit-the-believer-s-advantage.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
