@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T20:49:34.534Z",
-  "totalEpisodes": 185,
+  "updatedAt": "2026-10-30T20:49:52.292Z",
+  "totalEpisodes": 186,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0490-7d732dd7",
+      "number": 490,
+      "title": "The Gospel Is an Invitation to Believe || The Truth Simply Put with PAV | S1 EP12",
+      "date": "2026-07-18",
+      "year": 2026,
+      "durationSeconds": 1587,
+      "bytes": 13127024,
+      "description": "How does a person actually enter into the reality of the Gospel? || The Truth Simply Put with PAV In Episode 12 of The Truth Simply Put with PAV, Alexander Victor brings the series to one of its most personal and pivotal questions. If God has acted in CHRiSt, if the work is finished, if forgiveness,",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0490-2026-07-18-the-gospel-is-an-invitation-to-believe-t.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0489-922dd4e3",
       "number": 489,
