@@ -5,7 +5,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T03:40:49.605Z",
+  "generatedAt": "2026-10-30T03:41:50.759Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2933,15 +2933,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/2diaxj/You_Are_What_You_See__Part_2.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/You_Are_What_You_See_Pt_II.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0105-2020-04-11-you-are-what-you-see-part-2-pav.m4a",
+        "assetId": 690821620,
+        "bytes": 34296541,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0105 - 2020-04-11 - You Are What You See [Part 2] — PAV.m4a",
       "suggestedAssetName": "0105-2020-04-11-you-are-what-you-see-part-2-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "97ab9ab03c7ded4ef03954347cbd8d113d1e0f9934bed4463e96c510c6507091",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
