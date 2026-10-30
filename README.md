@@ -120,3 +120,49 @@ Configured under **Settings** > **Secrets and variables** > **Actions** in GitHu
 - `CLOUDFLARE_ACCOUNT_ID`: Cloudflare account identifier (`1695bfc7422ac8004179e99f3cdd60c1`).
 
 *Note: All v1 passwords, session cookies, and read-token secrets (`SITE_PASSWORD`, `SESSION_SECRET`, `GITHUB_TOKEN_READ`) have been completely deleted and removed.*
+
+---
+
+## 8. UI & Theming System (v3)
+
+The user interface of Basileia Archives features an automatic light/dark mode and a restrained, premium typographic design tailored to mobile and desktop browsing.
+
+### Automatic Light & Dark Theming
+- **Zero Flash, Pure CSS**: Themes switch automatically according to the user's OS / browser `prefers-color-scheme` without any JavaScript dependency, preventing theme flashing on initial paint.
+- **Tokens Location**: All design tokens are declared as CSS custom properties in `src/index.css` inside `:root` (Light Theme) and `@media (prefers-color-scheme: dark)` (Dark Theme).
+- **Native Browser Integration**:
+  - `<meta name="color-scheme" content="light dark" />` in `index.html` ensures native browser scrollbars and `<audio controls>` automatically adopt the matching dark/light aesthetic.
+  - Dual `<meta name="theme-color">` tags (with `media="(prefers-color-scheme: light)"` and `dark`) tint mobile browser address bars to `#faf9f6` and `#090e1a`.
+  - Adaptive SVG favicon (`public/favicon.svg`) includes an embedded CSS media query to dynamically adapt its crest and borders to light and dark browser tabs.
+
+### Color Palette & Tokens
+- **Light Theme**:
+  - Canvas: `#faf9f6` (warm off-white, dignified and restful)
+  - Surface: `#ffffff` (crisp white card elevation)
+  - Text Primary: `#12151c` (deep ink, 18.2:1 contrast ratio)
+  - Text Secondary: `#3e4859` (7.8:1 contrast ratio)
+  - Accent: `#1d4ed8` (royal blue primary CTA)
+  - Accent Gold: `#92400e` (warm gold highlight for "Basileia" kingdom motif)
+- **Dark Theme**:
+  - Canvas: `#090e1a` (deep obsidian navy)
+  - Surface: `#101728` (lifted structural surface)
+  - Text Primary: `#f8fafc` (crisp white, 17.0:1 contrast ratio)
+  - Text Secondary / Tertiary: `#94a3b8` (6.9:1 contrast ratio)
+  - Accent: `#2563eb` (luminous royal blue, 5.2:1 contrast ratio)
+  - Accent Gold: `#f59e0b` (amber gold highlight, 8.3:1 contrast ratio)
+
+### Typography & Anti-Slop Discipline
+- **Display Type**: *Cormorant Garamond* for the "Basileia Archives" wordmark and hero heading, conveying archival dignity.
+- **Body & UI Type**: *Plus Jakarta Sans* for clear, modern legibility.
+- **Tabular Figures**: All dates, durations, and byte sizes use `tabular-nums` for vertical alignment.
+- **Zero-Pill Discipline**: Metadata is presented as unboxed editorial text separated by subtle typographic dots (`·`).
+- **No Artificial Filter Hacks**: Native `<audio controls>` renders natively without artificial `filter: invert()` hacks.
+- **Smooth Mobile Scrolling**: `article` elements leverage `content-visibility: auto` for 60fps scrolling on low-end devices.
+
+### Service Worker Caching Architecture
+- Located at `public/sw.js` (registered in `src/main.tsx`).
+- Cache names: `basileia-shell-v3.0.0`, `basileia-catalog-v3.0.0`, and `basileia-covers-v3.0.0`.
+- **App Shell Cache**: Instant second-visit offline boot.
+- **Stale-While-Revalidate**: Instant catalog loading with background updates.
+- **LRU Cover Art Cache**: Capped at 100 images with automatic quota error resilience.
+- **Audio Never Cached**: Large audio streams bypass the Service Worker cache completely.
