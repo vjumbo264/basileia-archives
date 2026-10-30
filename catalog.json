@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T10:16:42.164Z",
-  "totalEpisodes": 137,
+  "updatedAt": "2026-10-30T10:17:15.344Z",
+  "totalEpisodes": 138,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -215,6 +215,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0282-2023-07-03-resist-the-devil-an-exegesis-part-5-alex.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/5a8bc143e469cbf2cbb7f0a3d3dd87018bf93c53db1eb54828eee9c3791402af.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/5a8bc143e469cbf2cbb7f0a3d3dd87018bf93c53db1eb54828eee9c3791402af.webp"
+    },
+    {
+      "id": "0272-b970ef13",
+      "number": 272,
+      "title": "Life Of Victory [Encore] — Stephenie Benjamin",
+      "date": "2023-05-03",
+      "year": 2023,
+      "durationSeconds": 3204,
+      "bytes": 26605476,
+      "description": "Christ paid the price for us IN FULL. Nothing was left out in that great exchange, the full benefits of which were handed over to us. We ARE God's victory in Christ! Learn how to walk in that victory and take back your place from the enemy in God's scheme of things! For inquires & bookings: Phone: +",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0272-2023-05-03-life-of-victory-encore-stephenie-benjami.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/221fab153480085f758a6e752d3485ab73f60102a64c6e11dd0a126b9ad0cc10.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/221fab153480085f758a6e752d3485ab73f60102a64c6e11dd0a126b9ad0cc10.webp"
     },
     {
       "id": "0266-cf272fe5",

@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T10:16:42.157Z",
+  "generatedAt": "2026-10-30T10:17:15.337Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -7494,15 +7494,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/qw69fh/Life_of_Victory_-_Encore9r5g9.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Life_Of_Victory_9fp3nv.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2023",
+        "assetName": "0272-2023-05-03-life-of-victory-encore-stephenie-benjami.m4a",
+        "assetId": 691720212,
+        "bytes": 26605476,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0272 - 2023-05-03 - Life Of Victory [Encore] — Stephenie Benjamin.m4a",
       "suggestedAssetName": "0272-2023-05-03-life-of-victory-encore-stephenie-benjami.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "221fab153480085f758a6e752d3485ab73f60102a64c6e11dd0a126b9ad0cc10",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
