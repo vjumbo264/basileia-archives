@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T21:10:15.158Z",
+  "generatedAt": "2026-10-30T21:10:46.964Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2614,15 +2614,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/2gn3dy/The_Believer_s_Faith_Narrative.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/the_believers_faith-narrative.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0084-2019-12-17-the-believer-s-faith-narrative-pav.m4a",
+        "assetId": 693433087,
+        "bytes": 33814840,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0084 - 2019-12-17 - The Believer's Faith-Narrative — PAV.m4a",
       "suggestedAssetName": "0084-2019-12-17-the-believer-s-faith-narrative-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "2be3e33a2bfe12e82b6bd626a13f04a843100bc20cf99ca085c8842266239512",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

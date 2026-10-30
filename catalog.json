@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T21:10:15.165Z",
-  "totalEpisodes": 209,
+  "updatedAt": "2026-10-30T21:10:46.971Z",
+  "totalEpisodes": 210,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1749,6 +1749,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0086-2020-01-15-is-my-salvation-really-forever-pt-1-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/934c5fd13e665370bff97d07da0d3327cd877235c5a5e97511dc2b85f1eeaec2.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/934c5fd13e665370bff97d07da0d3327cd877235c5a5e97511dc2b85f1eeaec2.webp"
+    },
+    {
+      "id": "0084-542bc40f",
+      "number": 84,
+      "title": "The Believer's Faith-Narrative — PAV",
+      "date": "2019-12-17",
+      "year": 2019,
+      "durationSeconds": 4101,
+      "bytes": 33814840,
+      "description": "See yourself by faith through the eyes of the One whose faith you live and please God! His narrative of you is a Faith-Narrative! For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Facebook: @TheBasileiaCommission Twitter: @TheBasileia_NG Instagram: WordAbiding",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0084-2019-12-17-the-believer-s-faith-narrative-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/2be3e33a2bfe12e82b6bd626a13f04a843100bc20cf99ca085c8842266239512.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/2be3e33a2bfe12e82b6bd626a13f04a843100bc20cf99ca085c8842266239512.webp"
     },
     {
       "id": "0083-dc36323b",
