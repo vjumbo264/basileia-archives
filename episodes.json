@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T08:25:28.044Z",
+  "generatedAt": "2026-10-30T08:26:00.008Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -1614,15 +1614,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/vpdzzq/CHRiSt_In_Solomon_PAV.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/CHRiSt_in_Solomon.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2019",
+        "assetName": "0056-2019-04-04-christ-in-solomon-unveiling-the-root-of-.m4a",
+        "assetId": 691448646,
+        "bytes": 23975150,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0056 - 2019-04-04 - CHRiSt in Solomon Unveiling The Root Of David — PAV.m4a",
       "suggestedAssetName": "0056-2019-04-04-christ-in-solomon-unveiling-the-root-of-.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "f7d65d3fcdd5ee4104e135020c7759bb6a0a71a39d8f30013f149ffe2b3633f3",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

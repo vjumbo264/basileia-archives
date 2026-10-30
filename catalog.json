@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T08:25:28.051Z",
-  "totalEpisodes": 130,
+  "updatedAt": "2026-10-30T08:26:00.016Z",
+  "totalEpisodes": 131,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1255,6 +1255,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0057-2019-04-12-eternal-life-assurance-beyond-probabilit.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/2a7dc532e2f2e62bc37e7756ae094de12b3c95c58e8755b76e79587108075b66.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/2a7dc532e2f2e62bc37e7756ae094de12b3c95c58e8755b76e79587108075b66.webp"
+    },
+    {
+      "id": "0056-0162ff07",
+      "number": 56,
+      "title": "CHRiSt in Solomon: Unveiling The Root Of David — PAV",
+      "date": "2019-04-04",
+      "year": 2019,
+      "durationSeconds": 2892,
+      "bytes": 23975150,
+      "description": "God made certain promises to David concerning his son, Solomon, by the mouth of Nathan the prophet. But, were the details of the prophecy concerning Solomon, and were they fulfilled in him? Or is there more? There is more. Find out, in this revealing teaching! For inquires & bookings: Phone: +234 70",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2019/0056-2019-04-04-christ-in-solomon-unveiling-the-root-of-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/f7d65d3fcdd5ee4104e135020c7759bb6a0a71a39d8f30013f149ffe2b3633f3.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/f7d65d3fcdd5ee4104e135020c7759bb6a0a71a39d8f30013f149ffe2b3633f3.webp"
     },
     {
       "id": "0055-638e49c7",
