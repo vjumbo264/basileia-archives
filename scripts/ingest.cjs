@@ -248,8 +248,7 @@ async function processEpisode(ep, episodesState) {
 
     // 7. Upload to GitHub Release
     console.log(`Uploading asset to release ${release.tag_name} (${(outBytes / (1024 * 1024)).toFixed(2)} MB)...`);
-    const fileBuffer = fs.readFileSync(outAudioPath);
-    const uploadedAsset = await uploadReleaseAsset(release.upload_url, outputFileName, fileBuffer);
+    const uploadedAsset = await uploadReleaseAsset(release.upload_url, outputFileName, outAudioPath);
     console.log(`Uploaded successfully! Asset ID: ${uploadedAsset.id}`);
 
     // 8. Update episode state
