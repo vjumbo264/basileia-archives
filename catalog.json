@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T21:11:19.657Z",
-  "totalEpisodes": 210,
+  "updatedAt": "2026-10-30T21:11:53.162Z",
+  "totalEpisodes": 211,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1697,6 +1697,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0091-2020-01-18-is-my-salvation-really-forever-pt-6-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/0d7187df61f379e84252a7f33be6520a43152e6098eb46a86d5a37e7861580c7.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/0d7187df61f379e84252a7f33be6520a43152e6098eb46a86d5a37e7861580c7.webp"
+    },
+    {
+      "id": "0090-dc714593",
+      "number": 90,
+      "title": "Is My Salvation Really Forever? (Pt 5) — PAV",
+      "date": "2020-01-17",
+      "year": 2020,
+      "durationSeconds": 3728,
+      "bytes": 30862814,
+      "description": "This is a CRUCIAL question, the rightly-divided answer to which shapes the entire reality of our faith and walk with God. Join us for a walk-through as we explore this. For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Facebook: @TheBasileiaCommission Twitter:",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0090-2020-01-17-is-my-salvation-really-forever-pt-5-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/867f64f0b6fea425162e44ce5cc1737364a8288575b864324c6329411eec50ee.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/867f64f0b6fea425162e44ce5cc1737364a8288575b864324c6329411eec50ee.webp"
     },
     {
       "id": "0089-12601925",
