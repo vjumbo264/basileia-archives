@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T09:41:06.749Z",
+  "generatedAt": "2026-10-30T09:41:54.464Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6366,8 +6366,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 0,
-      "lastError": null
+      "attempts": 1,
+      "lastError": "socket hang up"
     },
     {
       "id": "0228-2098a82e",
