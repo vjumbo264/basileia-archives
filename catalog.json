@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T20:53:02.519Z",
-  "totalEpisodes": 189,
+  "updatedAt": "2026-10-30T20:53:31.468Z",
+  "totalEpisodes": 190,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0497-774bf75f",
+      "number": 497,
+      "title": "Don't Be Blinded By Truth; Don't Delete Truth [Part 7] — Alexander ’PAV’ Victor",
+      "date": "2026-08-03",
+      "year": 2026,
+      "durationSeconds": 3181,
+      "bytes": 26600642,
+      "description": "Also known as Don’t Delete Truth, this series has been described as “a set of principles by which you should handle the word”. Line upon line, precept upon precept; you will appreciate the journey through this subject. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisss",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0497-2026-08-03-don-t-be-blinded-by-truth-don-t-delete-t.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0496-645336a3",
       "number": 496,
