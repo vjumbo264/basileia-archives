@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-30T23:42:19.822Z",
+  "generatedAt": "2026-10-30T23:42:50.003Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12150,15 +12150,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/at8mguparcq6whxw/The_Believer_s_Authority_-_John_Ikpi7ztd8.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0425-2025-08-11-the-believer-s-authority-john-ikpi.m4a",
+        "assetId": 693775534,
+        "bytes": 31291836,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0425 - 2025-08-11 - The Believer's Authority — John Ikpi.m4a",
       "suggestedAssetName": "0425-2025-08-11-the-believer-s-authority-john-ikpi.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
