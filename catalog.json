@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T00:15:13.529Z",
-  "totalEpisodes": 277,
+  "updatedAt": "2026-10-31T00:15:40.246Z",
+  "totalEpisodes": 278,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -109,6 +109,19 @@
       "bytes": 13469207,
       "description": "Did Jesus come to make your life better? || The Truth Simply Put with PAV [As Broadcast on Radio] In Episode 11 of The Truth Simply Put with PAV, Alexander Victor confronts one of the most common but misleading ideas in modern preaching: that the Gospel is mainly about improvement. Scripture reveals",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0488-2026-07-17-jesus-did-not-die-to-improve-your-life-t.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0487-66fa0302",
+      "number": 487,
+      "title": "APOLUTROSIS; Signed In Blood, Sealed In Grace — Mika Edim",
+      "date": "2026-07-16",
+      "year": 2026,
+      "durationSeconds": 2982,
+      "bytes": 24956177,
+      "description": "For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Twitter | Instagram: @WAHTheChurch Facebook: @TheBasileiaCommission | @WAHTheChurch",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0487-2026-07-16-apolutrosis-signed-in-blood-sealed-in-gr.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
