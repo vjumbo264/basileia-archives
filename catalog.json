@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T05:03:09.080Z",
-  "totalEpisodes": 332,
+  "updatedAt": "2026-10-31T05:03:36.390Z",
+  "totalEpisodes": 333,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1099,6 +1099,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0317-2024-01-31-kingdom-cultured-the-believer-s-conduct-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/6bb9405ac76d7512ef97db7516f969b7d80fe321ad7e693e9f1af52877caedd2.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/6bb9405ac76d7512ef97db7516f969b7d80fe321ad7e693e9f1af52877caedd2.webp"
+    },
+    {
+      "id": "0316-e54348cc",
+      "number": 316,
+      "title": "Eternal Life: Assurance Beyond Probability [An Encore] — Caleb Ezak",
+      "date": "2023-12-20",
+      "year": 2023,
+      "durationSeconds": 3577,
+      "bytes": 29621049,
+      "description": "How do you know you have the guarantee of eternal life? What is it based on: works, or faith? Find out—or be jolted back into the reality—about your inheritance of eternal life as afforded you by CHRiSt's work, and your faith in Him, apart from the \"performance to attain\"! For inquires & bookings: P",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0316-2023-12-20-eternal-life-assurance-beyond-probabilit.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/52620c500f36c1a2d895bdf6436a6fb6be4255038beb8599d29495c80e12041b.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/52620c500f36c1a2d895bdf6436a6fb6be4255038beb8599d29495c80e12041b.webp"
     },
     {
       "id": "0315-255e4344",
