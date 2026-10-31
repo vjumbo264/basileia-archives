@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:19:57.351Z",
+  "generatedAt": "2026-10-31T04:20:31.192Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -5806,15 +5806,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/6v9jq3/Grace_Consciousness_Part_26yu23.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/IMG-20211016-WA0004.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2021",
+        "assetName": "0188-2021-10-25-grace-consciousness-part-2-alexander-pav.m4a",
+        "assetId": 694338735,
+        "bytes": 39694151,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0188 - 2021-10-25 - Grace Consciousness [Part 2] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0188-2021-10-25-grace-consciousness-part-2-alexander-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "edb11890e47e71fe590c8c50617bce96541c2b8b3225866ad4eee75ea672d13a",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
