@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T03:56:43.043Z",
+  "generatedAt": "2026-10-31T03:57:09.693Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -3046,15 +3046,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/w6tmeq/Stayed_By_The_Gospel_Final_.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/IMG-20200226-WA0005.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0096-2020-03-02-staying-with-the-gospel-stayed-by-the-go.m4a",
+        "assetId": 694295169,
+        "bytes": 34562015,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0096 - 2020-03-02 - Staying With The Gospel; Stayed By The Gospel — Lady Choice & PAV.m4a",
       "suggestedAssetName": "0096-2020-03-02-staying-with-the-gospel-stayed-by-the-go.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "be5f10a7ac2f7e9d6b6541555dc50ca553b4e3f8f277da6a560c021f602bc976",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

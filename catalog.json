@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T03:56:43.049Z",
-  "totalEpisodes": 289,
+  "updatedAt": "2026-10-31T03:57:09.698Z",
+  "totalEpisodes": 290,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -2555,6 +2555,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0097-2020-03-02-journey-through-romans-12-part-1-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/b654a3453e6fa5ffe0fa8fe9cfa53344735b49336b141dca61ea2904b2bcdfcc.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/b654a3453e6fa5ffe0fa8fe9cfa53344735b49336b141dca61ea2904b2bcdfcc.webp"
+    },
+    {
+      "id": "0096-77be509e",
+      "number": 96,
+      "title": "Staying With The Gospel; Stayed By The Gospel — Lady Choice & PAV",
+      "date": "2020-03-02",
+      "year": 2020,
+      "durationSeconds": 4178,
+      "bytes": 34562015,
+      "description": "The Gospel by which you are saved is the same Gospel by which you are sustained. To be stayed by it, you must stay with it! For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Facebook: @TheBasileiaCommission Twitter: @TheBasileia_NG Instagram: WordAbidingHouseN",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0096-2020-03-02-staying-with-the-gospel-stayed-by-the-go.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/be5f10a7ac2f7e9d6b6541555dc50ca553b4e3f8f277da6a560c021f602bc976.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/be5f10a7ac2f7e9d6b6541555dc50ca553b4e3f8f277da6a560c021f602bc976.webp"
     },
     {
       "id": "0095-c068f2ca",
