@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:35:56.293Z",
+  "generatedAt": "2026-10-31T04:36:27.026Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -7190,15 +7190,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/8jem49/Redemption_-_Grace_From_The_Kinsman_Redeermer_-_Caleb9vab3.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/REDEMPTION.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0236-2022-08-29-redemption-grace-from-the-kinsman-redeem.m4a",
+        "assetId": 694369401,
+        "bytes": 38607151,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0236 - 2022-08-29 - REDEMPTION Grace from the Kinsman Redeemer! [Encore] — Caleb Ezak.m4a",
       "suggestedAssetName": "0236-2022-08-29-redemption-grace-from-the-kinsman-redeem.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "baa961f3ffa006d9881803873cf28e6e76bd9f76e6647381901c3c13d1ff3c79",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

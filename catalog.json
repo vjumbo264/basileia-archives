@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T04:35:56.299Z",
-  "totalEpisodes": 313,
+  "updatedAt": "2026-10-31T04:36:27.035Z",
+  "totalEpisodes": 314,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1593,6 +1593,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0238-2022-09-07-christ-our-preservative-minika-efa.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/a1a1c6dd7670e454c478be1e445e2ac0a290b1f2f878368d72da7740998b66fc.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/a1a1c6dd7670e454c478be1e445e2ac0a290b1f2f878368d72da7740998b66fc.webp"
+    },
+    {
+      "id": "0236-140d5e4c",
+      "number": 236,
+      "title": "REDEMPTION: Grace from the Kinsman Redeemer! [Encore] — Caleb Ezak",
+      "date": "2022-08-29",
+      "year": 2022,
+      "durationSeconds": 4782,
+      "bytes": 38607151,
+      "description": "From the story of Ruth & Boaz, Caleb Ezak draws timeless truths about the Redemption realities of the believer in CHRiSt's finished work as is so beautifully detailed out in that amazing story. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagr",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0236-2022-08-29-redemption-grace-from-the-kinsman-redeem.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/baa961f3ffa006d9881803873cf28e6e76bd9f76e6647381901c3c13d1ff3c79.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/baa961f3ffa006d9881803873cf28e6e76bd9f76e6647381901c3c13d1ff3c79.webp"
     },
     {
       "id": "0235-82e95a7d",
