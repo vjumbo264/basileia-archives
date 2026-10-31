@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T00:09:44.422Z",
-  "totalEpisodes": 274,
+  "updatedAt": "2026-10-31T00:10:15.346Z",
+  "totalEpisodes": 275,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -228,6 +228,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0471-2026-04-22-the-gospel-good-news-with-no-bad-side-th.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/b15f6b42cd8d25b130e5a77dc08d1477050d8f21c4923cf24e6837cf144816a4.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/b15f6b42cd8d25b130e5a77dc08d1477050d8f21c4923cf24e6837cf144816a4.webp"
+    },
+    {
+      "id": "0469-e5426132",
+      "number": 469,
+      "title": "Boasting In The Presence Of Blood: A Christological Discuss On Humility [Part 2] — Alexander ’PAV’ Victor",
+      "date": "2026-04-16",
+      "year": 2026,
+      "durationSeconds": 3618,
+      "bytes": 29961681,
+      "description": "The effective communication of our faith will be carried out only by the flawed language of men. Scripture is not against the language of men, but God will supercharge and amplify the meaning of words in the languages of men in order to declare His will, that men may understand God rightly. For inqu",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0469-2026-04-16-boasting-in-the-presence-of-blood-a-chri.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
     {
       "id": "0468-6212435f",
