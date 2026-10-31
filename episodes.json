@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:35:23.042Z",
+  "generatedAt": "2026-10-31T04:35:56.293Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -7158,15 +7158,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/hmffys/He_Swapped_It_Encore_His_Life_For_My_Death_-_Mika_Edim6cs8p.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/He_Swapped_It_Encore_His_Life_For_My_Death_ac6ao.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0235-2022-08-26-he-swapped-it-encore-his-life-for-my-dea.m4a",
+        "assetId": 694368505,
+        "bytes": 35122681,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0235 - 2022-08-26 - He Swapped It [Encore His Life For My Death] — Mika Edim.m4a",
       "suggestedAssetName": "0235-2022-08-26-he-swapped-it-encore-his-life-for-my-dea.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "29efa47556b7245120190ff19982ad56c7f6273da93b947b1063001896e67041",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

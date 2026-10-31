@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T04:35:23.048Z",
-  "totalEpisodes": 312,
+  "updatedAt": "2026-10-31T04:35:56.299Z",
+  "totalEpisodes": 313,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1593,6 +1593,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0238-2022-09-07-christ-our-preservative-minika-efa.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/a1a1c6dd7670e454c478be1e445e2ac0a290b1f2f878368d72da7740998b66fc.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/a1a1c6dd7670e454c478be1e445e2ac0a290b1f2f878368d72da7740998b66fc.webp"
+    },
+    {
+      "id": "0235-82e95a7d",
+      "number": 235,
+      "title": "He Swapped It [Encore: His Life For My Death] — Mika Edim",
+      "date": "2022-08-26",
+      "year": 2022,
+      "durationSeconds": 4239,
+      "bytes": 35122681,
+      "description": "'CHRiSt became everything I was, so that I might become everything that He is! He swapped it!' The life of God that the believer has & lives, needs no human validation. Join us as we explore again; how He died our death, so we might live His life and live it to the fullest. For inquires & bookings: ",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0235-2022-08-26-he-swapped-it-encore-his-life-for-my-dea.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/29efa47556b7245120190ff19982ad56c7f6273da93b947b1063001896e67041.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/29efa47556b7245120190ff19982ad56c7f6273da93b947b1063001896e67041.webp"
     },
     {
       "id": "0234-e4a42aba",
