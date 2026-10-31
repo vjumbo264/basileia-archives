@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T04:49:45.031Z",
-  "totalEpisodes": 322,
+  "updatedAt": "2026-10-31T04:50:17.645Z",
+  "totalEpisodes": 323,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1489,6 +1489,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0266-2023-03-16-faithfulness-consciousness-alexander-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/d1c0577f3fe698683d8b6504035ab4d3a24297d90cedca51e0bfa099dd612db0.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/d1c0577f3fe698683d8b6504035ab4d3a24297d90cedca51e0bfa099dd612db0.webp"
+    },
+    {
+      "id": "0265-78e68467",
+      "number": 265,
+      "title": "What Purpose Does The Law Serve? [Part 10] — Alexander ’PAV’ Victor",
+      "date": "2023-03-08",
+      "year": 2023,
+      "durationSeconds": 5394,
+      "bytes": 43812029,
+      "description": "Why was the law given? Who gave the law? What was its purpose? What does it mean by ‘Jesus fulfilled the law’? Is it still in force today, binding on believers? What is its place? These questions and more are answered systematically in this mini-series, so strap up and dig in! For inquires & booking",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0265-2023-03-08-what-purpose-does-the-law-serve-part-10-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/ae4a0e342ec9daa955f8550c52519fd6c07f33d6c084ac37c0838de83dca5aff.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/ae4a0e342ec9daa955f8550c52519fd6c07f33d6c084ac37c0838de83dca5aff.webp"
     },
     {
       "id": "0264-78a1da22",
