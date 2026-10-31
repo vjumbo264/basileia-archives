@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:25:13.675Z",
+  "generatedAt": "2026-10-31T04:25:42.075Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6326,15 +6326,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/ffzzai/Church_Consciousness_The_MarketPlace6ou7m.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Blue_Gradient_Inspirational_Quote_Instagram_Post_1_b8977.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0206-2022-03-06-church-consciousness-the-marketplace-ale.m4a",
+        "assetId": 694349593,
+        "bytes": 36707764,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0206 - 2022-03-06 - Church Consciousness & The MarketPlace — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0206-2022-03-06-church-consciousness-the-marketplace-ale.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "0aab0c34e1aa8291c5417c2bd5af2fce9e9e22a75644f7e321aa5a07c78029b3",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
