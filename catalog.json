@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T00:25:01.651Z",
-  "totalEpisodes": 280,
+  "updatedAt": "2026-10-31T00:25:19.379Z",
+  "totalEpisodes": 281,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0511-7fb8b943",
+      "number": 511,
+      "title": "CHRiSt Is Enough — Pastor John Ikpi.mp3",
+      "date": "2026-10-21",
+      "year": 2026,
+      "durationSeconds": 2370,
+      "bytes": 19983861,
+      "description": "Lacking nothing is the perpetual state of sons and that which we have received, needs no additives or supplements, seeing as it is the fulness of God, facilitated through and in CHRiSt Jesus. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagram",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0511-2026-10-21-christ-is-enough-pastor-john-ikpi-mp3.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0505-fa3a08af",
       "number": 505,

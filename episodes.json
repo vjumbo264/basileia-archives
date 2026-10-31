@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T00:25:01.644Z",
+  "generatedAt": "2026-10-31T00:25:19.371Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -14502,15 +14502,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/rl1jjuol921y031q/1792620249585.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0511-2026-10-21-christ-is-enough-pastor-john-ikpi-mp3.m4a",
+        "assetId": 693867948,
+        "bytes": 19983861,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0511 - 2026-10-21 - CHRiSt Is Enough — Pastor John Ikpi.mp3.m4a",
       "suggestedAssetName": "0511-2026-10-21-christ-is-enough-pastor-john-ikpi-mp3.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
