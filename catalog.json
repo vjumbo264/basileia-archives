@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T04:36:27.035Z",
-  "totalEpisodes": 314,
+  "updatedAt": "2026-10-31T04:36:57.504Z",
+  "totalEpisodes": 315,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1593,6 +1593,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0238-2022-09-07-christ-our-preservative-minika-efa.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/a1a1c6dd7670e454c478be1e445e2ac0a290b1f2f878368d72da7740998b66fc.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/a1a1c6dd7670e454c478be1e445e2ac0a290b1f2f878368d72da7740998b66fc.webp"
+    },
+    {
+      "id": "0237-e96a8d32",
+      "number": 237,
+      "title": "Discerning The Voice & Leading Of The Holy Spirit [Encore] — Wisdom Eke",
+      "date": "2022-09-05",
+      "year": 2022,
+      "durationSeconds": 4798,
+      "bytes": 39659193,
+      "description": "Many a believer—old or new in the faith alike—struggles with this very crucial subject of discerning the voice of the Spirit of God in everyday CHRiStocentric living. Again here's a simple, practical, instantly applicable teaching from God's Word, rightly divided. For inquires & bookings: Phone: +23",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0237-2022-09-05-discerning-the-voice-leading-of-the-holy.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/0b428086e8a3d10f99215fe73337edbf60d647c259fadbc5c14282fa79778473.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/0b428086e8a3d10f99215fe73337edbf60d647c259fadbc5c14282fa79778473.webp"
     },
     {
       "id": "0236-140d5e4c",
