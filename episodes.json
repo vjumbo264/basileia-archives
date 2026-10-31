@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T05:57:18.585Z",
+  "generatedAt": "2026-10-31T05:57:52.189Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -14206,15 +14206,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/d9h8wurczi3bv5vc/Before_You_Catch_Feelings_Biblical_Clarity_Over_Blinding_Chemistry_Part_1_6xdfy.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/BYCF_COVER_172nlk.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0473-2026-04-29-before-you-catch-feelings-biblical-clari.m4a",
+        "assetId": 694521765,
+        "bytes": 38641401,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0473 - 2026-04-29 - Before You Catch Feelings; Biblical Clarity Over Blinding Chemistry [Part 1] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0473-2026-04-29-before-you-catch-feelings-biblical-clari.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "7101b2bbc236efc6932d15a3a061985edf3898b8be595cca57e6e3298b8e0010",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

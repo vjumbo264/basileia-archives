@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T05:57:18.594Z",
-  "totalEpisodes": 378,
+  "updatedAt": "2026-10-31T05:57:52.196Z",
+  "totalEpisodes": 379,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -280,6 +280,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0474-2026-05-06-sin-reigned-christ-ended-it-the-truth-si.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/c481b3735942095240e172fd74433e00d5a0f859c8e9d8bc52c5af2c48c35c66.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/c481b3735942095240e172fd74433e00d5a0f859c8e9d8bc52c5af2c48c35c66.webp"
+    },
+    {
+      "id": "0473-42a698a0",
+      "number": 473,
+      "title": "Before You Catch Feelings; Biblical Clarity Over Blinding Chemistry [Part 1] — Alexander ’PAV’ Victor",
+      "date": "2026-04-29",
+      "year": 2026,
+      "durationSeconds": 4669,
+      "bytes": 38641401,
+      "description": "“Scripture does not give dignity to undefined romantic attachments.” In this teaching series, PAV breaks down the Bible’s position on heterosexual relationships within the context of the New Testament Church, and establishes the sufficiency of Scripture, through all generations. For inquires & booki",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0473-2026-04-29-before-you-catch-feelings-biblical-clari.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/7101b2bbc236efc6932d15a3a061985edf3898b8be595cca57e6e3298b8e0010.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/7101b2bbc236efc6932d15a3a061985edf3898b8be595cca57e6e3298b8e0010.webp"
     },
     {
       "id": "0472-7b0add8c",
