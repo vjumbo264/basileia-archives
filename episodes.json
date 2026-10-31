@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T05:51:28.487Z",
+  "generatedAt": "2026-10-31T05:52:03.098Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -13582,15 +13582,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/ctxw5vq2dznaju2w/Church_Consciousness_Series_2_The_Value_System_Of_The_Church_Part_2_Alexander_PAV_Victor99hbx.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0452-2026-01-28-church-consciousness-2-0-the-value-syste.m4a",
+        "assetId": 694510356,
+        "bytes": 43349308,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0452 - 2026-01-28 - Church Consciousness 2.0; The Value System Of The Church [Part II] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0452-2026-01-28-church-consciousness-2-0-the-value-syste.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
