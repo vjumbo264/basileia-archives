@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T00:25:19.379Z",
-  "totalEpisodes": 281,
+  "updatedAt": "2026-10-31T00:25:34.649Z",
+  "totalEpisodes": 282,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0512-3e7e2878",
+      "number": 512,
+      "title": "The Divine Nature [Part 9].mp3",
+      "date": "2026-10-22",
+      "year": 2026,
+      "durationSeconds": 2107,
+      "bytes": 17547610,
+      "description": "The believer in CHRiSt is by divine appointment superior to the world around Him; 'that through these you may be partakers...' In this exposé on The Divine Nature, PAV brings us into consciousness of the supernatural at work in Sons, and how that is our naturalness. For inquires & bookings: Phone: +",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0512-2026-10-22-the-divine-nature-part-9-mp3.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0511-7fb8b943",
       "number": 511,
