@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T05:48:15.123Z",
-  "totalEpisodes": 370,
+  "updatedAt": "2026-10-31T05:48:47.562Z",
+  "totalEpisodes": 371,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -460,6 +460,19 @@
       "bytes": 17579095,
       "description": "In this short teaching series: \"Married at my Ex-Husband's Funeral\", the weight of the marriage metaphor is fully unpacked and transmitted as Alexander Victor takes us through how the two covenants come to play. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0444-2025-11-04-married-at-my-ex-husband-s-funeral-part-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0443-ba069000",
+      "number": 443,
+      "title": "Married At My Ex-Husband’s Funeral [Part 2] — Alexander ’PAV’ Victor",
+      "date": "2025-11-03",
+      "year": 2025,
+      "durationSeconds": 5219,
+      "bytes": 43054490,
+      "description": "In this short teaching series: \"Married at my Ex-Husband's Funeral\", the weight of the marriage metaphor is fully unpacked and transmitted as Alexander Victor takes us through how the two covenants come to play. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0443-2025-11-03-married-at-my-ex-husband-s-funeral-part-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },

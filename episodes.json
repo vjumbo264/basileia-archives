@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T05:48:15.117Z",
+  "generatedAt": "2026-10-31T05:48:47.556Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -13310,15 +13310,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/ddah8f7atz2rktje/Married_At_My_Ex-husband_s_Funeral_Part_2_9sjgy.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0443-2025-11-03-married-at-my-ex-husband-s-funeral-part-.m4a",
+        "assetId": 694503191,
+        "bytes": 43054490,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0443 - 2025-11-03 - Married At My Ex-Husband’s Funeral [Part 2] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0443-2025-11-03-married-at-my-ex-husband-s-funeral-part-.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
