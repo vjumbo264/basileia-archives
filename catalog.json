@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T03:59:22.323Z",
-  "totalEpisodes": 292,
+  "updatedAt": "2026-10-31T03:59:54.457Z",
+  "totalEpisodes": 293,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -2477,6 +2477,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0109-2020-05-05-the-christ-conscious-believer-part-2-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/ac250fe9c01a9fbbcc35b27b6b894bfc8d075ffbcd8378b19999ebef4e16958e.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/ac250fe9c01a9fbbcc35b27b6b894bfc8d075ffbcd8378b19999ebef4e16958e.webp"
+    },
+    {
+      "id": "0107-e760596e",
+      "number": 107,
+      "title": "What's Your News? [Part 2] — PAV",
+      "date": "2020-04-11",
+      "year": 2020,
+      "durationSeconds": 4736,
+      "bytes": 39102966,
+      "description": "What News Are You Peddling? What Report Are You armed with? A word in season, for all seasons. Dig in! For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Facebook: @TheBasileiaCommission Twitter: @TheBasileia_NG Instagram: WordAbidingHouseNG",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0107-2020-04-11-what-s-your-news-part-2-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/9b3ddf3f3e3ed24c9f6bc5b5886bd04010628e4dcee0bea2b23cb32f17b5d5f4.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/9b3ddf3f3e3ed24c9f6bc5b5886bd04010628e4dcee0bea2b23cb32f17b5d5f4.webp"
     },
     {
       "id": "0106-feb701b1",

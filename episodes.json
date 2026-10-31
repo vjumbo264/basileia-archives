@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T03:59:22.317Z",
+  "generatedAt": "2026-10-31T03:59:54.451Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -3382,15 +3382,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/2nx6mv/What_s_Your_News_Part_2.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/News_2.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0107-2020-04-11-what-s-your-news-part-2-pav.m4a",
+        "assetId": 694299613,
+        "bytes": 39102966,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0107 - 2020-04-11 - What's Your News [Part 2] — PAV.m4a",
       "suggestedAssetName": "0107-2020-04-11-what-s-your-news-part-2-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "9b3ddf3f3e3ed24c9f6bc5b5886bd04010628e4dcee0bea2b23cb32f17b5d5f4",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
