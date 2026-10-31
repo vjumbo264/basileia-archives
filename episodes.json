@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T00:06:06.642Z",
+  "generatedAt": "2026-10-31T00:06:37.020Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -13046,15 +13046,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/hue28f9ccgwg5nim/The_Secure_Mind_-_Esther_Benjamin6qf2b.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0460-2026-02-25-the-secure-mind-esther-benjamin.m4a",
+        "assetId": 693827591,
+        "bytes": 33844496,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0460 - 2026-02-25 - The Secure Mind — Esther Benjamin.m4a",
       "suggestedAssetName": "0460-2026-02-25-the-secure-mind-esther-benjamin.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
