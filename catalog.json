@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T04:21:46.576Z",
-  "totalEpisodes": 308,
+  "updatedAt": "2026-10-31T04:22:18.145Z",
+  "totalEpisodes": 309,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1892,6 +1892,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0192-2021-12-09-growth-consciousness-alexander-pav-victo.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/45b075c862087e538c168944feb0ce5a7ea87d01cb899442202419109f662e52.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/45b075c862087e538c168944feb0ce5a7ea87d01cb899442202419109f662e52.webp"
+    },
+    {
+      "id": "0191-1a30f69d",
+      "number": 191,
+      "title": "Living Within Liberty — Alexander ’PAV’ Victor",
+      "date": "2021-12-03",
+      "year": 2021,
+      "durationSeconds": 4303,
+      "bytes": 32404998,
+      "description": "Stretch your imagination as far as you can, your liberty is even more limitless. This teaching shows you the checks and balances of your liberty and the responsibilities that accompany it. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagram: @",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0191-2021-12-03-living-within-liberty-alexander-pav-vict.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/189129d409c1a4100186f3c8bd7856f65c885ffd52ab2914a6b550a8d546fc25.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/189129d409c1a4100186f3c8bd7856f65c885ffd52ab2914a6b550a8d546fc25.webp"
     },
     {
       "id": "0188-c8172ff2",

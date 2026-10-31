@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:21:46.570Z",
+  "generatedAt": "2026-10-31T04:22:18.139Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -5886,15 +5886,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/fb6puc/Living_Within_Liberty8c5vq.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/LWL.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2021",
+        "assetName": "0191-2021-12-03-living-within-liberty-alexander-pav-vict.m4a",
+        "assetId": 694342512,
+        "bytes": 32404998,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0191 - 2021-12-03 - Living Within Liberty — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0191-2021-12-03-living-within-liberty-alexander-pav-vict.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "189129d409c1a4100186f3c8bd7856f65c885ffd52ab2914a6b550a8d546fc25",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
