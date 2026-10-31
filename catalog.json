@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T05:39:13.408Z",
-  "totalEpisodes": 368,
+  "updatedAt": "2026-10-31T05:39:47.956Z",
+  "totalEpisodes": 369,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -488,6 +488,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0439-2025-10-24-understanding-the-goodness-of-god-goodne.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0428-687d7b06",
+      "number": 428,
+      "title": "The Yoke Of Grace; Taking On The Lord's Burden [A Forensic Exegesis] Part 1 — Alexander ’PAV’ Victor",
+      "date": "2025-08-27",
+      "year": 2025,
+      "durationSeconds": 5270,
+      "bytes": 43456321,
+      "description": "'Come to Me, all you who labor and are heavy laden, and I will give you rest'; this teaching expounds this Scripture and how it interplays with the enormity of the grace of God. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org Twitter | Instagram: @WAHthehurch",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0428-2025-08-27-the-yoke-of-grace-taking-on-the-lord-s-b.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/cc967a88f16ed7920ce51e14c1f449d528700d3f2dcf75e9f82c0b178f57ff99.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/cc967a88f16ed7920ce51e14c1f449d528700d3f2dcf75e9f82c0b178f57ff99.webp"
     },
     {
       "id": "0427-c98eca48",
