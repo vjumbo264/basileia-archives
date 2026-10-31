@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T05:27:16.469Z",
-  "totalEpisodes": 355,
+  "updatedAt": "2026-10-31T05:27:44.835Z",
+  "totalEpisodes": 356,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -670,6 +670,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0393-2025-02-23-kingdomcultured-matters-of-the-heart-the.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0392-6a7d3e77",
+      "number": 392,
+      "title": "Let's Talk Grace [Part 4] — Alexander ’PAV’ Victor",
+      "date": "2025-01-31",
+      "year": 2025,
+      "durationSeconds": 5026,
+      "bytes": 41590336,
+      "description": "Have you come across teachings about the GRACE of God, even right here on our podcast? Well, here's why the Scripture teaches us that 'if anyone thinks of himself as a know-it-all, he still has a lot of learning to do'. This teaching will bless, encourage and jolt you onto a whole other level of con",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0392-2025-01-31-let-s-talk-grace-part-4-alexander-pav-vi.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/ba7fd13e879f7416e9c62f3a78a3529fdc44ef23630c899ae8b0b03644bb4596.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/ba7fd13e879f7416e9c62f3a78a3529fdc44ef23630c899ae8b0b03644bb4596.webp"
     },
     {
       "id": "0388-457e30d4",

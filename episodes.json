@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T05:27:16.462Z",
+  "generatedAt": "2026-10-31T05:27:44.829Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -11838,15 +11838,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/hdbcj5434b3tw89r/Let_s_Talk_Grace_Part_48mjll.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/4.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0392-2025-01-31-let-s-talk-grace-part-4-alexander-pav-vi.m4a",
+        "assetId": 694463911,
+        "bytes": 41590336,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0392 - 2025-01-31 - Let's Talk Grace [Part 4] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0392-2025-01-31-let-s-talk-grace-part-4-alexander-pav-vi.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "ba7fd13e879f7416e9c62f3a78a3529fdc44ef23630c899ae8b0b03644bb4596",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
