@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:32:17.387Z",
+  "generatedAt": "2026-10-31T04:32:48.349Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6998,15 +6998,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/rufa8k/Honouring_Your_Grace-Gifts_Maximising_Your_Access_9vfeo.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Honouring_Your_Grace-Gifts7xog9.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0229-2022-08-08-honouring-your-grace-gifts-maximising-pa.m4a",
+        "assetId": 694363318,
+        "bytes": 41460962,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0229 - 2022-08-08 - Honouring Your Grace-Gifts (Maximising Pastoral Access) — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0229-2022-08-08-honouring-your-grace-gifts-maximising-pa.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "ebe76d544d41800c2b59058b1788a926122827561a4c46e515362a343e4dc091",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

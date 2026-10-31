@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T04:32:17.393Z",
-  "totalEpisodes": 311,
+  "updatedAt": "2026-10-31T04:32:48.355Z",
+  "totalEpisodes": 312,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1606,6 +1606,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0234-2022-08-25-was-elijah-caught-up-in-heaven-alexander.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/bfbb68ef433fd6a5278f93c3d92a76ba3b88340a82f3b1cab3d9e620a9ed5b2b.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/bfbb68ef433fd6a5278f93c3d92a76ba3b88340a82f3b1cab3d9e620a9ed5b2b.webp"
+    },
+    {
+      "id": "0229-c508deb5",
+      "number": 229,
+      "title": "Honouring Your Grace-Gifts (Maximising Pastoral Access) — Alexander ’PAV’ Victor",
+      "date": "2022-08-08",
+      "year": 2022,
+      "durationSeconds": 5018,
+      "bytes": 41460962,
+      "description": "For the believer, next to the gift of the Holy Spirit, the most important gift is the blessing of Grace-Gifts: men set over you in the labour of Word & Doctrine. This teaching explores the scriptural admonition to hold such gifts in high esteem. For inquires & bookings: Phone: +234 708 881 8864 Emai",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0229-2022-08-08-honouring-your-grace-gifts-maximising-pa.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/ebe76d544d41800c2b59058b1788a926122827561a4c46e515362a343e4dc091.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/ebe76d544d41800c2b59058b1788a926122827561a4c46e515362a343e4dc091.webp"
     },
     {
       "id": "0228-2098a82e",
