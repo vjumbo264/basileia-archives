@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T05:36:41.992Z",
+  "generatedAt": "2026-10-31T05:37:09.245Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -12574,15 +12574,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/77gux47wirf9dg43/In_All_Things_God_An_Encore_-_Minika_Efaarkk1.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0417-2025-07-04-in-all-things-god-an-encore-minika-efa.m4a",
+        "assetId": 694480327,
+        "bytes": 32384639,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0417 - 2025-07-04 - In All Things, GOD! [An Encore] — Minika Efa.m4a",
       "suggestedAssetName": "0417-2025-07-04-in-all-things-god-an-encore-minika-efa.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
