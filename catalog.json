@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T00:15:40.246Z",
-  "totalEpisodes": 278,
+  "updatedAt": "2026-10-31T00:16:10.765Z",
+  "totalEpisodes": 279,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -70,6 +70,19 @@
       "bytes": 12951596,
       "description": "In Episode 13 of The Truth Simply Put with PAV, Alexander Victor begins a focused look at the power of the Gospel by opening Romans 1:16 and pressing a vital question: what exactly did Paul mean when he said, “I am not ashamed of the gospel of CHRiSt, for it is the power of God unto salvation”? This",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0492-2026-07-19-the-gospel-is-the-power-of-god-the-truth.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0491-4ff62766",
+      "number": 491,
+      "title": "Don't Be Blinded By Truth; Don't Delete Truth [Part 4] — Alexander ’PAV’ Victor",
+      "date": "2026-07-19",
+      "year": 2026,
+      "durationSeconds": 3812,
+      "bytes": 31592531,
+      "description": "Also known as Don’t Delete Truth, this series has been described as “a set of principles by which you should handle the word”. Line upon line, precept upon precept; you will appreciate the journey through this subject. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisss",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0491-2026-07-19-don-t-be-blinded-by-truth-don-t-delete-t.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
