@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T04:17:03.288Z",
-  "totalEpisodes": 305,
+  "updatedAt": "2026-10-31T04:17:35.412Z",
+  "totalEpisodes": 306,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1905,6 +1905,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0183-2021-09-21-faith-consciousness-part-1-alexander-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/e2cdc50f0b68a84e7d58c67c421b3677a44105dbd0cb9d49b3b7edf0482db05a.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/e2cdc50f0b68a84e7d58c67c421b3677a44105dbd0cb9d49b3b7edf0482db05a.webp"
+    },
+    {
+      "id": "0182-c1bacc29",
+      "number": 182,
+      "title": "Word Consciousness [Part 3] — Alexander ’PAV’ Victor",
+      "date": "2021-09-10",
+      "year": 2021,
+      "durationSeconds": 4483,
+      "bytes": 37064369,
+      "description": "The Word of God, rightly divided in the light of CHRiSt—who is its central and sole message—is unto the believer for conscious, deliberate application. The workings of God in your life are directly proportional to your subscription to His Word as touching a particular area per time. In this teaching",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0182-2021-09-10-word-consciousness-part-3-alexander-pav-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/0b9a7d5e0165431b985259a2a72b63c476d5dad3fc97f90336ded8eadcebcd12.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/0b9a7d5e0165431b985259a2a72b63c476d5dad3fc97f90336ded8eadcebcd12.webp"
     },
     {
       "id": "0181-939bca51",
