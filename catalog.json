@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T03:58:51.985Z",
-  "totalEpisodes": 291,
+  "updatedAt": "2026-10-31T03:59:22.323Z",
+  "totalEpisodes": 292,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -2503,6 +2503,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0105-2020-04-11-you-are-what-you-see-part-2-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/97ab9ab03c7ded4ef03954347cbd8d113d1e0f9934bed4463e96c510c6507091.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/97ab9ab03c7ded4ef03954347cbd8d113d1e0f9934bed4463e96c510c6507091.webp"
+    },
+    {
+      "id": "0104-1f315e94",
+      "number": 104,
+      "title": "You Are What You See [Part 1] — PAV",
+      "date": "2020-04-06",
+      "year": 2020,
+      "durationSeconds": 4129,
+      "bytes": 34279622,
+      "description": "You are What You See. You become what you behold. What do you see? How do you see? PAV explains the functionalities and realities of your real sight: your SPIRITUAL sight. For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Facebook: @TheBasileiaCommission Twitt",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0104-2020-04-06-you-are-what-you-see-part-1-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/b1f2530812f8378fe2ba8307cbe02e66764d3237731dc80af855293a20c01948.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/b1f2530812f8378fe2ba8307cbe02e66764d3237731dc80af855293a20c01948.webp"
     },
     {
       "id": "0103-511a9c4b",
