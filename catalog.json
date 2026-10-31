@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T04:43:32.803Z",
-  "totalEpisodes": 318,
+  "updatedAt": "2026-10-31T04:44:07.549Z",
+  "totalEpisodes": 319,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1502,6 +1502,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2023/0256-2023-01-03-what-purpose-does-the-law-serve-part-1-a.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/b4087b9e7405fe0932163c1c071e8088c52d455ec5213ed1707cd919cc9d8c13.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/b4087b9e7405fe0932163c1c071e8088c52d455ec5213ed1707cd919cc9d8c13.webp"
+    },
+    {
+      "id": "0254-7fd03bdd",
+      "number": 254,
+      "title": "Lord Even In Death [Part 2] — Alexander ’PAV’ Victor",
+      "date": "2022-12-15",
+      "year": 2022,
+      "durationSeconds": 6178,
+      "bytes": 51335305,
+      "description": "It is absolutely clear and without equivocation that the finished work of CHRiSt dealt a fatal blow to death that it can never recover from, such that it does not qualify to even be considered as what the believer should ever fear! Come along with us as we take an expository journey on this subject.",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0254-2022-12-15-lord-even-in-death-part-2-alexander-pav-.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
     {
       "id": "0253-027cd0ad",

@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:43:32.798Z",
+  "generatedAt": "2026-10-31T04:44:07.543Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -7718,15 +7718,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/cm6gej/Lord_Even_In_Death_Part_2a878y.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0254-2022-12-15-lord-even-in-death-part-2-alexander-pav-.m4a",
+        "assetId": 694382456,
+        "bytes": 51335305,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0254 - 2022-12-15 - Lord Even In Death [Part 2] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0254-2022-12-15-lord-even-in-death-part-2-alexander-pav-.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
