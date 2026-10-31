@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T03:58:18.744Z",
+  "generatedAt": "2026-10-31T03:58:51.979Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -3254,15 +3254,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/up82nw/Attention_Change_Of_Location.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Change_Of_Location.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0103-2020-04-06-attention-change-of-location-pav.m4a",
+        "assetId": 694298204,
+        "bytes": 41301620,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0103 - 2020-04-06 - Attention! Change Of Location!! — PAV.m4a",
       "suggestedAssetName": "0103-2020-04-06-attention-change-of-location-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "705b244097d951b066ae2e74fdc14d87c03d73ab6c810881a09e7622158399ea",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

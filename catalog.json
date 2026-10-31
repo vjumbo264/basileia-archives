@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T03:58:18.749Z",
-  "totalEpisodes": 290,
+  "updatedAt": "2026-10-31T03:58:51.985Z",
+  "totalEpisodes": 291,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -2503,6 +2503,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0105-2020-04-11-you-are-what-you-see-part-2-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/97ab9ab03c7ded4ef03954347cbd8d113d1e0f9934bed4463e96c510c6507091.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/97ab9ab03c7ded4ef03954347cbd8d113d1e0f9934bed4463e96c510c6507091.webp"
+    },
+    {
+      "id": "0103-511a9c4b",
+      "number": 103,
+      "title": "Attention! Change Of Location!! — PAV",
+      "date": "2020-04-06",
+      "year": 2020,
+      "durationSeconds": 4982,
+      "bytes": 41301620,
+      "description": "Everything that happens, happens at a particular location. So invariably, the location tells on the nature and quality of a happenstance. This teaching takes time to explore and unveil the significance of the location of the believer's life and realities in God through CHRiSt. For inquires & booking",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0103-2020-04-06-attention-change-of-location-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/705b244097d951b066ae2e74fdc14d87c03d73ab6c810881a09e7622158399ea.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/705b244097d951b066ae2e74fdc14d87c03d73ab6c810881a09e7622158399ea.webp"
     },
     {
       "id": "0100-a509d261",
