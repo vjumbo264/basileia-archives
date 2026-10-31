@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T04:36:57.504Z",
-  "totalEpisodes": 315,
+  "updatedAt": "2026-10-31T04:37:28.308Z",
+  "totalEpisodes": 316,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1567,6 +1567,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0241-2022-10-05-discipleship-consciousness-part-1-alexan.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/a9135d2a5ba312eb7ec3494fea1d57f06b6aaef14bbc4126bbcc8751050ad370.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/a9135d2a5ba312eb7ec3494fea1d57f06b6aaef14bbc4126bbcc8751050ad370.webp"
+    },
+    {
+      "id": "0240-47ad4842",
+      "number": 240,
+      "title": "Sonship Consciousness — Lady Choice Alexander-Victor",
+      "date": "2022-09-20",
+      "year": 2022,
+      "durationSeconds": 4722,
+      "bytes": 39024537,
+      "description": "The Fatherhood of God wouldn't mean much without sons; would it? In this teaching, Lady Choice Alexander-Victor takes you on a journey of how important our sonship is to the Father and how sons ought to esteem themselves as highly as the Father has esteemed them. For inquires & bookings: Phone: +234",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2022/0240-2022-09-20-sonship-consciousness-lady-choice-alexan.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/bdaa2c4d75cd55e20af2d1f48a755e3fd39359687d83a4d1ddb2309e613efe99.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/bdaa2c4d75cd55e20af2d1f48a755e3fd39359687d83a4d1ddb2309e613efe99.webp"
     },
     {
       "id": "0239-002cd6ad",

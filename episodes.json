@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:36:57.499Z",
+  "generatedAt": "2026-10-31T04:37:28.302Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -7318,15 +7318,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/52hjn5/Sonship_Consciousness_-_LCAVb5b2e.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Sonship_Consciousness6aenl.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0240-2022-09-20-sonship-consciousness-lady-choice-alexan.m4a",
+        "assetId": 694371262,
+        "bytes": 39024537,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0240 - 2022-09-20 - Sonship Consciousness — Lady Choice Alexander-Victor.m4a",
       "suggestedAssetName": "0240-2022-09-20-sonship-consciousness-lady-choice-alexan.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "bdaa2c4d75cd55e20af2d1f48a755e3fd39359687d83a4d1ddb2309e613efe99",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
