@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T03:56:13.368Z",
-  "totalEpisodes": 288,
+  "updatedAt": "2026-10-31T03:56:43.049Z",
+  "totalEpisodes": 289,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -2685,6 +2685,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0086-2020-01-15-is-my-salvation-really-forever-pt-1-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/934c5fd13e665370bff97d07da0d3327cd877235c5a5e97511dc2b85f1eeaec2.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/934c5fd13e665370bff97d07da0d3327cd877235c5a5e97511dc2b85f1eeaec2.webp"
+    },
+    {
+      "id": "0085-9c489ffc",
+      "number": 85,
+      "title": "CHRiSt, Our Substance — PAV",
+      "date": "2020-01-03",
+      "year": 2020,
+      "durationSeconds": 4013,
+      "bytes": 33210864,
+      "description": "The New Testament believer is no more stuck in types & shadows of the Old Testament—even as spilled over into the New—when CHRiSt our substance is here! Dig in! For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Facebook: @TheBasileiaCommission Twitter: @TheBas",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0085-2020-01-03-christ-our-substance-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/2fd4d273a5956588aa41b0bbc5209fbcfa66709e696832653c88b9d335f18e33.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/2fd4d273a5956588aa41b0bbc5209fbcfa66709e696832653c88b9d335f18e33.webp"
     },
     {
       "id": "0084-542bc40f",

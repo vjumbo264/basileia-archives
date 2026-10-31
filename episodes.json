@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T03:56:13.362Z",
+  "generatedAt": "2026-10-31T03:56:43.043Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -2694,15 +2694,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/9byh33/CHRiSt_Our_Substance_CHRiSt_Our_Reality_.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/IMG-20200103-WA0005.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0085-2020-01-03-christ-our-substance-pav.m4a",
+        "assetId": 694294282,
+        "bytes": 33210864,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0085 - 2020-01-03 - CHRiSt, Our Substance — PAV.m4a",
       "suggestedAssetName": "0085-2020-01-03-christ-our-substance-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "2fd4d273a5956588aa41b0bbc5209fbcfa66709e696832653c88b9d335f18e33",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
