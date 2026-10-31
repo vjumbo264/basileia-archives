@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T05:24:04.420Z",
+  "generatedAt": "2026-10-31T05:24:36.063Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -11382,15 +11382,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/zcxjp2v2b8p8hfrm/The_Believeer_s_Consistency_-_Mayowaappc9.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2024",
+        "assetName": "0377-2024-12-25-the-believer-s-consistency-encore-mayowa.m4a",
+        "assetId": 694458712,
+        "bytes": 34280685,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0377 - 2024-12-25 - The Believer's Consistency [Encore] — Mayowa Malik.m4a",
       "suggestedAssetName": "0377-2024-12-25-the-believer-s-consistency-encore-mayowa.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
