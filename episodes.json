@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T00:21:20.788Z",
+  "generatedAt": "2026-10-31T00:21:50.842Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -14350,15 +14350,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/3r8bihkftb4b454g/The_Divine_Nature_Part_5_98tfg.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0505-2026-09-04-the-divine-nature-part-5-alexander-pav-v.m4a",
+        "assetId": 693860459,
+        "bytes": 31507226,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0505 - 2026-09-04 - The Divine Nature [Part 5] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0505-2026-09-04-the-divine-nature-part-5-alexander-pav-v.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
