@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T06:05:29.784Z",
+  "generatedAt": "2026-10-31T06:05:55.990Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -15262,15 +15262,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/yzrbwnvvsduqgd4v/The_Believer_s_Focus_-_Nkami_Basseybgu7o.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0507-2026-09-11-the-believer-s-focus-nkami-bassey.m4a",
+        "assetId": 694538932,
+        "bytes": 31223724,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0507 - 2026-09-11 - The Believer's Focus — Nkami Bassey.m4a",
       "suggestedAssetName": "0507-2026-09-11-the-believer-s-focus-nkami-bassey.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
