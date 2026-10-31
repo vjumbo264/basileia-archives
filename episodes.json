@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:41:54.805Z",
+  "generatedAt": "2026-10-31T04:42:29.097Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -7630,15 +7630,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/z4ezx6/More_Lessons_From_John_48p4x5.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/More_Lessons_From_John_4a6wtr.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0251-2022-12-07-more-lessons-from-john-4-alexander-pav-v.m4a",
+        "assetId": 694379496,
+        "bytes": 47470572,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0251 - 2022-12-07 - More Lessons From John 4 — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0251-2022-12-07-more-lessons-from-john-4-alexander-pav-v.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "1caf113fd6aaf10f14656f4759d17d0aad7866c38f26ed4e35da9e8fc3f68fc6",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
