@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T05:09:01.624Z",
-  "totalEpisodes": 338,
+  "updatedAt": "2026-10-31T05:09:28.225Z",
+  "totalEpisodes": 339,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1008,6 +1008,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0334-2024-09-24-kingdom-cultured-the-believer-s-conduct-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0333-6c1ca52e",
+      "number": 333,
+      "title": "Peace Consciousness [Encore] — Rev. Torty David",
+      "date": "2024-07-01",
+      "year": 2024,
+      "durationSeconds": 3900,
+      "bytes": 32079385,
+      "description": "Peace is NOT a state of mind. It is not what you can generate by yourself. Torty David [Reverend] delves into the subject of understanding the Peace of God in CHRiSt that we have, as sons of God. Dig in with us! For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacommisssion.org",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2024/0333-2024-07-01-peace-consciousness-encore-rev-torty-dav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/f8b8edebdef5ea0d08907ae7a61ead0e73d9bdbd1248be8e6c563a67d498f281.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/f8b8edebdef5ea0d08907ae7a61ead0e73d9bdbd1248be8e6c563a67d498f281.webp"
     },
     {
       "id": "0332-a05b255c",
