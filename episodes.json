@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-10-31T04:31:43.121Z",
+  "generatedAt": "2026-10-31T04:32:17.387Z",
   "totalEpisodes": 512,
   "episodes": [
     {
@@ -6934,15 +6934,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/apt629/Victory_Consciousness_Part_2bg0dr.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Victory_Consciousness_27zbw5.png"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2022",
+        "assetName": "0227-2022-08-01-victory-consciousness-part-2-alexander-p.m4a",
+        "assetId": 694362440,
+        "bytes": 46413989,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0227 - 2022-08-01 - Victory Consciousness [Part 2] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0227-2022-08-01-victory-consciousness-part-2-alexander-p.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "c3dd5b5c6b079dc1531ea22f7ebf8ca58a76faef76d450a8ab6daa284fbc5c8a",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
