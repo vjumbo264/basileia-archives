@@ -1,5 +1,5 @@
 /**
- * Basileia Archives Service Worker (v3.0.0)
+ * Basileia Archives Service Worker (v3.1.0)
  * - Versioned App Shell cache
  * - Stale-while-revalidate for catalog.json and episodes.json
  * - LRU Cover cache with quota error recovery
@@ -7,9 +7,9 @@
  * - Safe fallback if Cache API or storage unavailable
  */
 
-const SHELL_CACHE = 'basileia-shell-v3.0.0';
-const CATALOG_CACHE = 'basileia-catalog-v3.0.0';
-const COVERS_CACHE = 'basileia-covers-v3.0.0';
+const SHELL_CACHE = 'basileia-shell-v3.1.0';
+const CATALOG_CACHE = 'basileia-catalog-v3.1.0';
+const COVERS_CACHE = 'basileia-covers-v3.1.0';
 const MAX_CACHED_COVERS = 100;
 
 const SHELL_ASSETS = [

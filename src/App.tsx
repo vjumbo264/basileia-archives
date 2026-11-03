@@ -71,36 +71,41 @@ export default function App() {
     setLoading(true);
     setError(null);
 
-    // 1. First try relative /catalog.json (fastest when served locally or bundled)
-    try {
-      const res = await fetch('/catalog.json?v=' + Date.now());
-      if (res.ok) {
-        const data: CatalogData = await res.json();
-        if (data && Array.isArray(data.episodes) && data.episodes.length > 0) {
-          setCatalog(data);
-          setLoading(false);
-          return;
-        }
-      }
-    } catch (e) {
-      // Continue to fallback
-    }
+    let currentBest: CatalogData | null = null;
 
-    // 2. Fallback to raw GitHub usercontent URL
-    try {
-      const res = await fetch(RAW_CATALOG_URL + '?v=' + Date.now());
-      if (res.ok) {
-        const data: CatalogData = await res.json();
-        if (data && Array.isArray(data.episodes)) {
-          setCatalog(data);
-          setLoading(false);
-          return;
-        }
+    const applyCatalogIfBetter = (newData: CatalogData) => {
+      if (!newData || !Array.isArray(newData.episodes) || newData.episodes.length === 0) return;
+      if (
+        !currentBest ||
+        newData.episodes.length > currentBest.episodes.length ||
+        new Date(newData.updatedAt).getTime() > new Date(currentBest.updatedAt).getTime()
+      ) {
+        currentBest = newData;
+        setCatalog(newData);
+        setLoading(false);
       }
-      throw new Error(`Failed to load archive catalog (HTTP ${res.status})`);
-    } catch (err: any) {
-      console.error('Failed to fetch catalog:', err);
-      setError(err.message || 'Could not connect to archive catalog. Please check your network and try again.');
+    };
+
+    // 1. First try relative /catalog.json (fastest when served locally or bundled)
+    const localFetch = fetch('/catalog.json?v=' + Date.now())
+      .then(res => (res.ok ? res.json() : null))
+      .then(data => {
+        if (data) applyCatalogIfBetter(data);
+      })
+      .catch(() => {});
+
+    // 2. Concurrently fetch raw GitHub usercontent URL to guarantee all latest 2025/2026/future audio
+    const rawFetch = fetch(RAW_CATALOG_URL + '?v=' + Date.now())
+      .then(res => (res.ok ? res.json() : null))
+      .then(data => {
+        if (data) applyCatalogIfBetter(data);
+      })
+      .catch(() => {});
+
+    await Promise.allSettled([localFetch, rawFetch]);
+
+    if (!currentBest) {
+      setError('Could not connect to archive catalog. Please check your network and try again.');
       setLoading(false);
     }
   };

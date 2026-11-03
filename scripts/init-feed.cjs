@@ -107,6 +107,15 @@ function generateCatalog(episodesState, outputPath, repoFull) {
 
   fs.writeFileSync(outputPath, JSON.stringify(catalog, null, 2), 'utf8');
   console.log(`Generated slim catalog.json with ${episodes.length} done episodes (${(fs.statSync(outputPath).size / 1024).toFixed(1)} KB)`);
+
+  // Synchronize to public/catalog.json for Vite builds and Cloudflare Worker static deployment
+  try {
+    const publicCatalogPath = path.resolve(__dirname, '../public/catalog.json');
+    fs.writeFileSync(publicCatalogPath, JSON.stringify(catalog, null, 2), 'utf8');
+    console.log(`Synchronized public/catalog.json with ${episodes.length} episodes`);
+  } catch (err) {
+    console.warn('Could not sync public/catalog.json:', err.message);
+  }
 }
 
 async function main() {

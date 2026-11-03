@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - 'src/**'
+      - 'public/**'
+      - 'catalog.json'
       - 'index.html'
       - 'package.json'
       - 'wrangler.toml'

@@ -161,8 +161,8 @@ The user interface of Basileia Archives features an automatic light/dark mode an
 
 ### Service Worker Caching Architecture
 - Located at `public/sw.js` (registered in `src/main.tsx`).
-- Cache names: `basileia-shell-v3.0.0`, `basileia-catalog-v3.0.0`, and `basileia-covers-v3.0.0`.
+- Cache names: `basileia-shell-v3.1.0`, `basileia-catalog-v3.1.0`, and `basileia-covers-v3.1.0`.
 - **App Shell Cache**: Instant second-visit offline boot.
-- **Stale-While-Revalidate**: Instant catalog loading with background updates.
+- **Stale-While-Revalidate & Dual-Source Sync**: Instant catalog loading with background updates and automatic resolution of all latest releases (2016 through 2026+).
 - **LRU Cover Art Cache**: Capped at 100 images with automatic quota error resilience.
 - **Audio Never Cached**: Large audio streams bypass the Service Worker cache completely.

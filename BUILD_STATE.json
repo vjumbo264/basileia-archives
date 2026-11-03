@@ -162,7 +162,7 @@
   },
   "v3_ui": {
     "task": "Basileia Archives: automatic light/dark + clean premium UI",
-    "updatedAt": "2026-10-30T09:47:00.000Z",
+    "updatedAt": "2026-11-03T14:16:00.000Z",
     "phases": {
       "1_audit": {
         "status": "done",
@@ -249,6 +249,6 @@
     "screenshotDir": "docs/ui/v3/",
     "blocked_on_user": [],
     "todos": [],
-    "notes": "Phases 1-6 complete. Fully automatic light/dark theming via CSS tokens; Cormorant Garamond display pairing; 100% WCAG AA contrast; native audio container without filter hacks; versioned service worker v3.0.0; Cloudflare Workers static deployment verified live."
+    "notes": "Phases 1-6 complete. Fully automatic light/dark theming via CSS tokens; Cormorant Garamond display pairing; 100% WCAG AA contrast; native audio container without filter hacks; versioned service worker v3.1.0; catalog synchronization fixed across root, public, and dist (all episodes through 2026 available on site); automatic download pipeline confirmed active on 3-hour cron with auto-chaining and automated Cloudflare static deployment on newly published audio."
   }
 }

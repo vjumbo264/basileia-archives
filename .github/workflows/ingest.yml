@@ -113,3 +113,12 @@ jobs:
           else
             echo "All catalog episodes processed. No chaining needed."
           fi
+
+      - name: Trigger Static Site Deployment
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Dispatching Cloudflare site deployment to keep archive in sync..."
+          gh workflow run deploy.yml --repo "${{ github.repository }}" || echo "Deploy trigger queued or not needed"
+
