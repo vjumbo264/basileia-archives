@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-04T21:09:46.209Z",
+  "generatedAt": "2026-11-04T21:10:15.406Z",
   "totalEpisodes": 513,
   "episodes": [
     {
@@ -15510,15 +15510,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/uemxqkmwj2y6dchb/By_Faith_Isaac_More_Lesson_From_Jehovah_Jireh_Part_1_9pss7.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2026",
+        "assetName": "0513-2026-11-04-by-faith-isaac-more-lessons-from-jehovah.m4a",
+        "assetId": 710948223,
+        "bytes": 37535340,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0513 - 2026-11-04 - By Faith Isaac More Lessons From Jehovah Jireh [Part 1] — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0513-2026-11-04-by-faith-isaac-more-lessons-from-jehovah.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     }
   ]

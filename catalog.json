@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T21:09:46.215Z",
-  "totalEpisodes": 400,
+  "updatedAt": "2026-11-04T21:10:15.413Z",
+  "totalEpisodes": 401,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -8,6 +8,19 @@
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
   "episodes": [
+    {
+      "id": "0513-e6775424",
+      "number": 513,
+      "title": "By Faith Isaac: More Lessons From Jehovah Jireh [Part 1] — Alexander ’PAV’ Victor",
+      "date": "2026-11-04",
+      "year": 2026,
+      "durationSeconds": 4550,
+      "bytes": 37535340,
+      "description": "Genesis does not ask, \"where is the money?\" Or even \"where is the healing?\" Isaac asked one question: \"where is the lamb?\" That question becomes the burden of the entire Bible. Every page moves history toward one answer - not the provision of things, but the provision of a person. Whenever our great",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2026/0513-2026-11-04-by-faith-isaac-more-lessons-from-jehovah.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
     {
       "id": "0512-3e7e2878",
       "number": 512,
