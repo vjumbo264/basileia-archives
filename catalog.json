@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T00:21:43.728Z",
-  "totalEpisodes": 403,
+  "updatedAt": "2026-11-06T00:22:18.645Z",
+  "totalEpisodes": 404,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -3153,6 +3153,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0180-2021-09-03-word-consciousness-part-1-alexander-pav-.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/d15e57e76c1fc9ae71d354ac9b7f7548ae485c90e77a75159dbcf8423bae5e41.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/d15e57e76c1fc9ae71d354ac9b7f7548ae485c90e77a75159dbcf8423bae5e41.webp"
+    },
+    {
+      "id": "0179-cb7f2cfa",
+      "number": 179,
+      "title": "Rest Consciousness — Alexander ’PAV’ Victor",
+      "date": "2021-08-26",
+      "year": 2021,
+      "durationSeconds": 5587,
+      "bytes": 45571563,
+      "description": "The Peace of God in CHRiSt Jesus calls the believer into the realm of REST: rest that is a function of revelation; not a function of any work that the believer has done or should do. God did the work and completed it in CHRiSt Jesus; you have the rest! For inquires & bookings: Phone: +234 708 881 88",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0179-2021-08-26-rest-consciousness-alexander-pav-victor.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/b965999558e33e4a64b842208433dac5ad48fd27a6e3f6684cd1cd3670ea826d.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/b965999558e33e4a64b842208433dac5ad48fd27a6e3f6684cd1cd3670ea826d.webp"
     },
     {
       "id": "0177-8cc6967b",

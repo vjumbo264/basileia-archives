@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-06T00:21:43.722Z",
+  "generatedAt": "2026-11-06T00:22:18.639Z",
   "totalEpisodes": 513,
   "episodes": [
     {
@@ -5582,15 +5582,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/77qw9s/Peace_Rest_Consciousness_IIam4gr.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Rest_Consciousness6985r.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2021",
+        "assetName": "0179-2021-08-26-rest-consciousness-alexander-pav-victor.m4a",
+        "assetId": 715327746,
+        "bytes": 45571563,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0179 - 2021-08-26 - Rest Consciousness — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0179-2021-08-26-rest-consciousness-alexander-pav-victor.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "b965999558e33e4a64b842208433dac5ad48fd27a6e3f6684cd1cd3670ea826d",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
