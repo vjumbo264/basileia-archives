@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T00:19:12.066Z",
-  "totalEpisodes": 402,
+  "updatedAt": "2026-11-06T00:19:46.486Z",
+  "totalEpisodes": 403,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -3257,6 +3257,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0168-2021-06-24-imitate-part-25-alexander-pav-victor.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/7ce8cad267c93402fc310425615b8424d45afac13b8811b7f47073ca3f1c259b.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/7ce8cad267c93402fc310425615b8424d45afac13b8811b7f47073ca3f1c259b.webp"
+    },
+    {
+      "id": "0167-21e10abd",
+      "number": 167,
+      "title": "Living By The Spirit — Ovo Jonathan Onajemo",
+      "date": "2021-06-15",
+      "year": 2021,
+      "durationSeconds": 5718,
+      "bytes": 47241524,
+      "description": "Join Ovo Jonathan Onajemo, Lead Pastor of The Model Church, as he teaches with precision and power at CHRiStExperience on 'Living By The Spirit'. For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Twitter | Instagram: @WAHTheChurch Facebook: @TheBasileiaCommiss",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2021/0167-2021-06-15-living-by-the-spirit-ovo-jonathan-onajem.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/8fdb5cf620753fda99a0e81b4861533ece3cb3388ca461f3001c7307cb28ae79.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/8fdb5cf620753fda99a0e81b4861533ece3cb3388ca461f3001c7307cb28ae79.webp"
     },
     {
       "id": "0166-18e55b92",
