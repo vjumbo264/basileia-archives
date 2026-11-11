@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-11T21:42:57.724Z",
+  "generatedAt": "2026-11-11T21:43:31.738Z",
   "totalEpisodes": 514,
   "episodes": [
     {
@@ -3214,15 +3214,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/i9yp7d/CHRiSt_Our_Sufficiency.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3852959/Sufficiency.jpg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2020",
+        "assetName": "0101-2020-04-06-christ-our-sufficiency-pav.m4a",
+        "assetId": 737009833,
+        "bytes": 44365565,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0101 - 2020-04-06 - CHRiSt, Our Sufficiency — PAV.m4a",
       "suggestedAssetName": "0101-2020-04-06-christ-our-sufficiency-pav.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "6f2a313cef6324511e7b667b0ae8aed7e75738a54b429dc96d5d64ceef7f1376",
         "hasOwn": true
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {

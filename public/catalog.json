@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-11T21:42:57.732Z",
-  "totalEpisodes": 407,
+  "updatedAt": "2026-11-11T21:43:31.745Z",
+  "totalEpisodes": 408,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -4011,6 +4011,19 @@
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0103-2020-04-06-attention-change-of-location-pav.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/705b244097d951b066ae2e74fdc14d87c03d73ab6c810881a09e7622158399ea.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/705b244097d951b066ae2e74fdc14d87c03d73ab6c810881a09e7622158399ea.webp"
+    },
+    {
+      "id": "0101-817d7aac",
+      "number": 101,
+      "title": "CHRiSt, Our Sufficiency — PAV",
+      "date": "2020-04-06",
+      "year": 2020,
+      "durationSeconds": 5342,
+      "bytes": 44365565,
+      "description": "'God is able to make all grace abound towards you, that you, having ALL sufficiency in ALL things...' You need to listen to this one, especially in these times! For inquires & bookings: Phone: +234 708 881 8864 Email: thebasileiacommisssion@gmail.com Facebook: @TheBasileiaCommission Twitter: @TheBas",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2020/0101-2020-04-06-christ-our-sufficiency-pav.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/6f2a313cef6324511e7b667b0ae8aed7e75738a54b429dc96d5d64ceef7f1376.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/6f2a313cef6324511e7b667b0ae8aed7e75738a54b429dc96d5d64ceef7f1376.webp"
     },
     {
       "id": "0100-a509d261",
