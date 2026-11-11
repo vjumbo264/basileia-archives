@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-11T22:33:44.420Z",
-  "totalEpisodes": 410,
+  "updatedAt": "2026-11-11T22:34:19.294Z",
+  "totalEpisodes": 411,
   "show": {
     "title": "Basileia Archives",
     "subtitle": "Messages by Pastor Alexander Victor",
@@ -1071,6 +1071,19 @@
       "bytes": 42273638,
       "description": "A deep dive into Hebrews 6:4-6. This teaching is a divine resource for everything pertaining to God's Sons and the Hope of Eternal life with Him. The Age to come is God's eternal prophetic agenda; Salvation apart from Sin. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacomm",
       "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0407-2025-05-21-the-power-of-the-age-to-come-part-iv-ale.m4a",
+      "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
+      "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
+    },
+    {
+      "id": "0404-4c52a040",
+      "number": 404,
+      "title": "The Power of The Age To Come [Part I] — Alexander ’PAV’ Victor",
+      "date": "2025-05-11",
+      "year": 2025,
+      "durationSeconds": 6209,
+      "bytes": 51212543,
+      "description": "A deep dive into Hebrews 6:4-6. This teaching is a divine resource for everything pertaining to God's Sons and the Hope of Eternal life with Him. The Age to come is God's eternal prophetic agenda; Salvation apart from Sin. For inquires & bookings: Phone: +234 708 881 8864 Email: info@thebasileiacomm",
+      "audioUrl": "https://github.com/vjumbo264/basileia-archives/releases/download/audio-2025/0404-2025-05-11-the-power-of-the-age-to-come-part-i-alex.m4a",
       "coverThumbUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/thumb/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp",
       "coverLargeUrl": "https://raw.githubusercontent.com/vjumbo264/basileia-archives/main/assets/covers/large/09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798.webp"
     },
