@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-15T15:06:20.409Z",
+  "generatedAt": "2026-11-15T15:06:55.923Z",
   "totalEpisodes": 514,
   "episodes": [
     {
@@ -13110,15 +13110,23 @@
         "enclosureUrl": "https://mcdn.podbean.com/mf/web/98tr9qrj8ef4exdw/The_Yoke_Of_Grace_Taking_On_The_Lord_s_Burden_A_Forensic_Exegesis_Part_376hym.mp3",
         "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
       },
-      "audio": null,
+      "audio": {
+        "releaseTag": "audio-2025",
+        "assetName": "0430-2025-09-04-the-yoke-of-grace-taking-on-the-lord-s-b.m4a",
+        "assetId": 751363527,
+        "bytes": 49201355,
+        "codec": "aac",
+        "channels": 1,
+        "bitrateKbps": 64
+      },
       "friendlyDownloadName": "0430 - 2025-09-04 - The Yoke Of Grace; Taking On The Lord's Burden [A Forensic Exegesis] Part 3 — Alexander ’PAV’ Victor.m4a",
       "suggestedAssetName": "0430-2025-09-04-the-yoke-of-grace-taking-on-the-lord-s-b.m4a",
       "cover": {
-        "sha256": null,
+        "sha256": "09e58162cf1054bf92c661bb126d5f8954a81804e806933941ae53fa40bd3798",
         "hasOwn": false
       },
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "lastError": null
     },
     {
