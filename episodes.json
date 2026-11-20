@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-20T11:17:12.020Z",
+  "generatedAt": "2026-11-20T12:07:26.044Z",
   "totalEpisodes": 514,
   "episodes": [
     {
@@ -12390,8 +12390,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 0,
-      "lastError": null
+      "attempts": 1,
+      "lastError": "Command failed: curl -s -S -L --retry 4 --retry-delay 3 --retry-connrefused --max-time 600 -A \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" -o \"/home/runner/work/basileia-archives/basileia-archives/work/ep-406/source.audio\" \"https://mcdn.podbean.com/mf/web/yjcwwwivd7nctb93/The_Power_Of_The_Age_To_Come_Part_III_7hzbe.mp3\"\ncurl: (28) Operation timed out after 600019 milliseconds with 40992290 out of 245606425 bytes received\ncurl: (28) Operation timed out after 600107 milliseconds with 28769826 out of 245606425 bytes received\ncurl: (28) Operation timed out after 600024 milliseconds with 29474338 out of 245606425 bytes received\ncurl: (28) Operation timed out after 600020 milliseconds with 36126242 out of 245606425 bytes received\ncurl: (28) Operation timed out after 600009 milliseconds with 35487266 out of 245606425 bytes received\n"
     },
     {
       "id": "0407-96bd2a4d",
