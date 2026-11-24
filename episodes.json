@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-24T21:27:59.945Z",
+  "generatedAt": "2026-11-24T22:18:14.010Z",
   "totalEpisodes": 514,
   "episodes": [
     {
@@ -12254,8 +12254,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 0,
-      "lastError": null
+      "attempts": 1,
+      "lastError": "Command failed: curl -s -S -L --retry 4 --retry-delay 3 --retry-connrefused --max-time 600 -A \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" -o \"/home/runner/work/basileia-archives/basileia-archives/work/ep-401/source.audio\" \"https://mcdn.podbean.com/mf/web/bgzzqu5tsxb56zpk/CHRiSt_Alone6jlmw.mp3\"\ncurl: (28) Operation timed out after 600002 milliseconds with 49774114 out of 259762676 bytes received\ncurl: (28) Operation timed out after 600031 milliseconds with 57982498 out of 259762676 bytes received\ncurl: (28) Operation timed out after 600027 milliseconds with 63290914 out of 259762676 bytes received\ncurl: (28) Operation timed out after 600014 milliseconds with 67976738 out of 259762676 bytes received\ncurl: (28) Operation timed out after 600034 milliseconds with 70172194 out of 259762676 bytes received\n"
     },
     {
       "id": "0402-9f88fbcd",
