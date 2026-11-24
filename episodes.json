@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-24T22:23:11.139Z",
+  "generatedAt": "2026-11-24T23:13:25.439Z",
   "totalEpisodes": 514,
   "episodes": [
     {
@@ -13158,8 +13158,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 0,
-      "lastError": null
+      "attempts": 1,
+      "lastError": "Command failed: curl -s -S -L --retry 4 --retry-delay 3 --retry-connrefused --max-time 600 -A \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" -o \"/home/runner/work/basileia-archives/basileia-archives/work/ep-431/source.audio\" \"https://mcdn.podbean.com/mf/web/a3bxtx4iiecemjue/The_Yoke_Of_Grace_Taking_On_The_Lord_s_Burden_A_Forensic_Exegesis_Part_47lo2y.mp3\"\ncurl: (28) Operation timed out after 600048 milliseconds with 52084257 out of 384449331 bytes received\ncurl: (28) Operation timed out after 600006 milliseconds with 53132833 out of 384449331 bytes received\ncurl: (28) Operation timed out after 600081 milliseconds with 52231713 out of 384449331 bytes received\ncurl: (28) Operation timed out after 600039 milliseconds with 52887073 out of 384449331 bytes received\ncurl: (28) Operation timed out after 600172 milliseconds with 50593313 out of 384449331 bytes received\n"
     },
     {
       "id": "0432-2e315bde",
