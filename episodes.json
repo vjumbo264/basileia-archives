@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-25T04:02:28.798Z",
+  "generatedAt": "2026-11-25T04:32:40.480Z",
   "totalEpisodes": 514,
   "episodes": [
     {
@@ -12254,8 +12254,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 0,
-      "lastError": null
+      "attempts": 1,
+      "lastError": "Command failed: ffmpeg -y -i \"/home/runner/work/basileia-archives/basileia-archives/work/ep-401/source.audio\" -i \"/home/runner/work/basileia-archives/basileia-archives/work/ep-401/cover_600.jpg\" -map 0:a:0 -map 1:v:0 -c:a aac -b:a 64k -ac 1 -ar 44100 -c:v mjpeg -disposition:v:0 attached_pic -movflags +faststart -metadata title=\"CHRiSt ALONE — Alexander ’PAV’ Victor\" -metadata artist=\"The Basileia Commission\" -metadata album=\"The Truth Simply Put with PAV\" -metadata date=\"2025-04-01\" -metadata track=\"401\" -metadata genre=\"Podcast\" \"/home/runner/work/basileia-archives/basileia-archives/work/ep-401/0401-2025-04-01-christ-alone-alexander-pav-victor.m4a\""
     },
     {
       "id": "0402-9f88fbcd",
