@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-24T23:23:46.276Z",
+  "generatedAt": "2026-11-25T00:14:00.305Z",
   "totalEpisodes": 514,
   "episodes": [
     {
@@ -13830,8 +13830,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 0,
-      "lastError": null
+      "attempts": 1,
+      "lastError": "Command failed: curl -s -S -L --retry 4 --retry-delay 3 --retry-connrefused --max-time 600 -A \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" -o \"/home/runner/work/basileia-archives/basileia-archives/work/ep-455/source.audio\" \"https://mcdn.podbean.com/mf/web/vfht35jwc9zkp8gw/Church_Consciousness_20_The_Value_System_Of_The_Church_Part_V_Alexander_PAV_Victorbn18m.mp3\"\ncurl: (28) Operation timed out after 600043 milliseconds with 48299553 out of 286982294 bytes received\ncurl: (28) Operation timed out after 600016 milliseconds with 54705697 out of 286982294 bytes received\ncurl: (28) Operation timed out after 600002 milliseconds with 55868961 out of 286982294 bytes received\ncurl: (28) Operation timed out after 600028 milliseconds with 52805153 out of 286982294 bytes received\ncurl: (28) Operation timed out after 600013 milliseconds with 51363361 out of 286982294 bytes received\n"
     },
     {
       "id": "0456-c5d40595",
