@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-27T05:33:18.807Z",
+  "generatedAt": "2026-11-27T06:23:32.747Z",
   "totalEpisodes": 514,
   "episodes": [
     {
@@ -13302,8 +13302,8 @@
         "hasOwn": false
       },
       "status": "pending",
-      "attempts": 0,
-      "lastError": null
+      "attempts": 1,
+      "lastError": "Command failed: curl -s -S -L --retry 4 --retry-delay 3 --retry-connrefused --max-time 600 -A \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" -o \"/home/runner/work/basileia-archives/basileia-archives/work/ep-437/source.audio\" \"https://mcdn.podbean.com/mf/web/kap8ac57rdps43ag/Understanding_The_Goodness_Of_God_Goodness_Consciousness_-_Part_VIb37ez.mp3\"\ncurl: (28) Operation timed out after 600074 milliseconds with 43417121 out of 327929755 bytes received\ncurl: (28) Operation timed out after 600015 milliseconds with 41123361 out of 327929755 bytes received\ncurl: (28) Operation timed out after 600025 milliseconds with 42122785 out of 327929755 bytes received\ncurl: (28) Operation timed out after 600019 milliseconds with 43335201 out of 327929755 bytes received\ncurl: (28) Operation timed out after 600026 milliseconds with 42794529 out of 327929755 bytes received\n"
     },
     {
       "id": "0438-e321f445",
