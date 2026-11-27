@@ -6,7 +6,7 @@
     "description": "Podcast for ‘The Truth Simply Put‘, our broadcast & teaching series as taught primarily by Pastor Alexander Victor, UnderShepherd of Word-Abiding House & Visionary of The Basileia Commission.",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/3852959/TSP_DPjpg_4mnkqa.jpeg"
   },
-  "generatedAt": "2026-11-27T00:22:41.024Z",
+  "generatedAt": "2026-11-27T01:12:55.756Z",
   "totalEpisodes": 514,
   "episodes": [
     {
@@ -8294,8 +8294,8 @@
         "hasOwn": true
       },
       "status": "pending",
-      "attempts": 0,
-      "lastError": null
+      "attempts": 1,
+      "lastError": "Command failed: curl -s -S -L --retry 4 --retry-delay 3 --retry-connrefused --max-time 600 -A \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" -o \"/home/runner/work/basileia-archives/basileia-archives/work/ep-270/source.audio\" \"https://mcdn.podbean.com/mf/web/tf9p4v/What_Purpose_Does_The_Law_Serve_Part_147sx8f.mp3\"\ncurl: (28) Operation timed out after 600012 milliseconds with 76152354 out of 156175305 bytes received\ncurl: (28) Operation timed out after 600142 milliseconds with 77774370 out of 156175305 bytes received\ncurl: (28) Operation timed out after 600133 milliseconds with 84835874 out of 156175305 bytes received\ncurl: (28) Operation timed out after 600016 milliseconds with 83525154 out of 156175305 bytes received\ncurl: (28) Operation timed out after 600023 milliseconds with 84229666 out of 156175305 bytes received\n"
     },
     {
       "id": "0271-32be17a4",
